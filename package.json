@@ -1,0 +1,14 @@
+{
+  "name": "imperial-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "counter.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^10.1.2"
+  }
+}
