@@ -8,4 +8,4 @@ yarn start
 
 ## Progression
 
-Counter -> Counter FizzBuzz -> Counter React -> Counter JSX
+Counter -> Counter FizzBuzz -> Counter React Element -> Counter React -> Counter JSX
