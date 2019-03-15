@@ -17,17 +17,17 @@ function getLabelText() {
 }
 
 // View
-const domContainer = document.getElementById("container");
+const domContainer = document.getElementById('container');
 
-const label = document.createElement("p");
+const label = document.createElement('p');
 label.textContent = getLabelText();
 
-const plusButton = document.createElement("button");
-plusButton.textContent = "+";
+const plusButton = document.createElement('button');
+plusButton.textContent = '+';
 plusButton.onclick = plusClicked;
 
-const minusButton = document.createElement("button");
-minusButton.textContent = "-";
+const minusButton = document.createElement('button');
+minusButton.textContent = '-';
 minusButton.onclick = minusClicked;
 
 domContainer.appendChild(label);
