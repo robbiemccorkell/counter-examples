@@ -1,5 +1,5 @@
 import data from './commons.js';
-const commons = data.commons;
+const { commons } = data;
 
 /*
 Schema

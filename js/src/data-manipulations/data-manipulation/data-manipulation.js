@@ -44,7 +44,7 @@ Markup
 */
 
 // Model
-const commons = data.commons;
+const { commons } = data;
 
 // View
 const domContainer = document.body;
