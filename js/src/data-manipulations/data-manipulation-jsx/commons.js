@@ -1,4 +1,4 @@
-export default {
+const data = {
   updatedAt: 'Fri Mar 15 2019',
   commons: [
     {

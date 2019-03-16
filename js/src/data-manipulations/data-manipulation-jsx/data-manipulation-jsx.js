@@ -1,4 +1,3 @@
-import data from './commons.js';
 const { commons } = data;
 
 /*
@@ -17,34 +16,41 @@ Schema
 },
 */
 
-const Mp = mp => (
-  <section>
-    <h2>{mp.addressAs}</h2>
-    <dl>
-      <dt>Constituency</dt>
-      <dd>{mp.constituency}</dd>
-      <dt>Email</dt>
-      <dd>{mp.email}</dd>
-      <dt>Name</dt>
-      <dd>{mp.name}</dd>
-      <dt>Party</dt>
-      <dd>{mp.party}</dd>
-      <dt>Twitter</dt>
-      <dd>
-        <dl>
-          <dt>Handler</dt>
-          <dd>{mp.twitter.hadler}</dd>
-          <dt>Url</dt>
-          <dd>{mp.twitter.url}</dd>
-        </dl>
-      </dd>
-      <dt>Website</dt>
-      <dd>{mp.website}</dd>
-    </dl>
-  </section>
-);
+const Mp = props => {
+  const { mp } = props;
+  return (
+    <section>
+      <h2>{mp.addressAs}</h2>
+      <dl>
+        {mp.constituency ? <dt>Constituency</dt> : ''}
+        {mp.constituency ? <dd>{mp.constituency}</dd> : ''}
+        {mp.email ? <dt>Email</dt> : ''}
+        {mp.email ? <dd>{mp.email}</dd> : ''}
+        {mp.name ? <dt>Name</dt> : ''}
+        {mp.name ? <dd>{mp.name}</dd> : ''}
+        {mp.party ? <dt>Party</dt> : ''}
+        {mp.party ? <dd>{mp.party}</dd> : ''}
+        {mp.twitter.handler ? <dt>Twitter</dt> : ''}
+        {mp.twitter.handler ? (
+          <dd>
+            <dl>
+              <dt>Handler</dt>
+              <dd>{mp.twitter.handler}</dd>
+              <dt>Url</dt>
+              <dd>{mp.twitter.url}</dd>
+            </dl>
+          </dd>
+        ) : (
+          ''
+        )}
+        {mp.website ? <dt>Website</dt> : ''}
+        {mp.website ? <dd>{mp.website}</dd> : ''}
+      </dl>
+    </section>
+  );
+};
 
-const Commons = () => commons.map(mp => Mp(mp));
+const Commons = () => commons.map(mp => <Mp key={mp.addressAs} mp={mp} />);
 
-const domContainer = document.body;
+const domContainer = document.getElementById('container');
 ReactDOM.render(<Commons />, domContainer);
