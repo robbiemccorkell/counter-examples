@@ -8,7 +8,7 @@ export default {
       name: 'Ms Abbott',
       party: 'Labour',
       twitter: {
-        handler: '@hackneyabbott',
+        username: '@hackneyabbott',
         url: 'https://twitter.com/HackneyAbbott',
       },
       website: 'http://www.dianeabbott.org.uk/',
@@ -20,7 +20,7 @@ export default {
       name: 'Debbie Abrahams',
       party: 'Labour',
       twitter: {
-        handler: '@debbie_abrahams',
+        username: '@debbie_abrahams',
         url: 'https://twitter.com/Debbie_abrahams',
       },
       website: 'http://www.debbieabrahams.org.uk/',
@@ -31,7 +31,7 @@ export default {
       email: 'nigel.adams.mp@parliament.uk',
       name: 'Nigel Adams',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.selbyandainsty.com/',
     },
     {
@@ -41,7 +41,7 @@ export default {
       name: 'Bim Afolami',
       party: 'Conservative',
       twitter: {
-        handler: '@bimafolami',
+        username: '@bimafolami',
         url: 'https://twitter.com/BimAfolami',
       },
       website: null,
@@ -53,7 +53,7 @@ export default {
       name: 'Adam Afriyie',
       party: 'Conservative',
       twitter: {
-        handler: '@adamafriyie',
+        username: '@adamafriyie',
         url: 'https://twitter.com/AdamAfriyie',
       },
       website: 'http://www.adamafriyie.org/',
@@ -65,7 +65,7 @@ export default {
       name: 'Peter Aldous',
       party: 'Conservative',
       twitter: {
-        handler: '@peter_aldous',
+        username: '@peter_aldous',
         url: 'https://twitter.com/peter_aldous',
       },
       website: 'http://www.peteraldous.com/',
@@ -77,7 +77,7 @@ export default {
       name: 'Rushanara Ali',
       party: 'Labour',
       twitter: {
-        handler: '@rushanaraali',
+        username: '@rushanaraali',
         url: 'https://twitter.com/rushanaraali',
       },
       website: 'http://www.rushanaraali.org/',
@@ -88,7 +88,7 @@ export default {
       email: 'lucy.allan.mp@parliament.uk',
       name: 'Lucy Allan',
       party: 'Conservative',
-      twitter: { handler: '@lucyallan', url: 'https://twitter.com/lucyallan' },
+      twitter: { username: '@lucyallan', url: 'https://twitter.com/lucyallan' },
       website: 'http://www.lucyallan.com/',
     },
     {
@@ -98,7 +98,7 @@ export default {
       name: 'Heidi Allen',
       party: 'Independent',
       twitter: {
-        handler: '@heidiallen75',
+        username: '@heidiallen75',
         url: 'https://twitter.com/heidiallen75',
       },
       website: 'http://www.heidisouthcambs.co.uk/',
@@ -109,7 +109,7 @@ export default {
       email: 'rosena.allinkhan.mp@parliament.uk',
       name: 'Dr Rosena Allin-Khan',
       party: 'Labour',
-      twitter: { handler: '@drrosena', url: 'https://twitter.com/DrRosena' },
+      twitter: { username: '@drrosena', url: 'https://twitter.com/DrRosena' },
       website: 'http://tootinglabour.com/',
     },
     {
@@ -119,7 +119,7 @@ export default {
       name: 'Mike Amesbury',
       party: 'Labour',
       twitter: {
-        handler: '@mikeamesbury',
+        username: '@mikeamesbury',
         url: 'https://twitter.com/MikeAmesbury',
       },
       website: null,
@@ -130,7 +130,7 @@ export default {
       email: 'amessd@parliament.uk',
       name: 'Sir David',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.davidamess.co.uk/',
     },
     {
@@ -140,7 +140,7 @@ export default {
       name: 'Stuart Andrew',
       party: 'Conservative',
       twitter: {
-        handler: '@stuartandrew',
+        username: '@stuartandrew',
         url: 'https://twitter.com/stuartandrew',
       },
       website: null,
@@ -152,7 +152,7 @@ export default {
       name: 'Tonia Antoniazzi',
       party: 'Labour',
       twitter: {
-        handler: '@toniaantoniazzi',
+        username: '@toniaantoniazzi',
         url: 'https://twitter.com/ToniaAntoniazzi',
       },
       website: 'http://www.toniaantoniazzi.co.uk/',
@@ -163,7 +163,7 @@ export default {
       email: 'edward.argar.mp@parliament.uk',
       name: 'Edward Argar',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -173,7 +173,7 @@ export default {
       name: 'Jonathan Ashworth',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@jonashworth',
+        username: '@jonashworth',
         url: 'https://twitter.com/JonAshworth',
       },
       website: 'http://www.jonashworth.org/',
@@ -184,7 +184,7 @@ export default {
       email: 'Victoria@victoriaatkins.org.uk',
       name: 'Victoria Atkins',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.victoriaatkins.org.uk/',
     },
     {
@@ -194,7 +194,7 @@ export default {
       name: 'Ian Austin',
       party: 'Independent',
       twitter: {
-        handler: '@ianaustinmp',
+        username: '@ianaustinmp',
         url: 'https://twitter.com/IanAustinMP',
       },
       website: 'http://www.ianaustin.co.uk/',
@@ -205,7 +205,7 @@ export default {
       email: 'richardbaconmp@parliament.uk',
       name: 'Mr Bacon',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.richardbacon.org.uk/',
     },
     {
@@ -215,7 +215,7 @@ export default {
       name: 'Mrs Badenoch',
       party: 'Conservative',
       twitter: {
-        handler: '@kemibadenoch',
+        username: '@kemibadenoch',
         url: 'https://twitter.com/KemiBadenoch',
       },
       website: null,
@@ -227,7 +227,7 @@ export default {
       name: 'Mr Bailey',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@adrianbaileymp',
+        username: '@adrianbaileymp',
         url: 'https://twitter.com/AdrianBaileyMP',
       },
       website: null,
@@ -239,7 +239,7 @@ export default {
       name: 'Mr Baker',
       party: 'Conservative',
       twitter: {
-        handler: '@stevebakerhw',
+        username: '@stevebakerhw',
         url: 'https://twitter.com/stevebakerhw',
       },
       website: 'http://www.stevebaker.info/',
@@ -251,7 +251,7 @@ export default {
       name: 'Harriett Baldwin',
       party: 'Conservative',
       twitter: {
-        handler: '@hbaldwinmp',
+        username: '@hbaldwinmp',
         url: 'https://twitter.com/HBaldwinMP',
       },
       website: 'http://www.harriettbaldwin.com/',
@@ -263,7 +263,7 @@ export default {
       name: 'Stephen Barclay',
       party: 'Conservative',
       twitter: {
-        handler: '@stevebarclaymp',
+        username: '@stevebarclaymp',
         url: 'https://twitter.com/SteveBarclayMP',
       },
       website: 'http://www.stevebarclay.net/',
@@ -275,7 +275,7 @@ export default {
       name: 'Hannah Bardell',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@hannahb4livimp',
+        username: '@hannahb4livimp',
         url: 'https://twitter.com/hannahb4livimp',
       },
       website: null,
@@ -286,7 +286,7 @@ export default {
       email: 'baronj@parliament.uk',
       name: 'Mr Baron',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.johnbaron.co.uk/',
     },
     {
@@ -295,7 +295,7 @@ export default {
       email: 'barronk@parliament.uk',
       name: 'Sir Kevin',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.kevinbarronmp.com/',
     },
     {
@@ -304,7 +304,7 @@ export default {
       email: 'guto.bebb.mp@parliament.uk',
       name: 'Guto Bebb',
       party: 'Conservative',
-      twitter: { handler: '@gutobebb', url: 'https://twitter.com/GutoBebb' },
+      twitter: { username: '@gutobebb', url: 'https://twitter.com/GutoBebb' },
       website: 'http://www.gutobebb.org.uk/',
     },
     {
@@ -313,7 +313,7 @@ export default {
       email: 'margaret.beckett.mp@parliament.uk',
       name: 'Margaret Beckett',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -322,7 +322,7 @@ export default {
       email: null,
       name: '',
       party: 'Sinn Féin',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -331,7 +331,7 @@ export default {
       email: 'bellinghamh@parliament.uk',
       name: 'Sir Henry Bellingham',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.henrybellingham.com/',
     },
     {
@@ -341,7 +341,7 @@ export default {
       name: 'Hilary Benn',
       party: 'Labour',
       twitter: {
-        handler: '@hilarybennmp',
+        username: '@hilarybennmp',
         url: 'https://twitter.com/hilarybennmp',
       },
       website: 'http://www.hilarybennmp.com/',
@@ -353,7 +353,7 @@ export default {
       name: 'Richard Benyon',
       party: 'Conservative',
       twitter: {
-        handler: '@richardbenyonmp',
+        username: '@richardbenyonmp',
         url: 'https://twitter.com/RichardBenyonMP',
       },
       website: 'http://www.richardbenyon.com/',
@@ -364,7 +364,7 @@ export default {
       email: 'speakersoffice@parliament.uk',
       name: 'Mr Speaker',
       party: 'Speaker',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.johnbercow.co.uk/',
     },
     {
@@ -373,7 +373,7 @@ export default {
       email: 'annie.winsbury@parliament.uk',
       name: 'Sir Paul',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.molevalleyconservatives.org.uk/',
     },
     {
@@ -383,7 +383,7 @@ export default {
       name: 'Luciana Berger',
       party: 'Independent',
       twitter: {
-        handler: '@lucianaberger',
+        username: '@lucianaberger',
         url: 'https://twitter.com/lucianaberger',
       },
       website: 'http://www.lucianaberger.com/',
@@ -394,7 +394,7 @@ export default {
       email: 'jake.berry.mp@parliament.uk',
       name: 'Jake Berry',
       party: 'Conservative',
-      twitter: { handler: '@jakeberry', url: 'https://twitter.com/jakeberry' },
+      twitter: { username: '@jakeberry', url: 'https://twitter.com/jakeberry' },
       website: 'http://jakeberry.org/',
     },
     {
@@ -404,7 +404,7 @@ export default {
       name: 'Mr Betts',
       party: 'Labour',
       twitter: {
-        handler: '@clivebettsmp',
+        username: '@clivebettsmp',
         url: 'https://twitter.com/CliveBettsMP',
       },
       website: 'http://www.clivebetts.com/',
@@ -416,7 +416,7 @@ export default {
       name: 'Mhairi Black',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@mhairiblack',
+        username: '@mhairiblack',
         url: 'https://twitter.com/MhairiBlack',
       },
       website: 'http://www.mhairiblack.scot/',
@@ -427,7 +427,7 @@ export default {
       email: 'ian.blackford.mp@parliament.uk',
       name: 'Ian Blackford',
       party: 'Scottish National Party',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'https://ianblackford.scot/',
     },
     {
@@ -437,7 +437,7 @@ export default {
       name: 'Bob Blackman',
       party: 'Conservative',
       twitter: {
-        handler: '@bobblackmanmp',
+        username: '@bobblackmanmp',
         url: 'https://twitter.com/BobBlackmanMP',
       },
       website: 'http://www.bobblackmanmp.com/',
@@ -448,7 +448,7 @@ export default {
       email: 'kirsty.blackman.mp@parliament.uk',
       name: 'Kirsty Blackman',
       party: 'Scottish National Party',
-      twitter: { handler: '@kirstysnp', url: 'https://twitter.com/KirstySNP' },
+      twitter: { username: '@kirstysnp', url: 'https://twitter.com/KirstySNP' },
       website: 'http://www.snp.org/kirsty_blackman',
     },
     {
@@ -458,7 +458,7 @@ export default {
       name: 'Dr Blackman-Woods',
       party: 'Labour',
       twitter: {
-        handler: '@robertabwmp',
+        username: '@robertabwmp',
         url: 'https://twitter.com/robertabwMP',
       },
       website: 'http://www.roberta.org.uk/',
@@ -470,7 +470,7 @@ export default {
       name: 'Paul Blomfield',
       party: 'Labour',
       twitter: {
-        handler: '@paulblomfieldmp',
+        username: '@paulblomfieldmp',
         url: 'https://twitter.com/PaulBlomfieldMP',
       },
       website: 'http://www.paulblomfield.co.uk/',
@@ -482,7 +482,7 @@ export default {
       name: 'Mr Blunt',
       party: 'Conservative',
       twitter: {
-        handler: '@crispinbluntmp',
+        username: '@crispinbluntmp',
         url: 'https://twitter.com/crispinbluntmp',
       },
       website: 'http://www.blunt4reigate.com/',
@@ -494,7 +494,7 @@ export default {
       name: 'Nick Boles',
       party: 'Conservative',
       twitter: {
-        handler: '@nickbolesmp',
+        username: '@nickbolesmp',
         url: 'https://twitter.com/NickBolesMP',
       },
       website: 'http://www.nickboles.co.uk/',
@@ -506,7 +506,7 @@ export default {
       name: 'Mr Bone',
       party: 'Conservative',
       twitter: {
-        handler: '@peterbonemp',
+        username: '@peterbonemp',
         url: 'https://twitter.com/PeterBoneMP',
       },
       website: 'http://www.wellingboroughconservatives.org/',
@@ -517,7 +517,7 @@ export default {
       email: 'bottomleyp@parliament.uk',
       name: 'Sir Peter',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.sirpeterbottomley.com/',
     },
     {
@@ -526,7 +526,7 @@ export default {
       email: 'andrew.bowie.mp@parliament.uk',
       name: 'Andrew Bowie',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'https://www.andrewbowie.org.uk/',
     },
     {
@@ -536,7 +536,7 @@ export default {
       name: 'Tracy Brabin',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@tracybrabin',
+        username: '@tracybrabin',
         url: 'https://twitter.com/tracybrabin',
       },
       website: 'https://tracybrabinmp.com/%20',
@@ -548,7 +548,7 @@ export default {
       name: 'Ben Bradley',
       party: 'Conservative',
       twitter: {
-        handler: '@bbradleymp',
+        username: '@bbradleymp',
         url: 'https://twitter.com/bbradleymp',
       },
       website: 'https://www.benbradleymp.com/',
@@ -559,7 +559,7 @@ export default {
       email: 'karen.bradley.mp@parliament.uk',
       name: '',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.karenbradley.co.uk/',
     },
     {
@@ -569,7 +569,7 @@ export default {
       name: 'Mr Bradshaw',
       party: 'Labour',
       twitter: {
-        handler: '@benpbradshaw',
+        username: '@benpbradshaw',
         url: 'https://twitter.com/BenPBradshaw',
       },
       website: 'http://www.benbradshaw.co.uk/',
@@ -580,7 +580,7 @@ export default {
       email: 'altsale@parliament.uk',
       name: '',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.grahambrady.co.uk/',
     },
     {
@@ -590,7 +590,7 @@ export default {
       name: 'Mr Brady',
       party: 'Sinn Féin',
       twitter: {
-        handler: '@mickeybrady4mp',
+        username: '@mickeybrady4mp',
         url: 'https://twitter.com/mickeybrady4mp',
       },
       website: null,
@@ -602,7 +602,7 @@ export default {
       name: 'Tom Brake',
       party: 'Liberal Democrat',
       twitter: {
-        handler: '@thomasbrake',
+        username: '@thomasbrake',
         url: 'https://twitter.com/thomasbrake',
       },
       website: 'http://www.tombrake.co.uk/',
@@ -614,7 +614,7 @@ export default {
       name: 'Suella Braverman',
       party: 'Conservative',
       twitter: {
-        handler: '@suellabraverman',
+        username: '@suellabraverman',
         url: 'https://twitter.com/suellabraverman',
       },
       website: 'https://www.suellabraverman.co.uk/',
@@ -626,7 +626,7 @@ export default {
       name: 'Kevin Brennan',
       party: 'Labour',
       twitter: {
-        handler: '@kevinbrennanmp',
+        username: '@kevinbrennanmp',
         url: 'https://twitter.com/KevinBrennanMP',
       },
       website: 'http://www.kevinbrennan.co.uk/',
@@ -637,7 +637,7 @@ export default {
       email: 'jack.brereton.mp@parliament.uk',
       name: 'Jack Brereton',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.jackbrereton.co.uk/',
     },
     {
@@ -646,7 +646,7 @@ export default {
       email: 'andrew.bridgen.mp@parliament.uk',
       name: 'Andrew Bridgen',
       party: 'Conservative',
-      twitter: { handler: '@abridgen', url: 'https://twitter.com/ABridgen' },
+      twitter: { username: '@abridgen', url: 'https://twitter.com/ABridgen' },
       website: 'http://www.andrewbridgen.com/',
     },
     {
@@ -655,7 +655,7 @@ export default {
       email: 'steve.brine.mp@parliament.uk',
       name: 'Steve Brine',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.stevebrine.com/',
     },
     {
@@ -665,7 +665,7 @@ export default {
       name: 'Deidre Brock',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@deidrebrock',
+        username: '@deidrebrock',
         url: 'https://twitter.com/deidrebrock',
       },
       website: 'http://www.dbrockmp.scot/',
@@ -677,7 +677,7 @@ export default {
       name: 'James Brokenshire',
       party: 'Conservative',
       twitter: {
-        handler: '@jbrokenshire',
+        username: '@jbrokenshire',
         url: 'https://twitter.com/JBrokenshire',
       },
       website: 'http://www.jamesbrokenshire.com/',
@@ -689,7 +689,7 @@ export default {
       name: 'Mr Brown',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@alanbrownsnp',
+        username: '@alanbrownsnp',
         url: 'https://twitter.com/alanbrownsnp',
       },
       website: 'http://www.alanbrownmp.scot/',
@@ -701,7 +701,7 @@ export default {
       name: 'Lyn Brown',
       party: 'Labour',
       twitter: {
-        handler: '@lynbrownmp',
+        username: '@lynbrownmp',
         url: 'https://twitter.com/lynbrownmp',
       },
       website: 'http://www.lynbrown.org.uk/',
@@ -712,7 +712,7 @@ export default {
       email: 'nickbrownmp@parliament.uk',
       name: 'Mr Brown',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.nickbrownmp.com/',
     },
     {
@@ -721,7 +721,7 @@ export default {
       email: 'fiona.bruce.mp@parliament.uk',
       name: 'Fiona Bruce',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.fionabruce.org.uk/',
     },
     {
@@ -730,7 +730,7 @@ export default {
       email: 'bryantc@parliament.uk',
       name: 'Chris Bryant',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.chrisbryantmp.org.uk/',
     },
     {
@@ -740,7 +740,7 @@ export default {
       name: 'Ms Buck',
       party: 'Labour',
       twitter: {
-        handler: '@karenpbuckmp',
+        username: '@karenpbuckmp',
         url: 'https://twitter.com/KarenPBuckMP',
       },
       website: 'http://www.karenbuck.org.uk/',
@@ -752,7 +752,7 @@ export default {
       name: 'Robert Buckland',
       party: 'Conservative',
       twitter: {
-        handler: '@robertbuckland',
+        username: '@robertbuckland',
         url: 'https://twitter.com/RobertBuckland',
       },
       website: 'http://www.robertbuckland.co.uk/',
@@ -764,7 +764,7 @@ export default {
       name: 'Richard Burden',
       party: 'Labour',
       twitter: {
-        handler: '@richardburdenmp',
+        username: '@richardburdenmp',
         url: 'https://twitter.com/RichardBurdenMP',
       },
       website: 'http://www.richardburden.com/',
@@ -776,7 +776,7 @@ export default {
       name: 'Alex Burghart',
       party: 'Conservative',
       twitter: {
-        handler: '@alexburghart',
+        username: '@alexburghart',
         url: 'https://twitter.com/alexburghart',
       },
       website: null,
@@ -788,7 +788,7 @@ export default {
       name: 'Richard Burgon',
       party: 'Labour',
       twitter: {
-        handler: '@richardburgon',
+        username: '@richardburgon',
         url: 'https://twitter.com/richardburgon',
       },
       website: 'http://www.richardburgon.com/',
@@ -800,7 +800,7 @@ export default {
       name: 'Conor Burns',
       party: 'Conservative',
       twitter: {
-        handler: '@conorburnsuk',
+        username: '@conorburnsuk',
         url: 'https://twitter.com/ConorBurnsUK',
       },
       website: 'http://www.conorburns.com/',
@@ -812,7 +812,7 @@ export default {
       name: 'Alistair Burt',
       party: 'Conservative',
       twitter: {
-        handler: '@alistairburtuk',
+        username: '@alistairburtuk',
         url: 'https://twitter.com/AlistairBurtUK',
       },
       website: 'http://www.alistair-burt.co.uk/',
@@ -824,7 +824,7 @@ export default {
       name: 'Dawn Butler',
       party: 'Labour',
       twitter: {
-        handler: '@dawnbutlerbrent',
+        username: '@dawnbutlerbrent',
         url: 'https://twitter.com/dawnbutlerbrent',
       },
       website: null,
@@ -836,7 +836,7 @@ export default {
       name: 'Liam Byrne',
       party: 'Labour',
       twitter: {
-        handler: '@liambyrnemp',
+        username: '@liambyrnemp',
         url: 'https://twitter.com/LiamByrneMP',
       },
       website: 'http://www.liambyrne.co.uk/',
@@ -848,7 +848,7 @@ export default {
       name: 'Sir Vince',
       party: 'Liberal Democrat',
       twitter: {
-        handler: '@vincecable',
+        username: '@vincecable',
         url: 'https://twitter.com/vincecable',
       },
       website: null,
@@ -860,7 +860,7 @@ export default {
       name: 'Ruth Cadbury',
       party: 'Labour',
       twitter: {
-        handler: '@ruthcadbury',
+        username: '@ruthcadbury',
         url: 'https://twitter.com/ruthcadbury',
       },
       website: 'https://ruthcadbury.org/',
@@ -872,7 +872,7 @@ export default {
       name: 'Alun Cairns',
       party: 'Conservative',
       twitter: {
-        handler: '@aluncairns',
+        username: '@aluncairns',
         url: 'https://twitter.com/AlunCairns',
       },
       website: 'http://www.aluncairns.co.uk/',
@@ -884,7 +884,7 @@ export default {
       name: 'Dr Cameron',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@drlisacameronmp',
+        username: '@drlisacameronmp',
         url: 'https://twitter.com/DrLisaCameronMP',
       },
       website: 'http://www.lisacameronmp.scot/',
@@ -896,7 +896,7 @@ export default {
       name: 'Sir Alan Campbell',
       party: 'Labour',
       twitter: {
-        handler: '@alancampbellmp',
+        username: '@alancampbellmp',
         url: 'https://twitter.com/alancampbellmp',
       },
       website: 'http://www.alancampbellmp.co.uk/',
@@ -907,7 +907,7 @@ export default {
       email: 'fieldingm@parliament.uk',
       name: 'Mr Campbell',
       party: 'Democratic Unionist Party',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.duplondonderry.co.uk/campbell.html',
     },
     {
@@ -916,7 +916,7 @@ export default {
       email: 'ronnie.campbell.mp@parliament.uk',
       name: 'Mr Campbell',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -926,7 +926,7 @@ export default {
       name: 'Dan Carden',
       party: 'Labour',
       twitter: {
-        handler: '@dancardenmp',
+        username: '@dancardenmp',
         url: 'https://twitter.com/DanCardenMP',
       },
       website: 'http://www.dancarden4walton.org/',
@@ -938,7 +938,7 @@ export default {
       name: 'Mr Carmichael',
       party: 'Liberal Democrat',
       twitter: {
-        handler: '@acarmichaelmp',
+        username: '@acarmichaelmp',
         url: 'https://twitter.com/acarmichaelmp',
       },
       website: 'http://www.alistaircarmichael.org.uk/',
@@ -950,7 +950,7 @@ export default {
       name: 'James Cartlidge',
       party: 'Conservative',
       twitter: {
-        handler: '@jc4southsuffolk',
+        username: '@jc4southsuffolk',
         url: 'https://twitter.com/jc4southsuffolk',
       },
       website: null,
@@ -962,7 +962,7 @@ export default {
       name: 'Sir William',
       party: 'Conservative',
       twitter: {
-        handler: '@billcashmp',
+        username: '@billcashmp',
         url: 'https://twitter.com/BillCashMP',
       },
       website: 'http://www.billcashmp.co.uk/',
@@ -974,7 +974,7 @@ export default {
       name: 'Maria Caulfield',
       party: 'Conservative',
       twitter: {
-        handler: '@mariacaulfield',
+        username: '@mariacaulfield',
         url: 'https://twitter.com/mariacaulfield',
       },
       website: 'http://www.mariacaulfield.co.uk/',
@@ -986,7 +986,7 @@ export default {
       name: 'Alex Chalk',
       party: 'Conservative',
       twitter: {
-        handler: '@alexchalkchelt',
+        username: '@alexchalkchelt',
         url: 'https://twitter.com/alexchalkchelt',
       },
       website: 'http://www.alexchalk.com/',
@@ -998,7 +998,7 @@ export default {
       name: 'Sarah Champion',
       party: 'Labour',
       twitter: {
-        handler: '@sarahchampionmp',
+        username: '@sarahchampionmp',
         url: 'https://twitter.com/SarahChampionMP',
       },
       website: 'http://www.sarahchampionmp.com/',
@@ -1010,7 +1010,7 @@ export default {
       name: 'Douglas Chapman',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@dougchapmansnp',
+        username: '@dougchapmansnp',
         url: 'https://twitter.com/dougchapmansnp',
       },
       website: null,
@@ -1022,7 +1022,7 @@ export default {
       name: 'Jenny Chapman',
       party: 'Labour',
       twitter: {
-        handler: '@jennychapman',
+        username: '@jennychapman',
         url: 'https://twitter.com/JennyChapman',
       },
       website: null,
@@ -1033,7 +1033,7 @@ export default {
       email: 'bambos.charalambous.mp@parliament.uk',
       name: 'Bambos Charalambous',
       party: 'Labour',
-      twitter: { handler: '@bambosmp', url: 'https://twitter.com/BambosMP' },
+      twitter: { username: '@bambosmp', url: 'https://twitter.com/BambosMP' },
       website: 'https://www.bambos.org.uk/',
     },
     {
@@ -1043,7 +1043,7 @@ export default {
       name: 'Joanna Cherry',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@joannaccherry',
+        username: '@joannaccherry',
         url: 'https://twitter.com/joannaccherry',
       },
       website: 'http://www.snp.org/joanna_cherry',
@@ -1055,7 +1055,7 @@ export default {
       name: 'Rehman Chishti',
       party: 'Conservative',
       twitter: {
-        handler: '@rehman_chishti',
+        username: '@rehman_chishti',
         url: 'https://twitter.com/Rehman_Chishti',
       },
       website: 'http://www.rehmanchishti.com/',
@@ -1066,7 +1066,7 @@ export default {
       email: 'chopec@parliament.uk',
       name: 'Sir Christopher',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.chrischope.com/',
     },
     {
@@ -1076,7 +1076,7 @@ export default {
       name: 'Jo Churchill',
       party: 'Conservative',
       twitter: {
-        handler: '@jochurchill4',
+        username: '@jochurchill4',
         url: 'https://twitter.com/jochurchill4',
       },
       website: 'http://www.jochurchill.org.uk/',
@@ -1088,7 +1088,7 @@ export default {
       name: 'Colin Clark',
       party: 'Conservative',
       twitter: {
-        handler: '@colin_j_clark',
+        username: '@colin_j_clark',
         url: 'https://twitter.com/Colin_J_Clark',
       },
       website: 'https://www.colinclark.org.uk/',
@@ -1100,7 +1100,7 @@ export default {
       name: 'Greg Clark',
       party: 'Conservative',
       twitter: {
-        handler: '@gregclarkmp',
+        username: '@gregclarkmp',
         url: 'https://twitter.com/gregclarkmp',
       },
       website: 'http://www.gregclark.org/',
@@ -1111,7 +1111,7 @@ export default {
       email: 'clarkek@parliament.uk; suggd@parliament.uk',
       name: 'Mr Clarke',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.rushcliffeconservatives.com/',
     },
     {
@@ -1121,7 +1121,7 @@ export default {
       name: 'Mr Clarke',
       party: 'Conservative',
       twitter: {
-        handler: '@simonclarke84',
+        username: '@simonclarke84',
         url: 'https://twitter.com/SimonClarke84',
       },
       website: 'http://www.simon-clarke.org.uk/',
@@ -1133,7 +1133,7 @@ export default {
       name: 'James Cleverly',
       party: 'Conservative',
       twitter: {
-        handler: '@jamescleverly',
+        username: '@jamescleverly',
         url: 'https://twitter.com/jamescleverly',
       },
       website: null,
@@ -1144,7 +1144,7 @@ export default {
       email: 'cliftonbrowng@parliament.uk',
       name: 'Sir Geoffrey',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.cliftonbrown.co.uk/',
     },
     {
@@ -1153,7 +1153,7 @@ export default {
       email: 'ann.clwyd.mp@parliament.uk',
       name: 'Ann Clwyd',
       party: 'Labour',
-      twitter: { handler: '@annclwyd', url: 'https://twitter.com/AnnClwyd' },
+      twitter: { username: '@annclwyd', url: 'https://twitter.com/AnnClwyd' },
       website: null,
     },
     {
@@ -1163,7 +1163,7 @@ export default {
       name: 'Vernon Coaker',
       party: 'Labour',
       twitter: {
-        handler: '@vernon_coaker',
+        username: '@vernon_coaker',
         url: 'https://twitter.com/Vernon_Coaker',
       },
       website: 'http://www.vernon-coaker-mp.co.uk/',
@@ -1175,7 +1175,7 @@ export default {
       name: 'Ann Coffey',
       party: 'Independent',
       twitter: {
-        handler: '@anncoffey_mp',
+        username: '@anncoffey_mp',
         url: 'https://twitter.com/anncoffey_mp',
       },
       website: 'http://www.anncoffeymp.com/',
@@ -1187,7 +1187,7 @@ export default {
       name: 'Dr Coffey',
       party: 'Conservative',
       twitter: {
-        handler: '@theresecoffey',
+        username: '@theresecoffey',
         url: 'https://twitter.com/theresecoffey',
       },
       website: 'http://www.theresecoffeymp.com/',
@@ -1199,7 +1199,7 @@ export default {
       name: 'Damian Collins',
       party: 'Conservative',
       twitter: {
-        handler: '@damiancollins',
+        username: '@damiancollins',
         url: 'https://twitter.com/DamianCollins',
       },
       website: 'http://www.damiancollins.com/',
@@ -1211,7 +1211,7 @@ export default {
       name: 'Julie Cooper',
       party: 'Labour',
       twitter: {
-        handler: '@julieforburnley',
+        username: '@julieforburnley',
         url: 'https://twitter.com/julieforburnley',
       },
       website: null,
@@ -1223,7 +1223,7 @@ export default {
       name: 'Rosie Cooper',
       party: 'Labour',
       twitter: {
-        handler: '@rosie4westlancs',
+        username: '@rosie4westlancs',
         url: 'https://twitter.com/rosie4westlancs',
       },
       website: 'http://www.rosiecooper.net/',
@@ -1235,7 +1235,7 @@ export default {
       name: 'Yvette Cooper',
       party: 'Labour',
       twitter: {
-        handler: '@yvettecoopermp',
+        username: '@yvettecoopermp',
         url: 'https://twitter.com/YvetteCooperMP',
       },
       website: 'http://www.yvettecooper.com/',
@@ -1247,7 +1247,7 @@ export default {
       name: 'Jeremy Corbyn',
       party: 'Labour',
       twitter: {
-        handler: '@jeremycorbyn',
+        username: '@jeremycorbyn',
         url: 'https://twitter.com/jeremycorbyn',
       },
       website: 'http://www.jeremycorbyn.org.uk/',
@@ -1259,7 +1259,7 @@ export default {
       name: 'Alberto Costa',
       party: 'Conservative',
       twitter: {
-        handler: '@albertocostamp',
+        username: '@albertocostamp',
         url: 'https://twitter.com/albertocostamp',
       },
       website: 'http://www.albertocosta.org.uk/',
@@ -1271,7 +1271,7 @@ export default {
       name: 'Robert Courts',
       party: 'Conservative',
       twitter: {
-        handler: '@robertcourts',
+        username: '@robertcourts',
         url: 'https://twitter.com/robertcourts',
       },
       website: 'http://www.robertcourts.co.uk/',
@@ -1283,7 +1283,7 @@ export default {
       name: 'Ronnie Cowan',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@ronniecowan',
+        username: '@ronniecowan',
         url: 'https://twitter.com/ronniecowan',
       },
       website:
@@ -1296,7 +1296,7 @@ export default {
       name: 'Mr Cox',
       party: 'Conservative',
       twitter: {
-        handler: '@geoffrey_cox',
+        username: '@geoffrey_cox',
         url: 'https://twitter.com/Geoffrey_Cox',
       },
       website: 'http://www.geoffreycox.co.uk/',
@@ -1307,7 +1307,7 @@ export default {
       email: 'neil.coyle.mp@parliament.uk',
       name: 'Neil Coyle',
       party: 'Labour',
-      twitter: { handler: '@coyleneil', url: 'https://twitter.com/coyleneil' },
+      twitter: { username: '@coyleneil', url: 'https://twitter.com/coyleneil' },
       website: 'http://www.boslabour.org.uk/',
     },
     {
@@ -1316,7 +1316,7 @@ export default {
       email: 'stephen.crabb.mp@parliament.uk',
       name: 'Stephen Crabb',
       party: 'Conservative',
-      twitter: { handler: '@scrabbmp', url: 'https://twitter.com/SCrabbMP' },
+      twitter: { username: '@scrabbmp', url: 'https://twitter.com/SCrabbMP' },
       website: 'http://www.stephencrabb.com/',
     },
     {
@@ -1326,7 +1326,7 @@ export default {
       name: 'Sir David',
       party: 'Labour',
       twitter: {
-        handler: '@davidcrausby',
+        username: '@davidcrausby',
         url: 'https://twitter.com/DavidCrausby',
       },
       website: 'http://www.davidcrausby.co.uk/',
@@ -1338,7 +1338,7 @@ export default {
       name: 'Angela Crawley',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@angelacrawleymp',
+        username: '@angelacrawleymp',
         url: 'https://twitter.com/angelacrawleymp',
       },
       website: 'http://www.snp.org/angela_crawley',
@@ -1350,7 +1350,7 @@ export default {
       name: 'Mary Creagh',
       party: 'Labour',
       twitter: {
-        handler: '@marycreaghmp',
+        username: '@marycreaghmp',
         url: 'https://twitter.com/MaryCreaghMP',
       },
       website: 'http://www.marycreagh.com/',
@@ -1362,7 +1362,7 @@ export default {
       name: 'Stella Creasy',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@stellacreasy',
+        username: '@stellacreasy',
         url: 'https://twitter.com/stellacreasy',
       },
       website: 'http://www.workingforwalthamstow.org.uk/',
@@ -1374,7 +1374,7 @@ export default {
       name: 'Tracey Crouch',
       party: 'Conservative',
       twitter: {
-        handler: '@tracey_crouch',
+        username: '@tracey_crouch',
         url: 'https://twitter.com/tracey_crouch',
       },
       website: 'http://www.traceycrouch.org/',
@@ -1386,7 +1386,7 @@ export default {
       name: 'Jon Cruddas',
       party: 'Labour',
       twitter: {
-        handler: '@joncruddas_1',
+        username: '@joncruddas_1',
         url: 'https://twitter.com/JonCruddas_1',
       },
       website: 'http://www.joncruddas.org.uk/',
@@ -1397,7 +1397,7 @@ export default {
       email: 'john.cryer.mp@parliament.uk',
       name: 'John Cryer',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.leytonandwansteadlabour.org.uk/',
     },
     {
@@ -1407,7 +1407,7 @@ export default {
       name: 'Judith Cummins',
       party: 'Labour',
       twitter: {
-        handler: '@judithcummins',
+        username: '@judithcummins',
         url: 'https://twitter.com/judithcummins',
       },
       website: 'http://www.judithcummins.org.uk/',
@@ -1419,7 +1419,7 @@ export default {
       name: 'Alex Cunningham',
       party: 'Labour',
       twitter: {
-        handler: '@acunninghammp',
+        username: '@acunninghammp',
         url: 'https://twitter.com/ACunninghamMP',
       },
       website: 'http://www.alexcunninghammp.com/',
@@ -1430,7 +1430,7 @@ export default {
       email: 'jim.cunningham.mp@parliament.uk',
       name: 'Mr Cunningham',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.jimcunningham.org.uk/',
     },
     {
@@ -1439,7 +1439,7 @@ export default {
       email: 'janet.daby.mp@parliament.uk',
       name: '',
       party: 'Labour',
-      twitter: { handler: '@janetdaby', url: 'https://twitter.com/JanetDaby' },
+      twitter: { username: '@janetdaby', url: 'https://twitter.com/JanetDaby' },
       website: 'https://www.janetdaby.org/',
     },
     {
@@ -1449,7 +1449,7 @@ export default {
       name: 'Nic Dakin',
       party: 'Labour',
       twitter: {
-        handler: '@nicdakinmp',
+        username: '@nicdakinmp',
         url: 'https://twitter.com/NicDakinMP',
       },
       website: 'https://www.nicdakin.uk/',
@@ -1460,7 +1460,7 @@ export default {
       email: 'edward.davey.mp@parliament.uk',
       name: 'Sir Edward',
       party: 'Liberal Democrat',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.edwarddavey.co.uk/',
     },
     {
@@ -1470,7 +1470,7 @@ export default {
       name: 'Wayne David',
       party: 'Labour',
       twitter: {
-        handler: '@waynedavid_mp',
+        username: '@waynedavid_mp',
         url: 'https://twitter.com/WayneDavid_MP',
       },
       website: 'http://www.waynedavid.labour.co.uk/',
@@ -1481,7 +1481,7 @@ export default {
       email: 'chris.davies.mp@parliament.uk',
       name: 'Chris Davies',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.chrisdavies.org.uk/',
     },
     {
@@ -1491,7 +1491,7 @@ export default {
       name: 'David T. C. Davies',
       party: 'Conservative',
       twitter: {
-        handler: '@davidtcdavies',
+        username: '@davidtcdavies',
         url: 'https://twitter.com/davidtcdavies',
       },
       website: 'http://www.david-daviesmp.co.uk/',
@@ -1503,7 +1503,7 @@ export default {
       name: 'Geraint Davies',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@geraintdaviesmp',
+        username: '@geraintdaviesmp',
         url: 'https://twitter.com/GeraintDaviesMP',
       },
       website: 'http://www.geraintdavies.org.uk/',
@@ -1514,7 +1514,7 @@ export default {
       email: 'contact@glyn-davies.co.uk',
       name: 'Glyn Davies',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.glyn-davies.co.uk/',
     },
     {
@@ -1524,7 +1524,7 @@ export default {
       name: 'Mims Davies',
       party: 'Conservative',
       twitter: {
-        handler: '@mimsdavies',
+        username: '@mimsdavies',
         url: 'https://twitter.com/mimsdavies',
       },
       website: null,
@@ -1536,7 +1536,7 @@ export default {
       name: 'Philip Davies',
       party: 'Conservative',
       twitter: {
-        handler: '@philipdaviesmp',
+        username: '@philipdaviesmp',
         url: 'https://twitter.com/PhilipDaviesMP',
       },
       website: 'http://www.philip-davies.org.uk/',
@@ -1547,7 +1547,7 @@ export default {
       email: 'david.davis.mp@parliament.uk',
       name: 'Mr Davis',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -1556,7 +1556,7 @@ export default {
       email: 'martyn.day.mp@parliament.uk',
       name: 'Martyn Day',
       party: 'Scottish National Party',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -1566,7 +1566,7 @@ export default {
       name: 'Marsha De Cordova',
       party: 'Labour',
       twitter: {
-        handler: '@marshadecordova',
+        username: '@marshadecordova',
         url: 'https://twitter.com/Marshadecordova',
       },
       website: 'http://marshadecordova.co.uk/',
@@ -1578,7 +1578,7 @@ export default {
       name: 'Gloria De Piero',
       party: 'Labour',
       twitter: {
-        handler: '@gloriadepiero',
+        username: '@gloriadepiero',
         url: 'https://twitter.com/GloriaDePiero',
       },
       website: 'http://www.gloria-de-piero.co.uk/',
@@ -1589,7 +1589,7 @@ export default {
       email: 'thangam.debbonaire.mp@parliament.uk',
       name: 'Thangam Debbonaire',
       party: 'Labour',
-      twitter: { handler: '@thangammp', url: 'https://twitter.com/thangammp' },
+      twitter: { username: '@thangammp', url: 'https://twitter.com/thangammp' },
       website: 'http://www.debbonaire.co.uk/',
     },
     {
@@ -1599,7 +1599,7 @@ export default {
       name: '',
       party: 'Labour',
       twitter: {
-        handler: '@emmadentcoad',
+        username: '@emmadentcoad',
         url: 'https://twitter.com/emmadentcoad',
       },
       website: null,
@@ -1610,7 +1610,7 @@ export default {
       email: 'tan.dhesi.mp@parliament.uk',
       name: 'Mr Dhesi',
       party: 'Labour',
-      twitter: { handler: '@tandhesi', url: 'https://twitter.com/TanDhesi' },
+      twitter: { username: '@tandhesi', url: 'https://twitter.com/TanDhesi' },
       website: 'http://www.tsdhesi.com/',
     },
     {
@@ -1620,7 +1620,7 @@ export default {
       name: 'Caroline Dinenage',
       party: 'Conservative',
       twitter: {
-        handler: '@cj_dinenage',
+        username: '@cj_dinenage',
         url: 'https://twitter.com/cj_dinenage',
       },
       website: 'http://caroline4gosport.co.uk/',
@@ -1631,7 +1631,7 @@ export default {
       email: 'jonathan.djanogly.mp@parliament.uk',
       name: 'Mr Djanogly',
       party: 'Conservative',
-      twitter: { handler: '@jdjanogly', url: 'https://twitter.com/JDjanogly' },
+      twitter: { username: '@jdjanogly', url: 'https://twitter.com/JDjanogly' },
       website: 'http://www.jonathandjanogly.com/',
     },
     {
@@ -1641,7 +1641,7 @@ export default {
       name: 'Leo Docherty',
       party: 'Conservative',
       twitter: {
-        handler: '@leodochertyuk',
+        username: '@leodochertyuk',
         url: 'https://twitter.com/LeoDochertyUK',
       },
       website: 'https://www.leodocherty.org.uk/',
@@ -1653,7 +1653,7 @@ export default {
       name: 'Martin Docherty-Hughes',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@martinjdocherty',
+        username: '@martinjdocherty',
         url: 'https://twitter.com/martinjdocherty',
       },
       website: 'http://www.martindocherty.scot/',
@@ -1664,7 +1664,7 @@ export default {
       email: 'anneliese.dodds.mp@parliament.uk',
       name: 'Anneliese Dodds',
       party: 'Labour (Co-op)',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.anneliesedodds.org.uk/',
     },
     {
@@ -1674,7 +1674,7 @@ export default {
       name: 'Nigel Dodds',
       party: 'Democratic Unionist Party',
       twitter: {
-        handler: '@nigeldoddsmp',
+        username: '@nigeldoddsmp',
         url: 'https://twitter.com/NigelDoddsMP',
       },
       website: null,
@@ -1686,7 +1686,7 @@ export default {
       name: 'Sir Jeffrey',
       party: 'Democratic Unionist Party',
       twitter: {
-        handler: '@j_donaldson_mp',
+        username: '@j_donaldson_mp',
         url: 'https://twitter.com/J_Donaldson_MP',
       },
       website: null,
@@ -1698,7 +1698,7 @@ export default {
       name: 'Michelle Donelan',
       party: 'Conservative',
       twitter: {
-        handler: '@michelledonelan',
+        username: '@michelledonelan',
         url: 'https://twitter.com/michelledonelan',
       },
       website: 'https://michelledonelan.co.uk/',
@@ -1710,7 +1710,7 @@ export default {
       name: '',
       party: 'Conservative',
       twitter: {
-        handler: '@nadinedorries/with_replies',
+        username: '@nadinedorries/with_replies',
         url: 'https://twitter.com/NadineDorries/with_replies',
       },
       website: 'http://blog.dorries.org/',
@@ -1722,7 +1722,7 @@ export default {
       name: 'Steve Double',
       party: 'Conservative',
       twitter: {
-        handler: '@stevedouble',
+        username: '@stevedouble',
         url: 'https://twitter.com/stevedouble',
       },
       website: 'http://www.stevedouble.org.uk/',
@@ -1734,7 +1734,7 @@ export default {
       name: 'Stephen Doughty',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@sdoughtymp',
+        username: '@sdoughtymp',
         url: 'https://twitter.com/SDoughtyMP',
       },
       website: 'http://www.stephendoughty.org.uk/',
@@ -1746,7 +1746,7 @@ export default {
       name: 'Peter Dowd',
       party: 'Labour',
       twitter: {
-        handler: '@peter_dowd',
+        username: '@peter_dowd',
         url: 'https://twitter.com/peter_dowd',
       },
       website: null,
@@ -1757,7 +1757,7 @@ export default {
       email: 'oliver.dowden.mp@parliament.uk',
       name: 'Oliver Dowden',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.oliverdowden.com/',
     },
     {
@@ -1766,7 +1766,7 @@ export default {
       email: 'jackie.doyleprice.mp@parliament.uk',
       name: 'Jackie Doyle-Price',
       party: 'Conservative',
-      twitter: { handler: '@jackiedp', url: 'https://twitter.com/JACKIEDP' },
+      twitter: { username: '@jackiedp', url: 'https://twitter.com/JACKIEDP' },
       website: 'http://www.jackiedoyleprice.com/',
     },
     {
@@ -1775,7 +1775,7 @@ export default {
       email: 'richard.drax.mp@parliament.uk',
       name: 'Richard Drax',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.richarddrax.com/',
     },
     {
@@ -1784,7 +1784,7 @@ export default {
       email: 'david.drew.mp@parliament.uk',
       name: 'Dr Drew',
       party: 'Labour (Co-op)',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -1794,7 +1794,7 @@ export default {
       name: 'Jack Dromey',
       party: 'Labour',
       twitter: {
-        handler: '@jackdromeymp',
+        username: '@jackdromeymp',
         url: 'https://twitter.com/JackDromeyMP',
       },
       website: 'http://www.jackdromey.org/',
@@ -1806,7 +1806,7 @@ export default {
       name: 'James Duddridge',
       party: 'Conservative',
       twitter: {
-        handler: '@jamesduddridge',
+        username: '@jamesduddridge',
         url: 'https://twitter.com/JamesDuddridge',
       },
       website: 'http://www.jamesduddridge.com/',
@@ -1818,7 +1818,7 @@ export default {
       name: 'Rosie Duffield',
       party: 'Labour',
       twitter: {
-        handler: '@rosieduffield1',
+        username: '@rosieduffield1',
         url: 'https://twitter.com/RosieDuffield1',
       },
       website: 'http://www.rosieduffieldmp.co.uk/',
@@ -1830,7 +1830,7 @@ export default {
       name: 'David Duguid',
       party: 'Conservative',
       twitter: {
-        handler: '@david_duguid',
+        username: '@david_duguid',
         url: 'https://twitter.com/david_duguid',
       },
       website: null,
@@ -1842,7 +1842,7 @@ export default {
       name: 'Sir Alan',
       party: 'Conservative',
       twitter: {
-        handler: '@alanduncanmp',
+        username: '@alanduncanmp',
         url: 'https://twitter.com/alanduncanmp',
       },
       website: 'http://www.alanduncan.org.uk/',
@@ -1853,7 +1853,7 @@ export default {
       email: 'Iain.duncansmith.mp@parliament.uk',
       name: 'Mr Duncan Smith',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.iainduncansmith.org.uk/',
     },
     {
@@ -1863,7 +1863,7 @@ export default {
       name: 'Mr Dunne',
       party: 'Conservative',
       twitter: {
-        handler: '@dunne4ludlow',
+        username: '@dunne4ludlow',
         url: 'https://twitter.com/dunne4ludlow',
       },
       website: 'http://www.philipdunne.com/',
@@ -1875,7 +1875,7 @@ export default {
       name: 'Ms Eagle',
       party: 'Labour',
       twitter: {
-        handler: '@angelaeagle',
+        username: '@angelaeagle',
         url: 'https://twitter.com/angelaeagle',
       },
       website: 'http://www.angelaeagle.co.uk/',
@@ -1886,7 +1886,7 @@ export default {
       email: 'eaglem@parliament.uk',
       name: 'Maria Eagle',
       party: 'Labour',
-      twitter: { handler: '@meaglemp', url: 'https://twitter.com/meaglemp' },
+      twitter: { username: '@meaglemp', url: 'https://twitter.com/meaglemp' },
       website: 'https://www.mariaeagle.co.uk/',
     },
     {
@@ -1896,7 +1896,7 @@ export default {
       name: 'Jonathan Edwards',
       party: 'Plaid Cymru',
       twitter: {
-        handler: '@jonathanplaid',
+        username: '@jonathanplaid',
         url: 'https://twitter.com/JonathanPlaid',
       },
       website: 'http://www.carmarthenshiresvoice.org.uk/',
@@ -1908,7 +1908,7 @@ export default {
       name: 'Clive Efford',
       party: 'Labour',
       twitter: {
-        handler: '@cliveefford',
+        username: '@cliveefford',
         url: 'https://twitter.com/CliveEfford',
       },
       website: 'http://www.cliveefford.org.uk/',
@@ -1920,7 +1920,7 @@ export default {
       name: 'Julie Elliott',
       party: 'Labour',
       twitter: {
-        handler: '@julieelliottmp',
+        username: '@julieelliottmp',
         url: 'https://twitter.com/JulieElliottMP',
       },
       website: 'http://julie4sunderland.co.uk/',
@@ -1932,7 +1932,7 @@ export default {
       name: 'Michael Ellis',
       party: 'Conservative',
       twitter: {
-        handler: '@michael_ellis1',
+        username: '@michael_ellis1',
         url: 'https://twitter.com/Michael_Ellis1',
       },
       website: 'http://www.michaelellis.co.uk/',
@@ -1944,7 +1944,7 @@ export default {
       name: 'Dame Louise Ellman',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@louiseellman',
+        username: '@louiseellman',
         url: 'https://twitter.com/LouiseEllman',
       },
       website: 'http://www.louiseellman.co.uk/',
@@ -1956,7 +1956,7 @@ export default {
       name: 'Mr Ellwood',
       party: 'Conservative',
       twitter: {
-        handler: '@tobias_ellwood',
+        username: '@tobias_ellwood',
         url: 'https://twitter.com/Tobias_Ellwood',
       },
       website: 'http://www.tobiasellwood.com/',
@@ -1967,7 +1967,7 @@ export default {
       email: 'Chris.Elmore.mp@parliament.uk',
       name: 'Chris Elmore',
       party: 'Labour',
-      twitter: { handler: '@cpjelmore', url: 'https://twitter.com/cpjelmore' },
+      twitter: { username: '@cpjelmore', url: 'https://twitter.com/cpjelmore' },
       website: 'http://www.chriselmore.co.uk/',
     },
     {
@@ -1977,7 +1977,7 @@ export default {
       name: 'Charlie Elphicke',
       party: 'Conservative',
       twitter: {
-        handler: '@charlieelphicke',
+        username: '@charlieelphicke',
         url: 'https://twitter.com/CharlieElphicke',
       },
       website: 'http://www.elphicke.com/',
@@ -1989,7 +1989,7 @@ export default {
       name: 'Bill Esterson',
       party: 'Labour',
       twitter: {
-        handler: '@bill_esterson',
+        username: '@bill_esterson',
         url: 'https://twitter.com/Bill_Esterson',
       },
       website: 'http://www.billesterson.org.uk/',
@@ -2000,7 +2000,7 @@ export default {
       email: 'george.eustice.mp@parliament.uk',
       name: 'George Eustice',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -2009,7 +2009,7 @@ export default {
       email: 'chris.evans.mp@parliament.uk',
       name: 'Chris Evans',
       party: 'Labour (Co-op)',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.chrisevansmp.co.uk/',
     },
     {
@@ -2018,7 +2018,7 @@ export default {
       email: 'evansn@parliament.uk',
       name: 'Mr Evans',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -2028,7 +2028,7 @@ export default {
       name: 'Sir David Evennett',
       party: 'Conservative',
       twitter: {
-        handler: '@davidevennett',
+        username: '@davidevennett',
         url: 'https://twitter.com/DavidEvennett',
       },
       website: 'http://davidevennett.com/',
@@ -2040,7 +2040,7 @@ export default {
       name: 'Michael Fabricant',
       party: 'Conservative',
       twitter: {
-        handler: '@mike_fabricant',
+        username: '@mike_fabricant',
         url: 'https://twitter.com/Mike_Fabricant',
       },
       website: 'http://www.michael.fabricant.mp.co.uk/',
@@ -2051,7 +2051,7 @@ export default {
       email: 'michael.fallon.mp@parliament.uk',
       name: 'Sir Michael',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.michaelfallonmp.org.uk/',
     },
     {
@@ -2060,7 +2060,7 @@ export default {
       email: 'paul.farrelly.mp@parliament.uk',
       name: 'Paul Farrelly',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.paulfarrelly.com/',
     },
     {
@@ -2069,7 +2069,7 @@ export default {
       email: 'farront@parliament.uk',
       name: 'Tim Farron',
       party: 'Liberal Democrat',
-      twitter: { handler: '@timfarron', url: 'https://twitter.com/timfarron' },
+      twitter: { username: '@timfarron', url: 'https://twitter.com/timfarron' },
       website: 'http://www.timfarron.co.uk/',
     },
     {
@@ -2079,7 +2079,7 @@ export default {
       name: 'Marion Fellows',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@marionfellows',
+        username: '@marionfellows',
         url: 'https://twitter.com/marionfellows',
       },
       website: 'http://marionfellows.scot/',
@@ -2091,7 +2091,7 @@ export default {
       name: 'Frank Field',
       party: 'Independent',
       twitter: {
-        handler: '@frankfieldteam',
+        username: '@frankfieldteam',
         url: 'https://twitter.com/frankfieldteam',
       },
       website: 'http://www.frankfield.co.uk/',
@@ -2103,7 +2103,7 @@ export default {
       name: 'Mr Field',
       party: 'Conservative',
       twitter: {
-        handler: '@markfielduk',
+        username: '@markfielduk',
         url: 'https://twitter.com/MarkFieldUK',
       },
       website: 'http://www.markfieldmp.com/',
@@ -2114,7 +2114,7 @@ export default {
       email: 'jim.fitzpatrick.mp@parliament.uk',
       name: 'Jim Fitzpatrick',
       party: 'Labour',
-      twitter: { handler: '@fitzmp', url: 'https://twitter.com/FitzMP' },
+      twitter: { username: '@fitzmp', url: 'https://twitter.com/FitzMP' },
       website: 'http://www.jimfitzpatrickmp.org/',
     },
     {
@@ -2123,7 +2123,7 @@ export default {
       email: 'colleen.fletcher.mp@parliament.uk',
       name: 'Colleen Fletcher',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -2133,7 +2133,7 @@ export default {
       name: 'Caroline Flint',
       party: 'Labour',
       twitter: {
-        handler: '@carolineflintmp',
+        username: '@carolineflintmp',
         url: 'https://twitter.com/CarolineFlintMP',
       },
       website: 'http://www.carolineflint.org/',
@@ -2144,7 +2144,7 @@ export default {
       email: 'vicky.ford.mp@parliament.uk',
       name: 'Vicky Ford',
       party: 'Conservative',
-      twitter: { handler: '@vickyford', url: 'https://twitter.com/vickyford' },
+      twitter: { username: '@vickyford', url: 'https://twitter.com/vickyford' },
       website: 'https://www.vickyford.uk/',
     },
     {
@@ -2154,7 +2154,7 @@ export default {
       name: 'Kevin Foster',
       party: 'Conservative',
       twitter: {
-        handler: '@kevin_j_foster',
+        username: '@kevin_j_foster',
         url: 'https://twitter.com/kevin_j_foster',
       },
       website: 'http://www.kevinjfoster.com/',
@@ -2166,7 +2166,7 @@ export default {
       name: 'Yvonne Fovargue',
       party: 'Labour',
       twitter: {
-        handler: '@y_fovarguemp',
+        username: '@y_fovarguemp',
         url: 'https://twitter.com/Y_FovargueMP',
       },
       website: 'http://www.yvonnefovargue.com/',
@@ -2177,7 +2177,7 @@ export default {
       email: 'ione.douglas@parliament.uk',
       name: 'Dr Fox',
       party: 'Conservative',
-      twitter: { handler: '@liamfox', url: 'https://twitter.com/LiamFox' },
+      twitter: { username: '@liamfox', url: 'https://twitter.com/LiamFox' },
       website: null,
     },
     {
@@ -2187,7 +2187,7 @@ export default {
       name: 'Vicky Foxcroft',
       party: 'Labour',
       twitter: {
-        handler: '@vickyfoxcroft',
+        username: '@vickyfoxcroft',
         url: 'https://twitter.com/vickyfoxcroft',
       },
       website: 'http://www.vickyfoxcroft.org.uk/',
@@ -2198,7 +2198,7 @@ export default {
       email: 'mark.francois.mp@parliament.uk',
       name: 'Mr Francois',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -2207,7 +2207,7 @@ export default {
       email: 'lucy.frazer.mp@parliament.uk',
       name: 'Lucy Frazer',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.lucyfrazer.org.uk/',
     },
     {
@@ -2217,7 +2217,7 @@ export default {
       name: 'George Freeman',
       party: 'Conservative',
       twitter: {
-        handler: '@georgefreemanmp',
+        username: '@georgefreemanmp',
         url: 'https://twitter.com/GeorgeFreemanMP',
       },
       website: 'http://www.georgefreeman.co.uk/',
@@ -2229,7 +2229,7 @@ export default {
       name: 'Mike Freer',
       party: 'Conservative',
       twitter: {
-        handler: '@mikefreermp',
+        username: '@mikefreermp',
         url: 'https://twitter.com/mikefreermp',
       },
       website: null,
@@ -2241,7 +2241,7 @@ export default {
       name: 'James Frith',
       party: 'Labour',
       twitter: {
-        handler: '@jamesfrith',
+        username: '@jamesfrith',
         url: 'https://twitter.com/JamesFrith',
       },
       website: 'http://www.jamesfrith.org/',
@@ -2253,7 +2253,7 @@ export default {
       name: 'Gill Furniss',
       party: 'Labour',
       twitter: {
-        handler: '@gillfurnissmp',
+        username: '@gillfurnissmp',
         url: 'https://twitter.com/gillfurnissmp',
       },
       website: 'https://gillfurniss.com/',
@@ -2265,7 +2265,7 @@ export default {
       name: 'Mr Fysh',
       party: 'Conservative',
       twitter: {
-        handler: '@marcusfysh',
+        username: '@marcusfysh',
         url: 'https://twitter.com/marcusfysh',
       },
       website: 'http://www.marcusfysh.org.uk/',
@@ -2277,7 +2277,7 @@ export default {
       name: 'Hugh Gaffney',
       party: 'Labour',
       twitter: {
-        handler: '@hughgaffneymp',
+        username: '@hughgaffneymp',
         url: 'https://twitter.com/HughGaffneyMP',
       },
       website: null,
@@ -2288,7 +2288,7 @@ export default {
       email: 'galerj@parliament.uk',
       name: 'Sir Roger',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.rogergale.co.uk/',
     },
     {
@@ -2297,7 +2297,7 @@ export default {
       email: 'mike.gapes.mp@parliament.uk',
       name: 'Mike Gapes',
       party: 'Independent',
-      twitter: { handler: '@mikegapes', url: 'https://twitter.com/MikeGapes' },
+      twitter: { username: '@mikegapes', url: 'https://twitter.com/MikeGapes' },
       website: 'http://www.mikegapes.org/',
     },
     {
@@ -2307,7 +2307,7 @@ export default {
       name: 'Barry Gardiner',
       party: 'Labour',
       twitter: {
-        handler: '@barrygardiner',
+        username: '@barrygardiner',
         url: 'https://twitter.com/BarryGardiner',
       },
       website: 'http://www.barrygardiner.com/',
@@ -2319,7 +2319,7 @@ export default {
       name: 'Mark Garnier',
       party: 'Conservative',
       twitter: {
-        handler: '@mark4wyreforest',
+        username: '@mark4wyreforest',
         url: 'https://twitter.com/Mark4WyreForest',
       },
       website: 'http://www.markgarnier.co.uk/',
@@ -2330,7 +2330,7 @@ export default {
       email: 'gauked@parliament.uk',
       name: '',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.davidgauke.com/',
     },
     {
@@ -2339,7 +2339,7 @@ export default {
       email: 'ruth.george.mp@parliament.uk',
       name: 'Ruth George',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://ruthforhighpeak.co.uk/',
     },
     {
@@ -2349,7 +2349,7 @@ export default {
       name: 'Stephen Gethins',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@stephengethins',
+        username: '@stephengethins',
         url: 'https://twitter.com/stephengethins',
       },
       website: 'http://stephengethins.scot/',
@@ -2360,7 +2360,7 @@ export default {
       email: 'nusrat.ghani.mp@parliament.uk',
       name: '',
       party: 'Conservative',
-      twitter: { handler: '@nus_ghani', url: 'https://twitter.com/nus_ghani' },
+      twitter: { username: '@nus_ghani', url: 'https://twitter.com/nus_ghani' },
       website: 'http://www.nusghani.org.uk/',
     },
     {
@@ -2370,7 +2370,7 @@ export default {
       name: 'Nick Gibb',
       party: 'Conservative',
       twitter: {
-        handler: '@nickgibbuk',
+        username: '@nickgibbuk',
         url: 'https://twitter.com/nickgibbuk',
       },
       website:
@@ -2383,7 +2383,7 @@ export default {
       name: 'Patricia Gibson',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@pgibsonsnp',
+        username: '@pgibsonsnp',
         url: 'https://twitter.com/PGibsonSNP',
       },
       website: 'http://www.snp.org/patricia_gibson',
@@ -2395,7 +2395,7 @@ export default {
       name: 'Michelle Gildernew',
       party: 'Sinn Féin',
       twitter: {
-        handler: '@gildernewm',
+        username: '@gildernewm',
         url: 'https://twitter.com/gildernewm',
       },
       website: null,
@@ -2407,7 +2407,7 @@ export default {
       name: 'Preet Gill',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@preetkgillmp',
+        username: '@preetkgillmp',
         url: 'https://twitter.com/PreetKGillMP',
       },
       website: 'https://www.preetkaurgill.com/',
@@ -2419,7 +2419,7 @@ export default {
       name: 'Dame Cheryl',
       party: 'Conservative',
       twitter: {
-        handler: '@cherylgillanmp',
+        username: '@cherylgillanmp',
         url: 'https://twitter.com/CherylGillanMP',
       },
       website: 'http://www.cherylgillan.co.uk/',
@@ -2431,7 +2431,7 @@ export default {
       name: 'Paul Girvan',
       party: 'Democratic Unionist Party',
       twitter: {
-        handler: '@paulgirvanmp',
+        username: '@paulgirvanmp',
         url: 'https://twitter.com/PaulGirvanMP',
       },
       website: null,
@@ -2443,7 +2443,7 @@ export default {
       name: 'John Glen',
       party: 'Conservative',
       twitter: {
-        handler: '@johnglenuk',
+        username: '@johnglenuk',
         url: 'https://twitter.com/JohnGlenUK',
       },
       website: 'http://www.johnglen.org.uk/',
@@ -2454,7 +2454,7 @@ export default {
       email: 'mary.glindon.mp@parliament.uk',
       name: 'Mary Glindon',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.maryglindonmp.co.uk/',
     },
     {
@@ -2464,7 +2464,7 @@ export default {
       name: 'Mr Godsiff',
       party: 'Labour',
       twitter: {
-        handler: '@rogergodsiff',
+        username: '@rogergodsiff',
         url: 'https://twitter.com/RogerGodsiff',
       },
       website: 'http://www.rogergodsiffmp.co.uk/',
@@ -2476,7 +2476,7 @@ export default {
       name: 'Zac Goldsmith',
       party: 'Conservative',
       twitter: {
-        handler: '@zacgoldsmith',
+        username: '@zacgoldsmith',
         url: 'https://twitter.com/ZacGoldsmith',
       },
       website: 'http://www.zacgoldsmith.com/',
@@ -2488,7 +2488,7 @@ export default {
       name: 'Helen Goodman',
       party: 'Labour',
       twitter: {
-        handler: '@helengoodmanmp',
+        username: '@helengoodmanmp',
         url: 'https://twitter.com/HelenGoodmanMP',
       },
       website: 'http://www.helengoodman.org.uk/',
@@ -2499,7 +2499,7 @@ export default {
       email: 'robert.goodwill.mp@parliament.uk',
       name: 'Mr Goodwill',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.robertgoodwill.co.uk/',
     },
     {
@@ -2508,7 +2508,7 @@ export default {
       email: 'michael.gove.mp@parliament.uk',
       name: 'Michael Gove',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.michaelgove.com/',
     },
     {
@@ -2517,7 +2517,7 @@ export default {
       email: 'patrick.grady.mp@parliament.uk',
       name: 'Patrick Grady',
       party: 'Scottish National Party',
-      twitter: { handler: '@gradysnp', url: 'https://twitter.com/gradysnp' },
+      twitter: { username: '@gradysnp', url: 'https://twitter.com/gradysnp' },
       website: 'http://www.patrickgrady.scot/',
     },
     {
@@ -2527,7 +2527,7 @@ export default {
       name: 'Luke Graham',
       party: 'Conservative',
       twitter: {
-        handler: '@lukegrahammp?lang=en',
+        username: '@lukegrahammp?lang=en',
         url: 'https://twitter.com/lukegrahammp?lang=en',
       },
       website: 'https://www.lukegraham.org.uk/',
@@ -2539,7 +2539,7 @@ export default {
       name: 'Richard Graham',
       party: 'Conservative',
       twitter: {
-        handler: '@richardgrahammp',
+        username: '@richardgrahammp',
         url: 'https://twitter.com/RichardGrahamMP',
       },
       website: 'http://www.richardgraham.org/',
@@ -2550,7 +2550,7 @@ export default {
       email: 'bill.grant.mp@parliament.uk',
       name: 'Bill Grant',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -2560,7 +2560,7 @@ export default {
       name: 'Mrs Grant',
       party: 'Conservative',
       twitter: {
-        handler: '@helengrantmp',
+        username: '@helengrantmp',
         url: 'https://twitter.com/HelenGrantMP',
       },
       website: 'http://www.helengrant.org/',
@@ -2572,7 +2572,7 @@ export default {
       name: 'Peter Grant',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@petergrantmp',
+        username: '@petergrantmp',
         url: 'https://twitter.com/petergrantmp',
       },
       website: 'http://petergrant.scot/',
@@ -2583,7 +2583,7 @@ export default {
       email: 'jamesgraymp@parliament.uk',
       name: 'James Gray',
       party: 'Conservative',
-      twitter: { handler: '@@jgray', url: 'https://twitter.com/@JGray' },
+      twitter: { username: '@@jgray', url: 'https://twitter.com/@JGray' },
       website: 'http://www.jamesgray.org/',
     },
     {
@@ -2593,7 +2593,7 @@ export default {
       name: 'Neil Gray',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@neilgraymp',
+        username: '@neilgraymp',
         url: 'https://twitter.com/NeilGrayMP',
       },
       website: 'https://www.snp.org/neil_gray',
@@ -2605,7 +2605,7 @@ export default {
       name: 'Chris Grayling',
       party: 'Conservative',
       twitter: {
-        handler: '@transportgovuk',
+        username: '@transportgovuk',
         url: 'https://twitter.com/transportgovuk',
       },
       website: 'http://www.chrisgrayling.net/',
@@ -2616,7 +2616,7 @@ export default {
       email: 'chris.green.mp@parliament.uk',
       name: 'Chris Green',
       party: 'Conservative',
-      twitter: { handler: '@cgreenuk', url: 'https://twitter.com/CGreenUK' },
+      twitter: { username: '@cgreenuk', url: 'https://twitter.com/CGreenUK' },
       website: 'http://www.chris-green.org.uk/',
     },
     {
@@ -2626,7 +2626,7 @@ export default {
       name: 'Damian Green',
       party: 'Conservative',
       twitter: {
-        handler: '@damiangreenmp',
+        username: '@damiangreenmp',
         url: 'https://twitter.com/damiangreenmp',
       },
       website: 'http://www.damiangreenmp.org.uk/',
@@ -2638,7 +2638,7 @@ export default {
       name: 'Kate Green',
       party: 'Labour',
       twitter: {
-        handler: '@kategreensu',
+        username: '@kategreensu',
         url: 'https://twitter.com/KateGreenSU',
       },
       website: 'http://www.kategreen.org/',
@@ -2650,7 +2650,7 @@ export default {
       name: 'Justine Greening',
       party: 'Conservative',
       twitter: {
-        handler: '@justinegreening',
+        username: '@justinegreening',
         url: 'https://twitter.com/JustineGreening',
       },
       website: 'http://www.justinegreening.co.uk/',
@@ -2662,7 +2662,7 @@ export default {
       name: 'Lilian Greenwood',
       party: 'Labour',
       twitter: {
-        handler: '@liliangreenwood',
+        username: '@liliangreenwood',
         url: 'https://twitter.com/LilianGreenwood',
       },
       website: 'http://www.liliangreenwood.co.uk/',
@@ -2674,7 +2674,7 @@ export default {
       name: 'Margaret Greenwood',
       party: 'Labour',
       twitter: {
-        handler: '@mgreenwoodww',
+        username: '@mgreenwoodww',
         url: 'https://twitter.com/mgreenwoodww',
       },
       website: 'http://www.margaretgreenwood.org.uk/',
@@ -2685,7 +2685,7 @@ export default {
       email: 'dominic.grieve.mp@parliament.uk',
       name: 'Mr Grieve',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.dominicgrieve.org.uk/',
     },
     {
@@ -2695,7 +2695,7 @@ export default {
       name: 'Nia Griffith',
       party: 'Labour',
       twitter: {
-        handler: '@niagriffithmp',
+        username: '@niagriffithmp',
         url: 'https://twitter.com/NiaGriffithMP',
       },
       website: 'http://niagriffith.org.uk/',
@@ -2707,7 +2707,7 @@ export default {
       name: 'Andrew Griffiths',
       party: 'Conservative',
       twitter: {
-        handler: '@agriffithsmp',
+        username: '@agriffithsmp',
         url: 'https://twitter.com/agriffithsmp',
       },
       website: 'http://www.andrewgriffithsmp.com/',
@@ -2718,7 +2718,7 @@ export default {
       email: 'john.grogan.mp@parliament.uk',
       name: 'John Grogan',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -2727,7 +2727,7 @@ export default {
       email: 'gwynnea@parliament.uk',
       name: 'Andrew Gwynne',
       party: 'Labour',
-      twitter: { handler: '@gwynnemp', url: 'https://twitter.com/GwynneMP' },
+      twitter: { username: '@gwynnemp', url: 'https://twitter.com/GwynneMP' },
       website: 'http://www.andrewgwynne.co.uk/',
     },
     {
@@ -2736,7 +2736,7 @@ export default {
       email: 'sam@samgyimah.com',
       name: 'Mr Gyimah',
       party: 'Conservative',
-      twitter: { handler: '@samgyimah', url: 'https://twitter.com/SamGyimah' },
+      twitter: { username: '@samgyimah', url: 'https://twitter.com/SamGyimah' },
       website: 'http://www.samgyimah.com/',
     },
     {
@@ -2745,7 +2745,7 @@ export default {
       email: 'louise.haigh.mp@parliament.uk',
       name: 'Louise Haigh',
       party: 'Labour',
-      twitter: { handler: '@louhaigh', url: 'https://twitter.com/louhaigh' },
+      twitter: { username: '@louhaigh', url: 'https://twitter.com/louhaigh' },
       website: 'http://www.louisehaigh.org.uk/',
     },
     {
@@ -2755,7 +2755,7 @@ export default {
       name: 'Kirstene Hair',
       party: 'Conservative',
       twitter: {
-        handler: '@kirstene4angus',
+        username: '@kirstene4angus',
         url: 'https://twitter.com/Kirstene4Angus',
       },
       website: null,
@@ -2767,7 +2767,7 @@ export default {
       name: 'Robert Halfon',
       party: 'Conservative',
       twitter: {
-        handler: '@halfon4harlowmp',
+        username: '@halfon4harlowmp',
         url: 'https://twitter.com/halfon4harlowMP',
       },
       website: 'http://www.roberthalfon.com/',
@@ -2779,7 +2779,7 @@ export default {
       name: 'Luke Hall',
       party: 'Conservative',
       twitter: {
-        handler: '@lukehallmp',
+        username: '@lukehallmp',
         url: 'https://twitter.com/LukeHallMP',
       },
       website: 'http://www.lukehall.org.uk/',
@@ -2790,7 +2790,7 @@ export default {
       email: 'fabian.hamilton.mp@parliament.uk',
       name: 'Fabian Hamilton',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.leedsne.co.uk/',
     },
     {
@@ -2800,7 +2800,7 @@ export default {
       name: 'Mr Hammond',
       party: 'Conservative',
       twitter: {
-        handler: '@philiphammonduk',
+        username: '@philiphammonduk',
         url: 'https://twitter.com/philiphammonduk',
       },
       website: 'http://rthonphiliphammond.co.uk/',
@@ -2811,7 +2811,7 @@ export default {
       email: 'stephen.hammond.mp@parliament.uk',
       name: 'Stephen Hammond',
       party: 'Conservative',
-      twitter: { handler: '@s_hammond', url: 'https://twitter.com/s_hammond' },
+      twitter: { username: '@s_hammond', url: 'https://twitter.com/s_hammond' },
       website: 'https://www.stephenhammond.net/',
     },
     {
@@ -2821,7 +2821,7 @@ export default {
       name: 'Matt Hancock',
       party: 'Conservative',
       twitter: {
-        handler: '@matthancock',
+        username: '@matthancock',
         url: 'https://twitter.com/matthancock',
       },
       website: 'https://www.matt-hancock.com/',
@@ -2832,7 +2832,7 @@ export default {
       email: 'handsg@parliament.uk',
       name: 'Greg Hands',
       party: 'Conservative',
-      twitter: { handler: '@greghands', url: 'https://twitter.com/GregHands' },
+      twitter: { username: '@greghands', url: 'https://twitter.com/GregHands' },
       website: 'http://www.greghands.com/',
     },
     {
@@ -2842,7 +2842,7 @@ export default {
       name: 'David Hanson',
       party: 'Labour',
       twitter: {
-        handler: '@davidhansonmp',
+        username: '@davidhansonmp',
         url: 'https://twitter.com/DavidHansonMP',
       },
       website: 'http://www.davidhanson.org.uk/',
@@ -2854,7 +2854,7 @@ export default {
       name: 'Emma Hardy',
       party: 'Labour',
       twitter: {
-        handler: '@emmahardymp',
+        username: '@emmahardymp',
         url: 'https://twitter.com/EmmaHardyMP',
       },
       website: null,
@@ -2866,7 +2866,7 @@ export default {
       name: 'Ms Harman',
       party: 'Labour',
       twitter: {
-        handler: '@harrietharman',
+        username: '@harrietharman',
         url: 'https://twitter.com/HarrietHarman',
       },
       website: 'http://www.harrietharman.org/',
@@ -2878,7 +2878,7 @@ export default {
       name: 'Mr Harper',
       party: 'Conservative',
       twitter: {
-        handler: '@mark_j_harper',
+        username: '@mark_j_harper',
         url: 'https://twitter.com/Mark_J_Harper',
       },
       website: 'http://www.markharper.org/',
@@ -2890,7 +2890,7 @@ export default {
       name: 'Richard Harrington',
       party: 'Conservative',
       twitter: {
-        handler: '@richard4watford',
+        username: '@richard4watford',
         url: 'https://twitter.com/Richard4Watford',
       },
       website: 'http://www.richardharrington.org.uk/',
@@ -2902,7 +2902,7 @@ export default {
       name: 'Carolyn Harris',
       party: 'Labour',
       twitter: {
-        handler: '@carolynharris24',
+        username: '@carolynharris24',
         url: 'https://twitter.com/carolynharris24',
       },
       website: 'http://www.carolynharris.org.uk/',
@@ -2913,7 +2913,7 @@ export default {
       email: 'rebecca.harris.mp@parliament.uk',
       name: 'Rebecca Harris',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -2922,7 +2922,7 @@ export default {
       email: 'trudy.harrison.mp@parliament.uk',
       name: '',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'https://www.trudyharrison.co.uk/',
     },
     {
@@ -2932,7 +2932,7 @@ export default {
       name: 'Simon Hart',
       party: 'Conservative',
       twitter: {
-        handler: '@simonhartmp',
+        username: '@simonhartmp',
         url: 'https://twitter.com/Simonhartmp',
       },
       website: 'http://www.simon-hart.com/',
@@ -2944,7 +2944,7 @@ export default {
       name: 'Helen Hayes',
       party: 'Labour',
       twitter: {
-        handler: '@helenhayes_',
+        username: '@helenhayes_',
         url: 'https://twitter.com/helenhayes_',
       },
       website: 'http://www.helenhayes.org.uk/',
@@ -2955,7 +2955,7 @@ export default {
       email: 'hayesj@parliament.uk',
       name: '',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -2965,7 +2965,7 @@ export default {
       name: 'Sue Hayman',
       party: 'Labour',
       twitter: {
-        handler: '@suehayman1',
+        username: '@suehayman1',
         url: 'https://twitter.com/suehayman1',
       },
       website: null,
@@ -2977,7 +2977,7 @@ export default {
       name: '',
       party: 'Sinn Féin',
       twitter: {
-        handler: '@chrishazzardsf',
+        username: '@chrishazzardsf',
         url: 'https://twitter.com/ChrisHazzardSF',
       },
       website: null,
@@ -2989,7 +2989,7 @@ export default {
       name: 'Sir Oliver',
       party: 'Conservative',
       twitter: {
-        handler: '@oliverhealdmp',
+        username: '@oliverhealdmp',
         url: 'https://twitter.com/oliverhealdmp',
       },
       website: 'http://www.oliverhealdmp.com/',
@@ -3001,7 +3001,7 @@ export default {
       name: 'John Healey',
       party: 'Labour',
       twitter: {
-        handler: '@johnhealey_mp',
+        username: '@johnhealey_mp',
         url: 'https://twitter.com/JohnHealey_MP',
       },
       website: 'http://www.johnhealeymp.co.uk/',
@@ -3012,7 +3012,7 @@ export default {
       email: 'james.heappey.mp@parliament.uk',
       name: 'James Heappey',
       party: 'Conservative',
-      twitter: { handler: '@jsheappey', url: 'https://twitter.com/jsheappey' },
+      twitter: { username: '@jsheappey', url: 'https://twitter.com/jsheappey' },
       website: 'http://www.jamesheappey.org.uk/',
     },
     {
@@ -3022,7 +3022,7 @@ export default {
       name: 'Chris Heaton-Harris',
       party: 'Conservative',
       twitter: {
-        handler: '@chhcalling',
+        username: '@chhcalling',
         url: 'https://twitter.com/chhcalling',
       },
       website: 'http://www.heatonharris.com/',
@@ -3034,7 +3034,7 @@ export default {
       name: 'Peter Heaton-Jones',
       party: 'Conservative',
       twitter: {
-        handler: '@peternorthdevon',
+        username: '@peternorthdevon',
         url: 'https://twitter.com/peternorthdevon',
       },
       website: 'http://www.peterheatonjones.org.uk/',
@@ -3045,7 +3045,7 @@ export default {
       email: 'gordon.henderson.mp@parliament.uk',
       name: 'Gordon Henderson',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.gordonhendersonmp.org.uk/',
     },
     {
@@ -3054,7 +3054,7 @@ export default {
       email: 'mark.hendrick.mp@parliament.uk',
       name: 'Sir Mark',
       party: 'Labour (Co-op)',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.prestonmp.co.uk/',
     },
     {
@@ -3064,7 +3064,7 @@ export default {
       name: 'Drew Hendry',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@drewhendrysnp',
+        username: '@drewhendrysnp',
         url: 'https://twitter.com/drewhendrysnp',
       },
       website: 'http://drewhendrymp.scot/',
@@ -3075,7 +3075,7 @@ export default {
       email: 'hepburns@parliament.uk',
       name: 'Mr Hepburn',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -3085,7 +3085,7 @@ export default {
       name: 'Nick Herbert',
       party: 'Conservative',
       twitter: {
-        handler: '@nickherbertmp',
+        username: '@nickherbertmp',
         url: 'https://twitter.com/nickherbertmp',
       },
       website: 'http://www.nickherbert.com/',
@@ -3096,7 +3096,7 @@ export default {
       email: 'sylvia.hermon.mp@parliament.uk',
       name: 'Lady Hermon',
       party: 'Independent',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -3105,7 +3105,7 @@ export default {
       email: 'mike.hill.mp@parliament.uk',
       name: 'Mike Hill',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -3115,7 +3115,7 @@ export default {
       name: 'Meg Hillier',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@meg_hilliermp',
+        username: '@meg_hilliermp',
         url: 'https://twitter.com/Meg_HillierMP',
       },
       website: 'http://www.meghillier.com/',
@@ -3126,7 +3126,7 @@ export default {
       email: 'damian.hinds.mp@parliament.uk',
       name: '',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.damianhinds.com/',
     },
     {
@@ -3136,7 +3136,7 @@ export default {
       name: 'Simon Hoare',
       party: 'Conservative',
       twitter: {
-        handler: '@simon4ndorset',
+        username: '@simon4ndorset',
         url: 'https://twitter.com/simon4ndorset',
       },
       website: null,
@@ -3148,7 +3148,7 @@ export default {
       name: 'Wera Hobhouse',
       party: 'Liberal Democrat',
       twitter: {
-        handler: '@wera_hobhouse',
+        username: '@wera_hobhouse',
         url: 'https://twitter.com/Wera_Hobhouse',
       },
       website: null,
@@ -3160,7 +3160,7 @@ export default {
       name: 'Dame Margaret Hodge',
       party: 'Labour',
       twitter: {
-        handler: '@margarethodge',
+        username: '@margarethodge',
         url: 'https://twitter.com/margarethodge',
       },
       website: 'http://margaret-hodge.co.uk/',
@@ -3172,7 +3172,7 @@ export default {
       name: 'Mrs Hodgson',
       party: 'Labour',
       twitter: {
-        handler: '@sharonhodgsonmp',
+        username: '@sharonhodgsonmp',
         url: 'https://twitter.com/SharonHodgsonMP',
       },
       website: 'http://www.sharonhodgson.org/',
@@ -3184,7 +3184,7 @@ export default {
       name: 'Kate Hoey',
       party: 'Labour',
       twitter: {
-        handler: '@katehoeymp',
+        username: '@katehoeymp',
         url: 'https://twitter.com/KateHoeyMP',
       },
       website: 'http://www.katehoey.com/',
@@ -3196,7 +3196,7 @@ export default {
       name: 'Kate Hollern',
       party: 'Labour',
       twitter: {
-        handler: '@kate_hollernmp',
+        username: '@kate_hollernmp',
         url: 'https://twitter.com/kate_hollernmp',
       },
       website: 'http://www.katehollern.org/',
@@ -3207,7 +3207,7 @@ export default {
       email: 'george.hollingbery.mp@parliament.uk',
       name: 'George Hollingbery',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.georgehollingbery.com/',
     },
     {
@@ -3217,7 +3217,7 @@ export default {
       name: 'Kevin Hollinrake',
       party: 'Conservative',
       twitter: {
-        handler: '@kevinhollinrake',
+        username: '@kevinhollinrake',
         url: 'https://twitter.com/kevinhollinrake',
       },
       website: 'http://www.kevinhollinrake.org.uk/',
@@ -3228,7 +3228,7 @@ export default {
       email: 'philip.hollobone.mp@parliament.uk',
       name: 'Mr Hollobone',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -3237,7 +3237,7 @@ export default {
       email: 'hollowaya@parliament.uk',
       name: 'Adam Holloway',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.adamholloway.co.uk/',
     },
     {
@@ -3246,7 +3246,7 @@ export default {
       email: 'hopkinsk@parliament.uk',
       name: 'Kelvin Hopkins',
       party: 'Independent',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.kelvinhopkinsmp.com/',
     },
     {
@@ -3256,7 +3256,7 @@ export default {
       name: 'Stewart Hosie',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@stewarthosiemp',
+        username: '@stewarthosiemp',
         url: 'https://twitter.com/StewartHosieMP',
       },
       website: 'http://www.stewarthosie.com/',
@@ -3267,7 +3267,7 @@ export default {
       email: 'george.howarth.mp@parliament.uk',
       name: 'Mr Howarth',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.georgehowarth.org.uk/',
     },
     {
@@ -3276,7 +3276,7 @@ export default {
       email: 'howelljm@parliament.uk',
       name: 'John Howell',
       party: 'Conservative',
-      twitter: { handler: '@jhowelluk', url: 'https://twitter.com/JHowellUK' },
+      twitter: { username: '@jhowelluk', url: 'https://twitter.com/JHowellUK' },
       website: 'http://www.johnhowellmp.com/',
     },
     {
@@ -3286,7 +3286,7 @@ export default {
       name: 'Sir Lindsay',
       party: 'Labour',
       twitter: {
-        handler: '@lindsayhoyle_mp',
+        username: '@lindsayhoyle_mp',
         url: 'https://twitter.com/LindsayHoyle_MP',
       },
       website: null,
@@ -3298,7 +3298,7 @@ export default {
       name: 'Nigel Huddleston',
       party: 'Conservative',
       twitter: {
-        handler: '@huddlestonnigel',
+        username: '@huddlestonnigel',
         url: 'https://twitter.com/huddlestonnigel',
       },
       website: 'http://www.nigelhuddleston.com/',
@@ -3310,7 +3310,7 @@ export default {
       name: 'Eddie Hughes',
       party: 'Conservative',
       twitter: {
-        handler: '@eddiehughes4wn',
+        username: '@eddiehughes4wn',
         url: 'https://twitter.com/EddieHughes4WN',
       },
       website: null,
@@ -3322,7 +3322,7 @@ export default {
       name: 'Mr Hunt',
       party: 'Conservative',
       twitter: {
-        handler: '@jeremy_hunt',
+        username: '@jeremy_hunt',
         url: 'https://twitter.com/Jeremy_Hunt',
       },
       website: 'http://www.jeremyhunt.org/',
@@ -3333,7 +3333,7 @@ export default {
       email: 'rupa.huq.mp@parliament.uk',
       name: 'Dr Huq',
       party: 'Labour',
-      twitter: { handler: '@rupahuq', url: 'https://twitter.com/rupahuq' },
+      twitter: { username: '@rupahuq', url: 'https://twitter.com/rupahuq' },
       website: null,
     },
     {
@@ -3343,7 +3343,7 @@ export default {
       name: 'Mr Hurd',
       party: 'Conservative',
       twitter: {
-        handler: '@nickhurdmp',
+        username: '@nickhurdmp',
         url: 'https://twitter.com/nickhurdmp',
       },
       website: 'http://www.nickhurd.com/',
@@ -3355,7 +3355,7 @@ export default {
       name: 'Imran Hussain',
       party: 'Labour',
       twitter: {
-        handler: '@imran_hussainmp',
+        username: '@imran_hussainmp',
         url: 'https://twitter.com/Imran_HussainMP',
       },
       website: 'http://www.imranhussain.org.uk/',
@@ -3366,7 +3366,7 @@ export default {
       email: 'alister.jack.mp@parliament.uk',
       name: 'Mr Jack',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'https://www.alisterjack.co.uk/',
     },
     {
@@ -3376,7 +3376,7 @@ export default {
       name: 'Margot James',
       party: 'Conservative',
       twitter: {
-        handler: '@margot_james_mp',
+        username: '@margot_james_mp',
         url: 'https://twitter.com/margot_james_mp',
       },
       website: 'http://www.margotjames.com/',
@@ -3388,7 +3388,7 @@ export default {
       name: 'Christine Jardine',
       party: 'Liberal Democrat',
       twitter: {
-        handler: '@cajardinemp',
+        username: '@cajardinemp',
         url: 'https://twitter.com/CajardineMP',
       },
       website: null,
@@ -3400,7 +3400,7 @@ export default {
       name: 'Dan Jarvis',
       party: 'Labour',
       twitter: {
-        handler: '@danjarvismp',
+        username: '@danjarvismp',
         url: 'https://twitter.com/DanJarvisMP',
       },
       website:
@@ -3413,7 +3413,7 @@ export default {
       name: 'Sajid Javid',
       party: 'Conservative',
       twitter: {
-        handler: '@sajidjavid',
+        username: '@sajidjavid',
         url: 'https://twitter.com/sajidjavid',
       },
       website: 'http://www.sajidjavid.com/',
@@ -3424,7 +3424,7 @@ export default {
       email: 'email@ranil.uk',
       name: 'Mr Jayawardena',
       party: 'Conservative',
-      twitter: { handler: '@teamranil', url: 'https://twitter.com/teamranil' },
+      twitter: { username: '@teamranil', url: 'https://twitter.com/teamranil' },
       website: 'https://www.ranil.uk/',
     },
     {
@@ -3434,7 +3434,7 @@ export default {
       name: 'Sir Bernard',
       party: 'Conservative',
       twitter: {
-        handler: '@bernardjenkin',
+        username: '@bernardjenkin',
         url: 'https://twitter.com/bernardjenkin',
       },
       website: 'http://www.bernardjenkinmp.com/',
@@ -3446,7 +3446,7 @@ export default {
       name: 'Andrea Jenkyns',
       party: 'Conservative',
       twitter: {
-        handler: '@andreajenkyns',
+        username: '@andreajenkyns',
         url: 'https://twitter.com/andreajenkyns',
       },
       website: 'http://www.andreajenkyns.co.uk/',
@@ -3458,7 +3458,7 @@ export default {
       name: '',
       party: 'Conservative',
       twitter: {
-        handler: '@robertjenrick',
+        username: '@robertjenrick',
         url: 'https://twitter.com/RobertJenrick',
       },
       website: 'http://www.robertjenrick.com/',
@@ -3470,7 +3470,7 @@ export default {
       name: '',
       party: 'Conservative',
       twitter: {
-        handler: '@borisjohnson',
+        username: '@borisjohnson',
         url: 'https://twitter.com/borisjohnson',
       },
       website: null,
@@ -3482,7 +3482,7 @@ export default {
       name: 'Dr Caroline Johnson',
       party: 'Conservative',
       twitter: {
-        handler: '@drcarolinej',
+        username: '@drcarolinej',
         url: 'https://twitter.com/drcarolinej',
       },
       website: 'http://www.carolinejohnson.co.uk/',
@@ -3494,7 +3494,7 @@ export default {
       name: 'Diana Johnson',
       party: 'Labour',
       twitter: {
-        handler: '@dianajohnsonmp',
+        username: '@dianajohnsonmp',
         url: 'https://twitter.com/DianaJohnsonMP',
       },
       website: 'http://www.dianajohnson.co.uk/',
@@ -3505,7 +3505,7 @@ export default {
       email: 'gareth.johnson.mp@parliament.uk',
       name: 'Gareth Johnson',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.garethjohnsonmp.co.uk/',
     },
     {
@@ -3515,7 +3515,7 @@ export default {
       name: 'Joseph Johnson',
       party: 'Conservative',
       twitter: {
-        handler: '@jojohnsonmp',
+        username: '@jojohnsonmp',
         url: 'https://twitter.com/JoJohnsonMP',
       },
       website: 'http://www.jo-johnson.com/',
@@ -3526,7 +3526,7 @@ export default {
       email: 'andrew.jones.mp@parliament.uk',
       name: 'Andrew Jones',
       party: 'Conservative',
-      twitter: { handler: '@ajonesmp', url: 'https://twitter.com/AJonesMP' },
+      twitter: { username: '@ajonesmp', url: 'https://twitter.com/AJonesMP' },
       website: 'http://www.andrewjonesmp.co.uk/',
     },
     {
@@ -3536,7 +3536,7 @@ export default {
       name: 'Darren Jones',
       party: 'Labour',
       twitter: {
-        handler: '@darrenpjones',
+        username: '@darrenpjones',
         url: 'https://twitter.com/darrenpjones',
       },
       website: 'http://www.darren-jones.co.uk/',
@@ -3547,7 +3547,7 @@ export default {
       email: 'laura.bradley@parliament.uk',
       name: 'Mr Jones',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.davidjonesmp.co.uk/',
     },
     {
@@ -3557,7 +3557,7 @@ export default {
       name: 'Gerald Jones',
       party: 'Labour',
       twitter: {
-        handler: '@geraldjoneslab',
+        username: '@geraldjoneslab',
         url: 'https://twitter.com/geraldjoneslab',
       },
       website: 'http://www.geraldjones.co.uk/',
@@ -3569,7 +3569,7 @@ export default {
       name: 'Graham Jones',
       party: 'Labour',
       twitter: {
-        handler: '@grahamjones_mp',
+        username: '@grahamjones_mp',
         url: 'https://twitter.com/GrahamJones_MP',
       },
       website: 'https://hhgrahamjones.blogspot.com/',
@@ -3581,7 +3581,7 @@ export default {
       name: 'Helen Jones',
       party: 'Labour',
       twitter: {
-        handler: '@helenjonesmp',
+        username: '@helenjonesmp',
         url: 'https://twitter.com/HelenJonesMP',
       },
       website: null,
@@ -3593,7 +3593,7 @@ export default {
       name: 'Mr Jones',
       party: 'Labour',
       twitter: {
-        handler: '@kevanjonesmp',
+        username: '@kevanjonesmp',
         url: 'https://twitter.com/KevanJonesMP',
       },
       website: 'http://www.kevanjonesmp.org.uk/',
@@ -3605,7 +3605,7 @@ export default {
       name: 'Mr Jones',
       party: 'Conservative',
       twitter: {
-        handler: '@marcus4nuneaton',
+        username: '@marcus4nuneaton',
         url: 'https://twitter.com/Marcus4Nuneaton',
       },
       website: 'http://www.marcusjones.org.uk/',
@@ -3616,7 +3616,7 @@ export default {
       email: 'sarah.jones.mp@parliament.uk',
       name: 'Sarah Jones',
       party: 'Labour',
-      twitter: { handler: '@laboursj', url: 'https://twitter.com/LabourSJ' },
+      twitter: { username: '@laboursj', url: 'https://twitter.com/LabourSJ' },
       website: 'http://www.sarah-jones.org/',
     },
     {
@@ -3626,7 +3626,7 @@ export default {
       name: 'Susan Elan Jones',
       party: 'Labour',
       twitter: {
-        handler: '@susanelanjones',
+        username: '@susanelanjones',
         url: 'https://twitter.com/susanelanjones',
       },
       website: 'http://www.susanelanjones.co.uk/',
@@ -3638,7 +3638,7 @@ export default {
       name: '',
       party: 'Labour',
       twitter: {
-        handler: '@mikekanemp',
+        username: '@mikekanemp',
         url: 'https://twitter.com/MikeKaneMP',
       },
       website: null,
@@ -3650,7 +3650,7 @@ export default {
       name: 'Daniel Kawczynski',
       party: 'Conservative',
       twitter: {
-        handler: '@dkshrewsbury',
+        username: '@dkshrewsbury',
         url: 'https://twitter.com/DKShrewsbury',
       },
       website: 'http://www.daniel4shrewsbury.co.uk/',
@@ -3662,7 +3662,7 @@ export default {
       name: 'Gillian Keegan',
       party: 'Conservative',
       twitter: {
-        handler: '@gilliankeegan',
+        username: '@gilliankeegan',
         url: 'https://twitter.com/GillianKeegan',
       },
       website: null,
@@ -3673,7 +3673,7 @@ export default {
       email: null,
       name: 'Barbara Keeley',
       party: 'Labour',
-      twitter: { handler: '@keeleymp', url: 'https://twitter.com/KeeleyMP' },
+      twitter: { username: '@keeleymp', url: 'https://twitter.com/KeeleyMP' },
       website: 'http://www.barbarakeeley.co.uk/',
     },
     {
@@ -3683,7 +3683,7 @@ export default {
       name: 'Liz Kendall',
       party: 'Labour',
       twitter: {
-        handler: '@leicesterliz',
+        username: '@leicesterliz',
         url: 'https://twitter.com/leicesterliz',
       },
       website: 'http://www.lizkendall.org/',
@@ -3695,7 +3695,7 @@ export default {
       name: 'Seema Kennedy',
       party: 'Conservative',
       twitter: {
-        handler: '@seemakennedy',
+        username: '@seemakennedy',
         url: 'https://twitter.com/seemakennedy',
       },
       website: 'http://www.seemakennedy.co.uk/',
@@ -3707,7 +3707,7 @@ export default {
       name: 'Stephen Kerr',
       party: 'Conservative',
       twitter: {
-        handler: '@stephenkerrmp',
+        username: '@stephenkerrmp',
         url: 'https://twitter.com/stephenkerrMP',
       },
       website: null,
@@ -3719,7 +3719,7 @@ export default {
       name: 'Afzal Khan',
       party: 'Labour',
       twitter: {
-        handler: '@afzal4gorton',
+        username: '@afzal4gorton',
         url: 'https://twitter.com/Afzal4Gorton',
       },
       website: 'http://www.afzalkhan.org.uk/',
@@ -3730,7 +3730,7 @@ export default {
       email: 'ged.killen.mp@parliament.uk',
       name: 'Ged Killen',
       party: 'Labour (Co-op)',
-      twitter: { handler: '@gedk', url: 'https://twitter.com/Gedk' },
+      twitter: { username: '@gedk', url: 'https://twitter.com/Gedk' },
       website: 'http://gedkillen.com/',
     },
     {
@@ -3739,7 +3739,7 @@ export default {
       email: 'stephen.kinnock.mp@parliament.uk',
       name: 'Stephen Kinnock',
       party: 'Labour',
-      twitter: { handler: '@skinnock', url: 'https://twitter.com/skinnock' },
+      twitter: { username: '@skinnock', url: 'https://twitter.com/skinnock' },
       website: 'http://www.stephenkinnock.co.uk/',
     },
     {
@@ -3749,7 +3749,7 @@ export default {
       name: 'Sir Greg',
       party: 'Conservative',
       twitter: {
-        handler: '@gregknightmp',
+        username: '@gregknightmp',
         url: 'https://twitter.com/gregknightmp',
       },
       website: 'http://www.gregknight.com/',
@@ -3761,7 +3761,7 @@ export default {
       name: 'Julian Knight',
       party: 'Conservative',
       twitter: {
-        handler: '@julianknight15',
+        username: '@julianknight15',
         url: 'https://twitter.com/julianknight15',
       },
       website: 'http://www.julianknight.org.uk/',
@@ -3772,7 +3772,7 @@ export default {
       email: 'kwasi.kwarteng.mp@parliament.uk',
       name: 'Kwasi Kwarteng',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://kwasi4spelthorne.org.uk/',
     },
     {
@@ -3781,7 +3781,7 @@ export default {
       email: 'peter.kyle.mp@parliament.uk',
       name: 'Peter Kyle',
       party: 'Labour',
-      twitter: { handler: '@peterkyle', url: 'https://twitter.com/peterkyle' },
+      twitter: { username: '@peterkyle', url: 'https://twitter.com/peterkyle' },
       website: 'http://www.peterkyle.co.uk/',
     },
     {
@@ -3791,7 +3791,7 @@ export default {
       name: 'Dame Eleanor Laing',
       party: 'Conservative',
       twitter: {
-        handler: '@eleanorlaingmp',
+        username: '@eleanorlaingmp',
         url: 'https://twitter.com/EleanorLaingMP',
       },
       website: 'http://www.eleanorlaing.com/',
@@ -3803,7 +3803,7 @@ export default {
       name: 'Lesley Laird',
       party: 'Labour',
       twitter: {
-        handler: '@lesleylaird',
+        username: '@lesleylaird',
         url: 'https://twitter.com/LesleyLaird',
       },
       website: null,
@@ -3814,7 +3814,7 @@ export default {
       email: 'ben.lake.mp@parliament.uk',
       name: 'Ben Lake',
       party: 'Plaid Cymru',
-      twitter: { handler: '@benmlake', url: 'https://twitter.com/BenMLake' },
+      twitter: { username: '@benmlake', url: 'https://twitter.com/BenMLake' },
       website: null,
     },
     {
@@ -3824,7 +3824,7 @@ export default {
       name: 'Norman Lamb',
       party: 'Liberal Democrat',
       twitter: {
-        handler: '@normanlamb',
+        username: '@normanlamb',
         url: 'https://twitter.com/normanlamb',
       },
       website: 'http://www.normanlamb.org.uk/',
@@ -3836,7 +3836,7 @@ export default {
       name: 'Mr Lammy',
       party: 'Labour',
       twitter: {
-        handler: '@davidlammy',
+        username: '@davidlammy',
         url: 'https://twitter.com/DavidLammy',
       },
       website: 'http://www.davidlammy.co.uk/',
@@ -3847,7 +3847,7 @@ export default {
       email: 'john.lamont.mp@parliament.uk',
       name: 'John Lamont',
       party: 'Conservative',
-      twitter: { handler: '@john2win', url: 'https://twitter.com/John2Win' },
+      twitter: { username: '@john2win', url: 'https://twitter.com/John2Win' },
       website: 'http://www.johnlamont.org/',
     },
     {
@@ -3857,7 +3857,7 @@ export default {
       name: 'Mark Lancaster',
       party: 'Conservative',
       twitter: {
-        handler: '@marklancastermk',
+        username: '@marklancastermk',
         url: 'https://twitter.com/MarkLancasterMK',
       },
       website: 'http://www.lancaster4mk.com/',
@@ -3869,7 +3869,7 @@ export default {
       name: 'Mrs Pauline Latham',
       party: 'Conservative',
       twitter: {
-        handler: '@pauline_latham',
+        username: '@pauline_latham',
         url: 'https://twitter.com/Pauline_Latham',
       },
       website: 'http://www.paulinelatham.co.uk/',
@@ -3881,7 +3881,7 @@ export default {
       name: 'Ian Lavery',
       party: 'Labour',
       twitter: {
-        handler: '@ianlaverymp',
+        username: '@ianlaverymp',
         url: 'https://twitter.com/IanLaveryMP',
       },
       website: 'http://www.ianlavery.org.uk/',
@@ -3893,7 +3893,7 @@ export default {
       name: 'Chris Law',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@chrislawsnp',
+        username: '@chrislawsnp',
         url: 'https://twitter.com/chrislawsnp',
       },
       website: 'http://chrislaw.scot/',
@@ -3905,7 +3905,7 @@ export default {
       name: '',
       party: 'Conservative',
       twitter: {
-        handler: '@andrealeadsom',
+        username: '@andrealeadsom',
         url: 'https://twitter.com/andrealeadsom',
       },
       website: 'http://www.andrealeadsom.com/',
@@ -3917,7 +3917,7 @@ export default {
       name: 'Karen Lee',
       party: 'Labour',
       twitter: {
-        handler: '@karenleemp',
+        username: '@karenleemp',
         url: 'https://twitter.com/KarenLeeMP',
       },
       website: null,
@@ -3929,7 +3929,7 @@ export default {
       name: 'Dr Lee or Dr Phillip Lee MP',
       party: 'Conservative',
       twitter: {
-        handler: '@drphillipleemp',
+        username: '@drphillipleemp',
         url: 'https://twitter.com/DrPhillipLeeMP',
       },
       website: 'http://www.phillip-lee.com/',
@@ -3941,7 +3941,7 @@ export default {
       name: 'Mr Lefroy',
       party: 'Conservative',
       twitter: {
-        handler: '@jeremylefroy',
+        username: '@jeremylefroy',
         url: 'https://twitter.com/jeremylefroy',
       },
       website: 'http://www.jeremylefroy.org.uk/',
@@ -3953,7 +3953,7 @@ export default {
       name: 'Sir Edward',
       party: 'Conservative',
       twitter: {
-        handler: '@edwardleighmp',
+        username: '@edwardleighmp',
         url: 'https://twitter.com/EdwardLeighMP',
       },
       website: 'http://www.edwardleigh.org.uk/',
@@ -3965,7 +3965,7 @@ export default {
       name: '',
       party: 'Independent',
       twitter: {
-        handler: '@chrislesliemp',
+        username: '@chrislesliemp',
         url: 'https://twitter.com/ChrisLeslieMP',
       },
       website: 'http://www.chrisleslie.org/',
@@ -3977,7 +3977,7 @@ export default {
       name: 'Sir Oliver',
       party: 'Conservative',
       twitter: {
-        handler: '@oliverletwinmp',
+        username: '@oliverletwinmp',
         url: 'https://twitter.com/OliverLetwinMP',
       },
       website: 'http://www.oliverletwinmp.com/',
@@ -3989,7 +3989,7 @@ export default {
       name: 'Mrs Lewell-Buck',
       party: 'Labour',
       twitter: {
-        handler: '@emmalewellbuck',
+        username: '@emmalewellbuck',
         url: 'https://twitter.com/EmmaLewellBuck',
       },
       website: 'http://www.emma-lewell-buck.net/',
@@ -4000,7 +4000,7 @@ export default {
       email: 'andrew.lewer.mp@parliament.uk',
       name: 'Andrew Lewer',
       party: 'Conservative',
-      twitter: { handler: '@alewermbe', url: 'https://twitter.com/ALewerMBE' },
+      twitter: { username: '@alewermbe', url: 'https://twitter.com/ALewerMBE' },
       website: 'https://www.andrewlewer.com/',
     },
     {
@@ -4010,7 +4010,7 @@ export default {
       name: 'Brandon Lewis',
       party: 'Conservative',
       twitter: {
-        handler: '@brandonlewis',
+        username: '@brandonlewis',
         url: 'https://twitter.com/BrandonLewis',
       },
       website: 'http://www.brandonlewis.co/',
@@ -4022,7 +4022,7 @@ export default {
       name: 'Clive Lewis',
       party: 'Labour',
       twitter: {
-        handler: '@labourlewis',
+        username: '@labourlewis',
         url: 'https://twitter.com/labourlewis',
       },
       website: 'http://www.clivelewis.org/',
@@ -4034,7 +4034,7 @@ export default {
       name: 'Mr Lewis',
       party: 'Independent',
       twitter: {
-        handler: '@ivanlewis_mp',
+        username: '@ivanlewis_mp',
         url: 'https://twitter.com/IvanLewis_MP',
       },
       website: 'http://ivanlewis.org.uk/',
@@ -4045,7 +4045,7 @@ export default {
       email: null,
       name: 'Dr Lewis',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.julianlewis.net/',
     },
     {
@@ -4054,7 +4054,7 @@ export default {
       email: 'ianlg@parliament.uk',
       name: 'Mr Liddell-Grainger',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.liddellgrainger.org.uk/',
     },
     {
@@ -4064,7 +4064,7 @@ export default {
       name: 'Mr Lidington',
       party: 'Conservative',
       twitter: {
-        handler: '@dlidington',
+        username: '@dlidington',
         url: 'https://twitter.com/DLidington',
       },
       website: 'http://www.davidlidington.co.uk/',
@@ -4076,7 +4076,7 @@ export default {
       name: 'David Linden',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@davidlinden',
+        username: '@davidlinden',
         url: 'https://twitter.com/DavidLinden',
       },
       website: 'http://www.davidlinden.scot/',
@@ -4088,7 +4088,7 @@ export default {
       name: 'Emma Little Pengelly',
       party: 'Democratic Unionist Party',
       twitter: {
-        handler: '@little_pengelly',
+        username: '@little_pengelly',
         url: 'https://twitter.com/little_pengelly',
       },
       website: null,
@@ -4100,7 +4100,7 @@ export default {
       name: 'Stephen Lloyd',
       party: 'Independent',
       twitter: {
-        handler: '@stephenlloydebn',
+        username: '@stephenlloydebn',
         url: 'https://twitter.com/StephenLloydEBN',
       },
       website: 'http://eastbournelibdems.org.uk/',
@@ -4111,7 +4111,7 @@ export default {
       email: 'tony.lloyd.mp@parliament.uk',
       name: 'Tony Lloyd',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -4121,7 +4121,7 @@ export default {
       name: 'Ms Long Bailey',
       party: 'Labour',
       twitter: {
-        handler: '@rlong_bailey',
+        username: '@rlong_bailey',
         url: 'https://twitter.com/rlong_bailey',
       },
       website: 'http://rebeccalongbailey.com/',
@@ -4133,7 +4133,7 @@ export default {
       name: 'Julia Lopez',
       party: 'Conservative',
       twitter: {
-        handler: '@julialopezmp',
+        username: '@julialopezmp',
         url: 'https://twitter.com/JuliaLopezMP',
       },
       website: null,
@@ -4145,7 +4145,7 @@ export default {
       name: 'Jack Lopresti',
       party: 'Conservative',
       twitter: {
-        handler: '@jacklopresti',
+        username: '@jacklopresti',
         url: 'https://twitter.com/JackLopresti',
       },
       website: 'http://www.jacklopresti.com/',
@@ -4156,7 +4156,7 @@ export default {
       email: 'jonathan.lord.mp@parliament.uk',
       name: '',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.wokingconservatives.org.uk/',
     },
     {
@@ -4166,7 +4166,7 @@ export default {
       name: 'Tim Loughton',
       party: 'Conservative',
       twitter: {
-        handler: '@timloughton',
+        username: '@timloughton',
         url: 'https://twitter.com/timloughton',
       },
       website: 'http://www.timloughton.com/',
@@ -4178,7 +4178,7 @@ export default {
       name: 'Caroline Lucas',
       party: 'Green Party',
       twitter: {
-        handler: '@carolinelucas',
+        username: '@carolinelucas',
         url: 'https://twitter.com/CarolineLucas',
       },
       website: 'http://www.carolinelucas.com/',
@@ -4189,7 +4189,7 @@ export default {
       email: 'lucasi@parliament.uk',
       name: 'Ian C. Lucas',
       party: 'Labour',
-      twitter: { handler: '@ianclucas', url: 'https://twitter.com/IanCLucas' },
+      twitter: { username: '@ianclucas', url: 'https://twitter.com/IanCLucas' },
       website: 'http://www.ianlucas.co.uk/',
     },
     {
@@ -4199,7 +4199,7 @@ export default {
       name: 'Holly Lynch',
       party: 'Labour',
       twitter: {
-        handler: '@hollylynch5',
+        username: '@hollylynch5',
         url: 'https://twitter.com/hollylynch5',
       },
       website: 'http://www.hollylynch.org.uk/',
@@ -4211,7 +4211,7 @@ export default {
       name: 'Steve McCabe',
       party: 'Labour',
       twitter: {
-        handler: '@steve_mccabe',
+        username: '@steve_mccabe',
         url: 'https://twitter.com/steve_mccabe',
       },
       website: 'http://www.stevemccabe-mp.org.uk/',
@@ -4222,7 +4222,7 @@ export default {
       email: 'elisha.mccallion.mp@parliament.uk',
       name: '',
       party: 'Sinn Féin',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -4231,7 +4231,7 @@ export default {
       email: 'kerry.mccarthy.mp@parliament.uk',
       name: 'Kerry McCarthy',
       party: 'Labour',
-      twitter: { handler: '@kerrymp', url: 'https://twitter.com/KerryMP' },
+      twitter: { username: '@kerrymp', url: 'https://twitter.com/KerryMP' },
       website: 'http://www.kerrymccarthymp.org/',
     },
     {
@@ -4241,7 +4241,7 @@ export default {
       name: 'Siobhain McDonagh',
       party: 'Labour',
       twitter: {
-        handler: '@siobhain_mp',
+        username: '@siobhain_mp',
         url: 'https://twitter.com/Siobhain_MP',
       },
       website: 'http://www.siobhainmcdonagh.org.uk/',
@@ -4253,7 +4253,7 @@ export default {
       name: 'Andy McDonald',
       party: 'Labour',
       twitter: {
-        handler: '@andymcdonaldmp',
+        username: '@andymcdonaldmp',
         url: 'https://twitter.com/AndyMcDonaldMP',
       },
       website: 'http://www.andymcdonaldmp.org/',
@@ -4265,7 +4265,7 @@ export default {
       name: 'Stewart Malcolm McDonald',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@stewartmcdonald',
+        username: '@stewartmcdonald',
         url: 'https://twitter.com/stewartmcdonald',
       },
       website: 'http://www.stewartmcdonald.scot/',
@@ -4277,7 +4277,7 @@ export default {
       name: 'Stuart C. McDonald',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@stuart_mcdonald',
+        username: '@stuart_mcdonald',
         url: 'https://twitter.com/stuart_mcdonald',
       },
       website: 'http://www.stuartmcdonaldmp.co.uk/',
@@ -4289,7 +4289,7 @@ export default {
       name: 'John McDonnell',
       party: 'Labour',
       twitter: {
-        handler: '@johnmcdonnellmp',
+        username: '@johnmcdonnellmp',
         url: 'https://twitter.com/johnmcdonnellMP',
       },
       website: 'http://www.john-mcdonnell.net/',
@@ -4301,7 +4301,7 @@ export default {
       name: 'Mr McFadden',
       party: 'Labour',
       twitter: {
-        handler: '@patmcfaddenmp',
+        username: '@patmcfaddenmp',
         url: 'https://twitter.com/patmcfaddenmp',
       },
       website: 'http://www.patmcfadden.com/',
@@ -4313,7 +4313,7 @@ export default {
       name: 'Conor McGinn',
       party: 'Labour',
       twitter: {
-        handler: '@conormcginn',
+        username: '@conormcginn',
         url: 'https://twitter.com/conormcginn',
       },
       website: 'http://www.conormcginn.co.uk/',
@@ -4325,7 +4325,7 @@ export default {
       name: 'Alison McGovern',
       party: 'Labour',
       twitter: {
-        handler: '@alison_mcgovern',
+        username: '@alison_mcgovern',
         url: 'https://twitter.com/Alison_McGovern',
       },
       website: 'http://www.alisonmcgovern.org.uk/',
@@ -4337,7 +4337,7 @@ export default {
       name: '',
       party: 'Labour',
       twitter: {
-        handler: '@lizmcinnes_mp',
+        username: '@lizmcinnes_mp',
         url: 'https://twitter.com/lizmcinnes_mp',
       },
       website: 'http://www.lizmcinnesmp.org.uk/',
@@ -4349,7 +4349,7 @@ export default {
       name: 'Craig Mackinlay',
       party: 'Conservative',
       twitter: {
-        handler: '@cmackinlay',
+        username: '@cmackinlay',
         url: 'https://twitter.com/cmackinlay',
       },
       website: 'http://www.craigmackinlay.com/',
@@ -4361,7 +4361,7 @@ export default {
       name: 'Catherine McKinnell',
       party: 'Labour',
       twitter: {
-        handler: '@catmckinnell',
+        username: '@catmckinnell',
         url: 'https://twitter.com/catmckinnell',
       },
       website: 'http://www.catherinemckinnellmp.co.uk/',
@@ -4373,7 +4373,7 @@ export default {
       name: 'Rachel Maclean',
       party: 'Conservative',
       twitter: {
-        handler: '@redditchrachel',
+        username: '@redditchrachel',
         url: 'https://twitter.com/redditchrachel',
       },
       website: 'https://www.rachelmaclean.uk/',
@@ -4384,7 +4384,7 @@ export default {
       email: 'patrick.mcloughlin.mp@parliament.uk',
       name: 'Sir Patrick',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -4394,7 +4394,7 @@ export default {
       name: '',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@jimfromoldham',
+        username: '@jimfromoldham',
         url: 'https://twitter.com/JimfromOldham',
       },
       website: 'http://www.jimmcmahon.co.uk/',
@@ -4406,7 +4406,7 @@ export default {
       name: 'Anna McMorrin',
       party: 'Labour',
       twitter: {
-        handler: '@annamcmorrin',
+        username: '@annamcmorrin',
         url: 'https://twitter.com/annamcmorrin',
       },
       website: null,
@@ -4418,7 +4418,7 @@ export default {
       name: 'John McNally',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@johnmcnallymp',
+        username: '@johnmcnallymp',
         url: 'https://twitter.com/johnmcnallymp',
       },
       website: 'http://johnny4falkirk.scot/',
@@ -4430,7 +4430,7 @@ export default {
       name: 'Angus Brendan MacNeil',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@angusmacneilsnp',
+        username: '@angusmacneilsnp',
         url: 'https://twitter.com/angusmacneilsnp',
       },
       website: null,
@@ -4442,7 +4442,7 @@ export default {
       name: 'Stephen McPartland',
       party: 'Conservative',
       twitter: {
-        handler: '@smcpartlandmp',
+        username: '@smcpartlandmp',
         url: 'https://twitter.com/SMcPartlandMP',
       },
       website: 'http://www.stephenmcpartland.co.uk/',
@@ -4453,7 +4453,7 @@ export default {
       email: 'esther.mcvey.mp@parliament.uk',
       name: 'Esther McVey',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -4463,7 +4463,7 @@ export default {
       name: 'Justin Madders',
       party: 'Labour',
       twitter: {
-        handler: '@justinmadders',
+        username: '@justinmadders',
         url: 'https://twitter.com/justinmadders',
       },
       website: 'http://www.justinmadders.com/',
@@ -4474,7 +4474,7 @@ export default {
       email: 'mahmoodk@parliament.uk',
       name: 'Mr Mahmood',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.khalidmahmoodmp.co.uk/',
     },
     {
@@ -4484,7 +4484,7 @@ export default {
       name: 'Shabana Mahmood',
       party: 'Labour',
       twitter: {
-        handler: '@shabanamahmood',
+        username: '@shabanamahmood',
         url: 'https://twitter.com/ShabanaMahmood',
       },
       website: 'http://www.shabanamahmood.org/',
@@ -4495,7 +4495,7 @@ export default {
       email: 'maina@parliament.uk',
       name: 'Mrs Main',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.annemain.com/',
     },
     {
@@ -4504,7 +4504,7 @@ export default {
       email: 'alan.mak.mp@parliament.uk',
       name: 'Alan Mak',
       party: 'Conservative',
-      twitter: { handler: '@alanmakmp', url: 'https://twitter.com/AlanMakMP' },
+      twitter: { username: '@alanmakmp', url: 'https://twitter.com/AlanMakMP' },
       website: 'http://www.alanmak.org.uk/',
     },
     {
@@ -4514,7 +4514,7 @@ export default {
       name: 'Seema Malhotra',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@seemamalhotra1',
+        username: '@seemamalhotra1',
         url: 'https://twitter.com/SeemaMalhotra1',
       },
       website: 'http://www.seemamalhotra.com/',
@@ -4526,7 +4526,7 @@ export default {
       name: 'Kit Malthouse',
       party: 'Conservative',
       twitter: {
-        handler: '@kitmalthouse',
+        username: '@kitmalthouse',
         url: 'https://twitter.com/kitmalthouse',
       },
       website: 'http://kitmalthouse.com/',
@@ -4538,7 +4538,7 @@ export default {
       name: 'John Mann',
       party: 'Labour',
       twitter: {
-        handler: '@johnmannmp',
+        username: '@johnmannmp',
         url: 'https://twitter.com/JohnMannMP',
       },
       website: 'http://www.johnmannmp.com/',
@@ -4550,7 +4550,7 @@ export default {
       name: 'Scott Mann',
       party: 'Conservative',
       twitter: {
-        handler: '@scottmannmp',
+        username: '@scottmannmp',
         url: 'https://twitter.com/scottmannmp',
       },
       website: 'http://www.scottmann.org.uk/',
@@ -4562,7 +4562,7 @@ export default {
       name: 'Gordon Marsden',
       party: 'Labour',
       twitter: {
-        handler: '@gordonmarsden',
+        username: '@gordonmarsden',
         url: 'https://twitter.com/GordonMarsden',
       },
       website: 'http://www.gordonmarsden.co.uk/',
@@ -4574,7 +4574,7 @@ export default {
       name: 'Sandy Martin',
       party: 'Labour',
       twitter: {
-        handler: '@sandyofipswich',
+        username: '@sandyofipswich',
         url: 'https://twitter.com/sandyofipswich',
       },
       website: 'http://sandyofipswich.co.uk/',
@@ -4586,7 +4586,7 @@ export default {
       name: 'Rachael Maskell',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@rachaelmaskell',
+        username: '@rachaelmaskell',
         url: 'https://twitter.com/rachaelmaskell',
       },
       website: 'http://www.rachaelmaskell.com/',
@@ -4598,7 +4598,7 @@ export default {
       name: 'Paul Maskey',
       party: 'Sinn Féin',
       twitter: {
-        handler: '@paulmaskeymp',
+        username: '@paulmaskeymp',
         url: 'https://twitter.com/PaulMaskeyMP',
       },
       website: 'http://www.sinnfein.ie/',
@@ -4610,7 +4610,7 @@ export default {
       name: 'Paul Masterton',
       party: 'Conservative',
       twitter: {
-        handler: '@pm4eastren',
+        username: '@pm4eastren',
         url: 'https://twitter.com/PM4EastRen',
       },
       website: 'https://www.paulmasterton.org.uk/',
@@ -4622,7 +4622,7 @@ export default {
       name: 'Christian Matheson',
       party: 'Labour',
       twitter: {
-        handler: '@chrism4chester',
+        username: '@chrism4chester',
         url: 'https://twitter.com/chrism4chester',
       },
       website: 'http://www.chrismatheson.co.uk/',
@@ -4634,7 +4634,7 @@ export default {
       name: 'Mrs May',
       party: 'Conservative',
       twitter: {
-        handler: '@theresa_may',
+        username: '@theresa_may',
         url: 'https://twitter.com/theresa_may',
       },
       website: 'http://www.tmay.co.uk/',
@@ -4646,7 +4646,7 @@ export default {
       name: 'Paul Maynard',
       party: 'Conservative',
       twitter: {
-        handler: '@paulmaynardmp',
+        username: '@paulmaynardmp',
         url: 'https://twitter.com/PaulMaynardMP',
       },
       website: 'http://www.paulmaynard.co.uk/',
@@ -4658,7 +4658,7 @@ export default {
       name: 'Ian Mearns',
       party: 'Labour',
       twitter: {
-        handler: '@ianmearnsmp',
+        username: '@ianmearnsmp',
         url: 'https://twitter.com/IanMearnsMP',
       },
       website: 'http://www.ianmearns.org.uk/',
@@ -4669,7 +4669,7 @@ export default {
       email: 'mark.menzies.mp@parliament.uk',
       name: 'Mark Menzies',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.markmenzies.org.uk/',
     },
     {
@@ -4679,7 +4679,7 @@ export default {
       name: 'Johnny Mercer',
       party: 'Conservative',
       twitter: {
-        handler: '@johnnymercermp',
+        username: '@johnnymercermp',
         url: 'https://twitter.com/JohnnyMercerMP',
       },
       website: 'http://www.johnnyforplymouth.co.uk/',
@@ -4691,7 +4691,7 @@ export default {
       name: 'Huw Merriman',
       party: 'Conservative',
       twitter: {
-        handler: '@huwmerriman',
+        username: '@huwmerriman',
         url: 'https://twitter.com/huwmerriman',
       },
       website: 'http://www.huwmerriman.org.uk/',
@@ -4703,7 +4703,7 @@ export default {
       name: 'Stephen Metcalfe',
       party: 'Conservative',
       twitter: {
-        handler: '@metcalfe_sbet',
+        username: '@metcalfe_sbet',
         url: 'https://twitter.com/Metcalfe_SBET',
       },
       website: 'https://www.stephenmetcalfe.org.uk/',
@@ -4715,7 +4715,7 @@ export default {
       name: 'Edward Miliband',
       party: 'Labour',
       twitter: {
-        handler: '@ed_miliband',
+        username: '@ed_miliband',
         url: 'https://twitter.com/Ed_Miliband',
       },
       website: null,
@@ -4727,7 +4727,7 @@ export default {
       name: 'Mrs Maria Miller',
       party: 'Conservative',
       twitter: {
-        handler: '@maria_millermp',
+        username: '@maria_millermp',
         url: 'https://twitter.com/Maria_MillerMP',
       },
       website: 'http://www.maria4basingstoke.co.uk/',
@@ -4739,7 +4739,7 @@ export default {
       name: 'Amanda Milling',
       party: 'Conservative',
       twitter: {
-        handler: '@amandamilling',
+        username: '@amandamilling',
         url: 'https://twitter.com/amandamilling',
       },
       website: 'http://www.amandamilling.com/',
@@ -4751,7 +4751,7 @@ export default {
       name: 'Nigel Mills',
       party: 'Conservative',
       twitter: {
-        handler: '@nigelmillsmp',
+        username: '@nigelmillsmp',
         url: 'https://twitter.com/NigelMillsMP',
       },
       website: 'http://www.nigelmillsmp.com/',
@@ -4763,7 +4763,7 @@ export default {
       name: 'Anne Milton',
       party: 'Conservative',
       twitter: {
-        handler: '@annemilton',
+        username: '@annemilton',
         url: 'https://twitter.com/AnneMilton',
       },
       website: 'http://www.guildfordconservatives.com/',
@@ -4774,7 +4774,7 @@ export default {
       email: 'andrew.mitchell.mp@parliament.uk',
       name: 'Mr Mitchell',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.andrew-mitchell-mp.co.uk/',
     },
     {
@@ -4784,7 +4784,7 @@ export default {
       name: 'Francie Molloy',
       party: 'Sinn Féin',
       twitter: {
-        handler: '@franciemolloy',
+        username: '@franciemolloy',
         url: 'https://twitter.com/FrancieMolloy',
       },
       website: 'http://www.franciemolloy.ie/',
@@ -4796,7 +4796,7 @@ export default {
       name: 'Carol Monaghan',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@cmonaghansnp',
+        username: '@cmonaghansnp',
         url: 'https://twitter.com/cmonaghansnp',
       },
       website: 'http://www.snp.org/carol_monaghan',
@@ -4808,7 +4808,7 @@ export default {
       name: 'Mrs Moon',
       party: 'Labour',
       twitter: {
-        handler: '@madeleinemoon',
+        username: '@madeleinemoon',
         url: 'https://twitter.com/MadeleineMoon',
       },
       website: 'http://www.madeleinemoonmp.com/',
@@ -4820,7 +4820,7 @@ export default {
       name: 'Damien Moore',
       party: 'Conservative',
       twitter: {
-        handler: '@damienmooremp',
+        username: '@damienmooremp',
         url: 'https://twitter.com/damienmooremp',
       },
       website: 'http://www.damienmooremp.com/',
@@ -4832,7 +4832,7 @@ export default {
       name: 'Layla Moran',
       party: 'Liberal Democrat',
       twitter: {
-        handler: '@laylamoran',
+        username: '@laylamoran',
         url: 'https://twitter.com/laylamoran',
       },
       website: 'http://www.laylamoran.com/',
@@ -4844,7 +4844,7 @@ export default {
       name: 'Penny Mordaunt',
       party: 'Conservative',
       twitter: {
-        handler: '@pennymordauntmp',
+        username: '@pennymordauntmp',
         url: 'https://twitter.com/PennyMordauntMP',
       },
       website: 'http://www.pennymordaunt.com/',
@@ -4856,7 +4856,7 @@ export default {
       name: 'Jessica Morden',
       party: 'Labour',
       twitter: {
-        handler: '@jessicamordenmp',
+        username: '@jessicamordenmp',
         url: 'https://twitter.com/jessicamordenmp',
       },
       website: 'http://www.jessicamorden.com/',
@@ -4868,7 +4868,7 @@ export default {
       name: 'Nicky Morgan',
       party: 'Conservative',
       twitter: {
-        handler: '@nickymorgan01',
+        username: '@nickymorgan01',
         url: 'https://twitter.com/NickyMorgan01',
       },
       website: 'http://www.nickymorgan.org/',
@@ -4880,7 +4880,7 @@ export default {
       name: 'Stephen Morgan',
       party: 'Labour',
       twitter: {
-        handler: '@stephenmorganmp',
+        username: '@stephenmorganmp',
         url: 'https://twitter.com/stephenmorganmp',
       },
       website: 'https://stephenjmorgan.org/',
@@ -4892,7 +4892,7 @@ export default {
       name: 'Anne Marie Morris',
       party: 'Conservative',
       twitter: {
-        handler: '@ammorrismp',
+        username: '@ammorrismp',
         url: 'https://twitter.com/AMMorrisMP',
       },
       website: 'http://www.annemariemorris.co.uk/',
@@ -4904,7 +4904,7 @@ export default {
       name: 'David Morris',
       party: 'Conservative',
       twitter: {
-        handler: '@davidmpmorris',
+        username: '@davidmpmorris',
         url: 'https://twitter.com/Davidmpmorris',
       },
       website: 'http://www.davidmorris.org.uk/',
@@ -4916,7 +4916,7 @@ export default {
       name: 'Grahame Morris',
       party: 'Labour',
       twitter: {
-        handler: '@grahamemorris',
+        username: '@grahamemorris',
         url: 'https://twitter.com/grahamemorris',
       },
       website: 'http://grahamemorrismp.co.uk/',
@@ -4928,7 +4928,7 @@ export default {
       name: 'James Morris',
       party: 'Conservative',
       twitter: {
-        handler: '@jamesmorrishrr',
+        username: '@jamesmorrishrr',
         url: 'https://twitter.com/JamesMorrisHRR',
       },
       website: 'http://www.jamesmorrismp.com/',
@@ -4940,7 +4940,7 @@ export default {
       name: 'Wendy Morton',
       party: 'Conservative',
       twitter: {
-        handler: '@morton_wendy',
+        username: '@morton_wendy',
         url: 'https://twitter.com/morton_wendy',
       },
       website: 'http://wendymorton.co.uk/',
@@ -4952,7 +4952,7 @@ export default {
       name: 'David Mundell',
       party: 'Conservative',
       twitter: {
-        handler: '@davidmundelldct',
+        username: '@davidmundelldct',
         url: 'https://twitter.com/davidmundelldct',
       },
       website: 'http://www.davidmundell.com/',
@@ -4964,7 +4964,7 @@ export default {
       name: 'Ian Murray',
       party: 'Labour',
       twitter: {
-        handler: '@ianmurraymp',
+        username: '@ianmurraymp',
         url: 'https://twitter.com/IanMurrayMP',
       },
       website: 'https://www.ianmurraymp.com/',
@@ -4976,7 +4976,7 @@ export default {
       name: 'Mrs Murray',
       party: 'Conservative',
       twitter: {
-        handler: '@sheryllmurray',
+        username: '@sheryllmurray',
         url: 'https://twitter.com/sheryllmurray',
       },
       website: 'http://sheryllmurray.com/',
@@ -4988,7 +4988,7 @@ export default {
       name: 'Dr Murrison',
       party: 'Conservative',
       twitter: {
-        handler: '@murrisonmp',
+        username: '@murrisonmp',
         url: 'https://twitter.com/murrisonMP',
       },
       website: 'http://www.andrewmurrison.co.uk/',
@@ -4999,7 +4999,7 @@ export default {
       email: 'lisa.nandy.mp@parliament.uk',
       name: 'Lisa Nandy',
       party: 'Labour',
-      twitter: { handler: '@lisanandy', url: 'https://twitter.com/lisanandy' },
+      twitter: { username: '@lisanandy', url: 'https://twitter.com/lisanandy' },
       website: 'http://www.lisanandy.co.uk/',
     },
     {
@@ -5008,7 +5008,7 @@ export default {
       email: 'bob.neill.mp@parliament.uk',
       name: 'Robert Neill',
       party: 'Conservative',
-      twitter: { handler: '@neill_bob', url: 'https://twitter.com/neill_bob' },
+      twitter: { username: '@neill_bob', url: 'https://twitter.com/neill_bob' },
       website: 'http://www.bobneill.org.uk/',
     },
     {
@@ -5018,7 +5018,7 @@ export default {
       name: 'Gavin Newlands',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@gavinnewlandsmp',
+        username: '@gavinnewlandsmp',
         url: 'https://twitter.com/GavinNewlandsMP',
       },
       website: 'http://www.gavinnewlands.scot/',
@@ -5030,7 +5030,7 @@ export default {
       name: 'Sarah Newton',
       party: 'Conservative',
       twitter: {
-        handler: '@sarahnewtonmp',
+        username: '@sarahnewtonmp',
         url: 'https://twitter.com/SarahNewtonMP',
       },
       website: 'http://www.sarahnewton.org.uk/',
@@ -5042,7 +5042,7 @@ export default {
       name: 'Caroline Nokes',
       party: 'Conservative',
       twitter: {
-        handler: '@carolinenokes',
+        username: '@carolinenokes',
         url: 'https://twitter.com/carolinenokes',
       },
       website: 'http://www.carolinenokes.com/',
@@ -5054,7 +5054,7 @@ export default {
       name: 'Jesse Norman',
       party: 'Conservative',
       twitter: {
-        handler: '@jesse_norman',
+        username: '@jesse_norman',
         url: 'https://twitter.com/Jesse_Norman',
       },
       website: 'http://www.jessenorman.com/',
@@ -5065,7 +5065,7 @@ export default {
       email: 'alex.norris.mp@parliament.uk',
       name: 'Alex Norris',
       party: 'Labour (Co-op)',
-      twitter: { handler: '@anorrismp', url: 'https://twitter.com/ANorrisMP' },
+      twitter: { username: '@anorrismp', url: 'https://twitter.com/ANorrisMP' },
       website: null,
     },
     {
@@ -5075,7 +5075,7 @@ export default {
       name: "Neil O'Brien",
       party: 'Conservative',
       twitter: {
-        handler: '@neildotobrien',
+        username: '@neildotobrien',
         url: 'https://twitter.com/NeilDotObrien',
       },
       website: 'https://www.neilobrien.org.uk/',
@@ -5087,7 +5087,7 @@ export default {
       name: 'Dr Offord',
       party: 'Conservative',
       twitter: {
-        handler: '@offord4hendon',
+        username: '@offord4hendon',
         url: 'https://twitter.com/Offord4Hendon',
       },
       website: 'http://www.matthewofford.co.uk/',
@@ -5099,7 +5099,7 @@ export default {
       name: "Brendan O'Hara",
       party: 'Scottish National Party',
       twitter: {
-        handler: '@brendanoharasnp',
+        username: '@brendanoharasnp',
         url: 'https://twitter.com/brendanoharasnp',
       },
       website: 'http://www.brendanoharamp.scot/%20',
@@ -5110,7 +5110,7 @@ export default {
       email: 'jared.omara.mp@parliament.uk',
       name: "Jared O'Mara",
       party: 'Independent',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'https://www.jaredomara.co.uk/',
     },
     {
@@ -5119,7 +5119,7 @@ export default {
       email: 'fiona.onasanya.mp@parliament.uk',
       name: 'Fiona Onasanya',
       party: 'Independent',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -5128,7 +5128,7 @@ export default {
       email: 'melanie.onn.mp@parliament.uk',
       name: 'Melanie Onn',
       party: 'Labour',
-      twitter: { handler: '@onnmel', url: 'https://twitter.com/onnmel' },
+      twitter: { username: '@onnmel', url: 'https://twitter.com/onnmel' },
       website: 'https://www.grimsbylabour.co.uk/',
     },
     {
@@ -5138,7 +5138,7 @@ export default {
       name: 'Chi Onwurah',
       party: 'Labour',
       twitter: {
-        handler: '@chionwurah',
+        username: '@chionwurah',
         url: 'https://twitter.com/ChiOnwurah',
       },
       website: 'http://chionwurahmp.com/',
@@ -5150,7 +5150,7 @@ export default {
       name: 'Guy Opperman',
       party: 'Conservative',
       twitter: {
-        handler: '@guyopperman',
+        username: '@guyopperman',
         url: 'https://twitter.com/GuyOpperman',
       },
       website: 'http://guyopperman.co.uk/',
@@ -5162,7 +5162,7 @@ export default {
       name: 'Kate Osamor',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@kateosamor',
+        username: '@kateosamor',
         url: 'https://twitter.com/kateosamor',
       },
       website: 'http://www.kateosamor.co.uk/',
@@ -5174,7 +5174,7 @@ export default {
       name: 'Albert Owen',
       party: 'Labour',
       twitter: {
-        handler: '@albertowenmp',
+        username: '@albertowenmp',
         url: 'https://twitter.com/AlbertOwenMP',
       },
       website: 'http://albertowenmp.org/',
@@ -5186,7 +5186,7 @@ export default {
       name: 'Ian Paisley',
       party: 'Democratic Unionist Party',
       twitter: {
-        handler: '@ianpaisleymp',
+        username: '@ianpaisleymp',
         url: 'https://twitter.com/ianpaisleymp',
       },
       website: 'http://www.ianpaisleymp.co.uk/',
@@ -5198,7 +5198,7 @@ export default {
       name: 'Neil Parish',
       party: 'Conservative',
       twitter: {
-        handler: '@neil_parish',
+        username: '@neil_parish',
         url: 'https://twitter.com/neil_parish',
       },
       website: 'http://www.neilparish.co.uk/',
@@ -5210,7 +5210,7 @@ export default {
       name: 'Priti Patel',
       party: 'Conservative',
       twitter: {
-        handler: '@patel4witham',
+        username: '@patel4witham',
         url: 'https://twitter.com/patel4witham',
       },
       website: 'http://www.priti4witham.com/',
@@ -5222,7 +5222,7 @@ export default {
       name: 'Mr Paterson',
       party: 'Conservative',
       twitter: {
-        handler: '@owen_patersonmp',
+        username: '@owen_patersonmp',
         url: 'https://twitter.com/Owen_PatersonMP',
       },
       website: 'http://www.owenpaterson.org/',
@@ -5234,7 +5234,7 @@ export default {
       name: 'Mark Pawsey',
       party: 'Conservative',
       twitter: {
-        handler: '@markpawsey',
+        username: '@markpawsey',
         url: 'https://twitter.com/MarkPawsey',
       },
       website: 'http://www.markpawsey.org.uk/',
@@ -5246,7 +5246,7 @@ export default {
       name: 'Stephanie Peacock',
       party: 'Labour',
       twitter: {
-        handler: '@steph_peacock',
+        username: '@steph_peacock',
         url: 'https://twitter.com/Steph_Peacock',
       },
       website: 'http://www.stephaniepeacock.org.uk/',
@@ -5258,7 +5258,7 @@ export default {
       name: 'Teresa Pearce',
       party: 'Labour',
       twitter: {
-        handler: '@tpearce003',
+        username: '@tpearce003',
         url: 'https://twitter.com/tpearce003',
       },
       website: 'http://www.teresapearce.org.uk/',
@@ -5269,7 +5269,7 @@ export default {
       email: 'penningm@parliament.uk',
       name: 'Sir Mike Penning',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.mikepenning.com/',
     },
     {
@@ -5279,7 +5279,7 @@ export default {
       name: 'Matthew Pennycook',
       party: 'Labour',
       twitter: {
-        handler: '@mtpennycook',
+        username: '@mtpennycook',
         url: 'https://twitter.com/mtpennycook',
       },
       website: 'http://www.matthewpennycook.com/',
@@ -5291,7 +5291,7 @@ export default {
       name: 'John Penrose',
       party: 'Conservative',
       twitter: {
-        handler: '@johnpenrosenews',
+        username: '@johnpenrosenews',
         url: 'https://twitter.com/JohnPenroseNews',
       },
       website: 'http://www.johnpenrose.org/',
@@ -5302,7 +5302,7 @@ export default {
       email: 'andrew.percy.mp@parliament.uk',
       name: 'Andrew Percy',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.andrewpercy.org/',
     },
     {
@@ -5312,7 +5312,7 @@ export default {
       name: 'Toby Perkins',
       party: 'Labour',
       twitter: {
-        handler: '@tobyperkinsmp',
+        username: '@tobyperkinsmp',
         url: 'https://twitter.com/tobyperkinsmp',
       },
       website: 'http://www.tobyperkins.org.uk/',
@@ -5323,7 +5323,7 @@ export default {
       email: 'claire.perry.mp@parliament.uk',
       name: 'Claire Perry',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.claireperry.org.uk/',
     },
     {
@@ -5333,7 +5333,7 @@ export default {
       name: 'Jess Phillips',
       party: 'Labour',
       twitter: {
-        handler: '@jessphillips',
+        username: '@jessphillips',
         url: 'https://twitter.com/jessphillips',
       },
       website: 'http://www.jessphillips.net/',
@@ -5345,7 +5345,7 @@ export default {
       name: 'Bridget Phillipson',
       party: 'Labour',
       twitter: {
-        handler: '@bphillipsonmp',
+        username: '@bphillipsonmp',
         url: 'https://twitter.com/bphillipsonMP',
       },
       website: 'http://www.bridgetphillipson.com/',
@@ -5357,7 +5357,7 @@ export default {
       name: 'Chris Philp',
       party: 'Conservative',
       twitter: {
-        handler: '@chrisphilp_mp',
+        username: '@chrisphilp_mp',
         url: 'https://twitter.com/chrisphilp_mp',
       },
       website: 'http://www.chrisphilp.com/',
@@ -5369,7 +5369,7 @@ export default {
       name: 'Laura Pidcock',
       party: 'Labour',
       twitter: {
-        handler: '@laurapidcockmp',
+        username: '@laurapidcockmp',
         url: 'https://twitter.com/laurapidcockmp',
       },
       website: null,
@@ -5381,7 +5381,7 @@ export default {
       name: 'Christopher Pincher',
       party: 'Conservative',
       twitter: {
-        handler: '@chrispincher',
+        username: '@chrispincher',
         url: 'https://twitter.com/ChrisPincher',
       },
       website: 'http://www.christopherpincher.com/',
@@ -5392,7 +5392,7 @@ export default {
       email: 'joanne.platt.mp@parliament.uk',
       name: 'Jo Platt',
       party: 'Labour (Co-op)',
-      twitter: { handler: '@joplattmp', url: 'https://twitter.com/JoPlattMP' },
+      twitter: { username: '@joplattmp', url: 'https://twitter.com/JoPlattMP' },
       website: null,
     },
     {
@@ -5402,7 +5402,7 @@ export default {
       name: 'Luke Pollard',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@lukepollard',
+        username: '@lukepollard',
         url: 'https://twitter.com/LukePollard',
       },
       website: 'http://www.lukepollard.org/',
@@ -5414,7 +5414,7 @@ export default {
       name: 'Dr Dan Poulter',
       party: 'Conservative',
       twitter: {
-        handler: '@drdanpoulter',
+        username: '@drdanpoulter',
         url: 'https://twitter.com/drdanpoulter',
       },
       website: 'http://www.drdanielpoulter.com/',
@@ -5425,7 +5425,7 @@ export default {
       email: 'stevepoundmp@parliament.uk',
       name: 'Stephen Pound',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.stevepound.org.uk/',
     },
     {
@@ -5435,7 +5435,7 @@ export default {
       name: 'Rebecca Pow',
       party: 'Conservative',
       twitter: {
-        handler: '@pow_rebecca',
+        username: '@pow_rebecca',
         url: 'https://twitter.com/pow_rebecca',
       },
       website: 'http://www.rebeccapow.org.uk/',
@@ -5447,7 +5447,7 @@ export default {
       name: 'Lucy Powell',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@lucympowell',
+        username: '@lucympowell',
         url: 'https://twitter.com/LucyMPowell',
       },
       website: 'http://lucypowell.org.uk/',
@@ -5459,7 +5459,7 @@ export default {
       name: 'Victoria Prentis',
       party: 'Conservative',
       twitter: {
-        handler: '@victoriaprentis',
+        username: '@victoriaprentis',
         url: 'https://twitter.com/victoriaprentis',
       },
       website: 'http://victoriaprentis.com/',
@@ -5470,7 +5470,7 @@ export default {
       email: 'natalie.bithell@parliament.uk',
       name: 'Mr Prisk',
       party: 'Conservative',
-      twitter: { handler: '@priskmark', url: 'https://twitter.com/PriskMark' },
+      twitter: { username: '@priskmark', url: 'https://twitter.com/PriskMark' },
       website: 'http://www.markprisk.com/',
     },
     {
@@ -5480,7 +5480,7 @@ export default {
       name: 'Mark Pritchard',
       party: 'Conservative',
       twitter: {
-        handler: '@mpritchardmp',
+        username: '@mpritchardmp',
         url: 'https://twitter.com/MPritchardMP',
       },
       website: 'http://www.markpritchard.com/',
@@ -5492,7 +5492,7 @@ export default {
       name: 'Tom Pursglove',
       party: 'Conservative',
       twitter: {
-        handler: '@votepursglove',
+        username: '@votepursglove',
         url: 'https://twitter.com/votepursglove',
       },
       website: 'http://www.votepursglove.co.uk/',
@@ -5503,7 +5503,7 @@ export default {
       email: 'jeremy.quin.mp@parliament.uk',
       name: 'Jeremy Quin',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.jeremyquin.com/',
     },
     {
@@ -5513,7 +5513,7 @@ export default {
       name: 'Will Quince',
       party: 'Conservative',
       twitter: {
-        handler: '@willquince',
+        username: '@willquince',
         url: 'https://twitter.com/willquince',
       },
       website: 'https://www.willquince.com/',
@@ -5525,7 +5525,7 @@ export default {
       name: 'Yasmin Qureshi',
       party: 'Labour',
       twitter: {
-        handler: '@yasminqureshimp',
+        username: '@yasminqureshimp',
         url: 'https://twitter.com/YasminQureshiMP',
       },
       website: 'http://www.yasminqureshi.org.uk/',
@@ -5536,7 +5536,7 @@ export default {
       email: 'dominic.raab.mp@parliament.uk',
       name: 'Dominic Raab',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.dominicraab.com/',
     },
     {
@@ -5546,7 +5546,7 @@ export default {
       name: 'Faisal Rashid',
       party: 'Labour',
       twitter: {
-        handler: '@faisalrashid6',
+        username: '@faisalrashid6',
         url: 'https://twitter.com/FaisalRashid6',
       },
       website: 'http://www.faisalrashid.com/',
@@ -5558,7 +5558,7 @@ export default {
       name: 'Angela Rayner',
       party: 'Labour',
       twitter: {
-        handler: '@angelarayner',
+        username: '@angelarayner',
         url: 'https://twitter.com/angelarayner',
       },
       website: 'http://www.angelarayner.com/',
@@ -5570,7 +5570,7 @@ export default {
       name: 'John Redwood',
       party: 'Conservative',
       twitter: {
-        handler: '@johnredwood',
+        username: '@johnredwood',
         url: 'https://twitter.com/johnredwood',
       },
       website: 'http://www.johnredwoodsdiary.com/',
@@ -5582,7 +5582,7 @@ export default {
       name: 'Mr Reed',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@stevereedmp',
+        username: '@stevereedmp',
         url: 'https://twitter.com/SteveReedMP',
       },
       website: 'http://www.stevereedmp.co.uk/',
@@ -5594,7 +5594,7 @@ export default {
       name: 'Christina Rees',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@rees4neath',
+        username: '@rees4neath',
         url: 'https://twitter.com/rees4neath',
       },
       website: 'http://www.christinarees.org/',
@@ -5605,7 +5605,7 @@ export default {
       email: 'jacob.reesmogg.mp@parliament.uk',
       name: 'Mr Rees-Mogg',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.northeastsomersetconservatives.co.uk/',
     },
     {
@@ -5615,7 +5615,7 @@ export default {
       name: 'Ellie Reeves',
       party: 'Labour',
       twitter: {
-        handler: '@elliereeves',
+        username: '@elliereeves',
         url: 'https://twitter.com/elliereeves',
       },
       website: null,
@@ -5627,7 +5627,7 @@ export default {
       name: 'Rachel Reeves',
       party: 'Labour',
       twitter: {
-        handler: '@rachelreevesmp',
+        username: '@rachelreevesmp',
         url: 'https://twitter.com/RachelReevesMP',
       },
       website: 'http://www.rachelreeves.net/',
@@ -5639,7 +5639,7 @@ export default {
       name: 'Emma Reynolds',
       party: 'Labour',
       twitter: {
-        handler: '@emmareynoldsmp',
+        username: '@emmareynoldsmp',
         url: 'https://twitter.com/EmmaReynoldsMP',
       },
       website: 'http://www.emmareynolds.org.uk/',
@@ -5651,7 +5651,7 @@ export default {
       name: 'Jonathan Reynolds',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@jreynoldsmp',
+        username: '@jreynoldsmp',
         url: 'https://twitter.com/jreynoldsMP',
       },
       website: 'http://www.jonathanreynolds.org.uk/',
@@ -5663,7 +5663,7 @@ export default {
       name: 'Ms Marie Rimmer',
       party: 'Labour',
       twitter: {
-        handler: '@marierimmermp',
+        username: '@marierimmermp',
         url: 'https://twitter.com/MarieRimmerMP',
       },
       website: 'http://www.marierimmer.org.uk/',
@@ -5674,7 +5674,7 @@ export default {
       email: 'robertsonl@parliament.uk',
       name: 'Mr Robertson',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'https://www.laurencerobertson.org.uk/',
     },
     {
@@ -5684,7 +5684,7 @@ export default {
       name: 'Gavin Robinson',
       party: 'Democratic Unionist Party',
       twitter: {
-        handler: '@grobinsondup',
+        username: '@grobinsondup',
         url: 'https://twitter.com/grobinsondup',
       },
       website: null,
@@ -5695,7 +5695,7 @@ export default {
       email: 'robinsong@parliament.uk',
       name: 'Mr Robinson',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -5705,7 +5705,7 @@ export default {
       name: 'Mary Robinson',
       party: 'Conservative',
       twitter: {
-        handler: '@maryrobinson01',
+        username: '@maryrobinson01',
         url: 'https://twitter.com/maryrobinson01',
       },
       website: 'http://www.mary-robinson.org.uk/',
@@ -5716,7 +5716,7 @@ export default {
       email: 'matt.rodda.mp@parliament.uk',
       name: 'Matt Rodda',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -5726,7 +5726,7 @@ export default {
       name: 'Andrew Rosindell',
       party: 'Conservative',
       twitter: {
-        handler: '@andrewrosindell',
+        username: '@andrewrosindell',
         url: 'https://twitter.com/AndrewRosindell',
       },
       website: 'http://www.rosindell.com/',
@@ -5738,7 +5738,7 @@ export default {
       name: 'Douglas Ross',
       party: 'Conservative',
       twitter: {
-        handler: '@douglas4moray',
+        username: '@douglas4moray',
         url: 'https://twitter.com/Douglas4Moray',
       },
       website: null,
@@ -5750,7 +5750,7 @@ export default {
       name: 'Danielle Rowley',
       party: 'Labour',
       twitter: {
-        handler: '@danirowley',
+        username: '@danirowley',
         url: 'https://twitter.com/DaniRowley',
       },
       website: 'https://www.daniellerowleymp.uk/',
@@ -5761,7 +5761,7 @@ export default {
       email: 'lee.rowley.mp@parliament.uk',
       name: 'Lee Rowley',
       party: 'Conservative',
-      twitter: { handler: '@lee4ned', url: 'https://twitter.com/Lee4NED' },
+      twitter: { username: '@lee4ned', url: 'https://twitter.com/Lee4NED' },
       website: null,
     },
     {
@@ -5770,7 +5770,7 @@ export default {
       email: 'chris.ruane.mp@parliament.uk',
       name: 'Chris Ruane',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -5780,7 +5780,7 @@ export default {
       name: 'Amber Rudd',
       party: 'Conservative',
       twitter: {
-        handler: '@amberruddhr',
+        username: '@amberruddhr',
         url: 'https://twitter.com/AmberRuddhr',
       },
       website: 'http://www.amberrudd.co.uk/',
@@ -5791,7 +5791,7 @@ export default {
       email: 'lloyd.russellmoyle.mp@parliament.uk',
       name: 'Lloyd Russell-Moyle',
       party: 'Labour (Co-op)',
-      twitter: { handler: '@lloyd_rm', url: 'https://twitter.com/lloyd_rm' },
+      twitter: { username: '@lloyd_rm', url: 'https://twitter.com/lloyd_rm' },
       website: 'http://russell-moyle.co.uk/',
     },
     {
@@ -5801,7 +5801,7 @@ export default {
       name: 'David Rutley',
       party: 'Conservative',
       twitter: {
-        handler: '@davidrutleymp',
+        username: '@davidrutleymp',
         url: 'https://twitter.com/DavidRutleyMP',
       },
       website: 'http://www.davidrutley.org.uk/',
@@ -5813,7 +5813,7 @@ export default {
       name: 'Joan Ryan',
       party: 'Independent',
       twitter: {
-        handler: '@joanryanenfield',
+        username: '@joanryanenfield',
         url: 'https://twitter.com/joanryanenfield',
       },
       website: 'http://www.joanryan.org.uk/',
@@ -5824,7 +5824,7 @@ export default {
       email: 'antoinette.sandbach.mp@parliament.uk',
       name: 'Antoinette Sandbach',
       party: 'Conservative',
-      twitter: { handler: '@sandbach', url: 'https://twitter.com/Sandbach' },
+      twitter: { username: '@sandbach', url: 'https://twitter.com/Sandbach' },
       website: 'http://www.antoinettesandbach.org.uk/',
     },
     {
@@ -5833,7 +5833,7 @@ export default {
       email: 'liz.savilleroberts.mp@parliament.uk',
       name: 'Liz Saville Roberts',
       party: 'Plaid Cymru',
-      twitter: { handler: '@lsrplaid', url: 'https://twitter.com/lsrplaid' },
+      twitter: { username: '@lsrplaid', url: 'https://twitter.com/lsrplaid' },
       website: 'http://www.lizsavilleroberts.org/',
     },
     {
@@ -5842,7 +5842,7 @@ export default {
       email: 'paul.scully.mp@parliament.uk',
       name: 'Paul Scully',
       party: 'Conservative',
-      twitter: { handler: '@scullyp', url: 'https://twitter.com/scullyp' },
+      twitter: { username: '@scullyp', url: 'https://twitter.com/scullyp' },
       website: 'http://www.scully.org.uk/',
     },
     {
@@ -5852,7 +5852,7 @@ export default {
       name: 'Mr Seely',
       party: 'Conservative',
       twitter: {
-        handler: '@iowbobseely',
+        username: '@iowbobseely',
         url: 'https://twitter.com/IoWBobSeely',
       },
       website: 'https://www.bobseely.org.uk/',
@@ -5864,7 +5864,7 @@ export default {
       name: 'Andrew Selous',
       party: 'Conservative',
       twitter: {
-        handler: '@andrewselous',
+        username: '@andrewselous',
         url: 'https://twitter.com/AndrewSelous',
       },
       website: 'http://www.andrewselous.org.uk/',
@@ -5876,7 +5876,7 @@ export default {
       name: 'Naz Shah',
       party: 'Labour',
       twitter: {
-        handler: '@nazshahbfd',
+        username: '@nazshahbfd',
         url: 'https://twitter.com/nazshahbfd',
       },
       website: null,
@@ -5888,7 +5888,7 @@ export default {
       name: 'Jim Shannon',
       party: 'Democratic Unionist Party',
       twitter: {
-        handler: '@jimshannonmp',
+        username: '@jimshannonmp',
         url: 'https://twitter.com/jimshannonmp',
       },
       website: 'http://www.dup.org.uk/MyProfile.asp?MemberID=62',
@@ -5900,7 +5900,7 @@ export default {
       name: 'Grant Shapps',
       party: 'Conservative',
       twitter: {
-        handler: '@grantshapps',
+        username: '@grantshapps',
         url: 'https://twitter.com/grantshapps',
       },
       website: 'http://www.shapps.com/',
@@ -5912,7 +5912,7 @@ export default {
       name: 'Alok Sharma',
       party: 'Conservative',
       twitter: {
-        handler: '@aloksharma_rdg',
+        username: '@aloksharma_rdg',
         url: 'https://twitter.com/AlokSharma_RDG',
       },
       website: 'http://www.aloksharma.co.uk/',
@@ -5924,7 +5924,7 @@ export default {
       name: 'Mr Sharma',
       party: 'Labour',
       twitter: {
-        handler: '@virendrasharma',
+        username: '@virendrasharma',
         url: 'https://twitter.com/VirendraSharma',
       },
       website: 'http://www.virendrasharma.com/',
@@ -5936,7 +5936,7 @@ export default {
       name: 'Mr Barry Sheerman',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@barrysheerman',
+        username: '@barrysheerman',
         url: 'https://twitter.com/BarrySheerman',
       },
       website: 'http://www.barrysheerman.co.uk/',
@@ -5948,7 +5948,7 @@ export default {
       name: 'Alec Shelbrooke',
       party: 'Conservative',
       twitter: {
-        handler: '@alecshelbrooke',
+        username: '@alecshelbrooke',
         url: 'https://twitter.com/AlecShelbrooke',
       },
       website: 'http://www.alecshelbrooke.co.uk/',
@@ -5960,7 +5960,7 @@ export default {
       name: 'Tommy Sheppard',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@tommysheppard',
+        username: '@tommysheppard',
         url: 'https://twitter.com/tommysheppard',
       },
       website: 'http://tommysheppardmp.scot/',
@@ -5972,7 +5972,7 @@ export default {
       name: 'Paula Sherriff',
       party: 'Labour',
       twitter: {
-        handler: '@paulasherriff',
+        username: '@paulasherriff',
         url: 'https://twitter.com/paulasherriff',
       },
       website: null,
@@ -5984,7 +5984,7 @@ export default {
       name: 'Mr Shuker',
       party: 'Independent',
       twitter: {
-        handler: '@gavinshuker',
+        username: '@gavinshuker',
         url: 'https://twitter.com/gavinshuker',
       },
       website: 'http://www.gavinshuker.org/',
@@ -5996,7 +5996,7 @@ export default {
       name: 'Tulip Siddiq',
       party: 'Labour',
       twitter: {
-        handler: '@tulipsiddiq',
+        username: '@tulipsiddiq',
         url: 'https://twitter.com/tulipsiddiq',
       },
       website: 'http://www.tulipsiddiq.com/',
@@ -6007,7 +6007,7 @@ export default {
       email: 'simpsond@parliament.uk',
       name: 'David Simpson',
       party: 'Democratic Unionist Party',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -6016,7 +6016,7 @@ export default {
       email: 'keith.simpson.mp@parliament.uk',
       name: 'Mr Simpson',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.keithsimpson.com/',
     },
     {
@@ -6026,7 +6026,7 @@ export default {
       name: 'Chris Skidmore',
       party: 'Conservative',
       twitter: {
-        handler: '@cskidmoremp',
+        username: '@cskidmoremp',
         url: 'https://twitter.com/cskidmoremp',
       },
       website: 'http://www.chrisskidmore.com/',
@@ -6037,7 +6037,7 @@ export default {
       email: 'skinnerd@parliament.uk',
       name: 'Mr Skinner',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -6047,7 +6047,7 @@ export default {
       name: 'Andy Slaughter',
       party: 'Labour',
       twitter: {
-        handler: '@hammersmithandy',
+        username: '@hammersmithandy',
         url: 'https://twitter.com/hammersmithandy',
       },
       website: 'http://www.andyslaughter.com/',
@@ -6059,7 +6059,7 @@ export default {
       name: 'Ruth Smeeth',
       party: 'Labour',
       twitter: {
-        handler: '@ruthsmeeth',
+        username: '@ruthsmeeth',
         url: 'https://twitter.com/ruthsmeeth',
       },
       website: 'http://www.ruthsmeeth.org.uk/',
@@ -6071,7 +6071,7 @@ export default {
       name: 'Angela Smith',
       party: 'Independent',
       twitter: {
-        handler: '@angelasmithmp',
+        username: '@angelasmithmp',
         url: 'https://twitter.com/angelasmithmp',
       },
       website: 'http://www.angelasmith-mp.org.uk/',
@@ -6083,7 +6083,7 @@ export default {
       name: 'Cat Smith',
       party: 'Labour',
       twitter: {
-        handler: '@catsmithmp',
+        username: '@catsmithmp',
         url: 'https://twitter.com/CatSmithMP',
       },
       website: 'http://www.catsmith.co.uk/',
@@ -6095,7 +6095,7 @@ export default {
       name: 'Chloe Smith',
       party: 'Conservative',
       twitter: {
-        handler: '@norwichchloe',
+        username: '@norwichchloe',
         url: 'https://twitter.com/NorwichChloe',
       },
       website: 'http://www.chloesmith.org.uk/',
@@ -6107,7 +6107,7 @@ export default {
       name: 'Eleanor Smith',
       party: 'Labour',
       twitter: {
-        handler: '@eleanor_smithmp',
+        username: '@eleanor_smithmp',
         url: 'https://twitter.com/Eleanor_SmithMP',
       },
       website: null,
@@ -6119,7 +6119,7 @@ export default {
       name: 'Henry Smith',
       party: 'Conservative',
       twitter: {
-        handler: '@henrysmithuk',
+        username: '@henrysmithuk',
         url: 'https://twitter.com/HenrySmithUK',
       },
       website: 'http://henrysmith.info/',
@@ -6131,7 +6131,7 @@ export default {
       name: 'Jeff Smith',
       party: 'Labour',
       twitter: {
-        handler: '@jeffsmithetc',
+        username: '@jeffsmithetc',
         url: 'https://twitter.com/jeffsmithetc',
       },
       website: 'https://jeffsmithmp.com/',
@@ -6143,7 +6143,7 @@ export default {
       name: '',
       party: 'Conservative',
       twitter: {
-        handler: '@juliansmithuk',
+        username: '@juliansmithuk',
         url: 'https://twitter.com/JulianSmithuk',
       },
       website: 'http://www.juliansmith.org.uk/',
@@ -6155,7 +6155,7 @@ export default {
       name: 'Laura Smith',
       party: 'Labour',
       twitter: {
-        handler: '@laurasmithmp',
+        username: '@laurasmithmp',
         url: 'https://twitter.com/laurasmithmp',
       },
       website: null,
@@ -6167,7 +6167,7 @@ export default {
       name: 'Nick Smith',
       party: 'Labour',
       twitter: {
-        handler: '@blaenaugwentmp',
+        username: '@blaenaugwentmp',
         url: 'https://twitter.com/BlaenauGwentMP',
       },
       website: 'http://nicksmithmp.com/',
@@ -6179,7 +6179,7 @@ export default {
       name: 'Owen Smith',
       party: 'Labour',
       twitter: {
-        handler: '@owensmith_mp',
+        username: '@owensmith_mp',
         url: 'https://twitter.com/owensmith_mp',
       },
       website: 'http://www.owensmithmp.co.uk/',
@@ -6191,7 +6191,7 @@ export default {
       name: 'Royston Smith',
       party: 'Conservative',
       twitter: {
-        handler: '@royston_smith',
+        username: '@royston_smith',
         url: 'https://twitter.com/royston_smith',
       },
       website: 'http://www.roystonsmith.co.uk/',
@@ -6203,7 +6203,7 @@ export default {
       name: 'Karin Smyth',
       party: 'Labour',
       twitter: {
-        handler: '@karinsmyth',
+        username: '@karinsmyth',
         url: 'https://twitter.com/karinsmyth',
       },
       website: 'http://karinsmyth.com/',
@@ -6214,7 +6214,7 @@ export default {
       email: 'gareth.snell.mp@parliament.uk',
       name: 'Gareth Snell',
       party: 'Labour (Co-op)',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -6223,7 +6223,7 @@ export default {
       email: 'nicholas.soames.mp@parliament.uk',
       name: 'Sir Nicholas',
       party: 'Conservative',
-      twitter: { handler: '@nsoamesmp', url: 'https://twitter.com/nsoamesmp' },
+      twitter: { username: '@nsoamesmp', url: 'https://twitter.com/nsoamesmp' },
       website: 'http://www.nicholassoames.org.uk/',
     },
     {
@@ -6232,7 +6232,7 @@ export default {
       email: 'alex.sobel.mp@parliament.uk',
       name: 'Alex Sobel',
       party: 'Labour (Co-op)',
-      twitter: { handler: '@alexsobel', url: 'https://twitter.com/alexsobel' },
+      twitter: { username: '@alexsobel', url: 'https://twitter.com/alexsobel' },
       website: null,
     },
     {
@@ -6242,7 +6242,7 @@ export default {
       name: 'Anna Soubry',
       party: 'Independent',
       twitter: {
-        handler: '@anna_soubry',
+        username: '@anna_soubry',
         url: 'https://twitter.com/Anna_Soubry',
       },
       website: 'https://annasoubry.org.uk/',
@@ -6253,7 +6253,7 @@ export default {
       email: 'john.spellar.mp@parliament.uk',
       name: '',
       party: 'Labour',
-      twitter: { handler: '@spellar', url: 'https://twitter.com/spellar' },
+      twitter: { username: '@spellar', url: 'https://twitter.com/spellar' },
       website: 'http://www.johnspellar.org.uk/',
     },
     {
@@ -6262,7 +6262,7 @@ export default {
       email: 'caroline@carolinespelman.com',
       name: 'Dame Caroline',
       party: 'Conservative',
-      twitter: { handler: '@spelmanc', url: 'https://twitter.com/spelmanc' },
+      twitter: { username: '@spelmanc', url: 'https://twitter.com/spelmanc' },
       website: 'http://www.carolinespelman.com/',
     },
     {
@@ -6272,7 +6272,7 @@ export default {
       name: 'Mark Spencer',
       party: 'Conservative',
       twitter: {
-        handler: '@mark_spencer',
+        username: '@mark_spencer',
         url: 'https://twitter.com/Mark_Spencer',
       },
       website: 'https://www.markspencer.org.uk/',
@@ -6284,7 +6284,7 @@ export default {
       name: 'Keir Starmer',
       party: 'Labour',
       twitter: {
-        handler: '@keir_starmer',
+        username: '@keir_starmer',
         url: 'https://twitter.com/keir_starmer',
       },
       website: 'http://www.keirstarmer.com/',
@@ -6296,7 +6296,7 @@ export default {
       name: 'Chris Stephens',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@chrisstephens',
+        username: '@chrisstephens',
         url: 'https://twitter.com/ChrisStephens',
       },
       website:
@@ -6309,7 +6309,7 @@ export default {
       name: 'Andrew Stephenson',
       party: 'Conservative',
       twitter: {
-        handler: '@andrew4pendle',
+        username: '@andrew4pendle',
         url: 'https://twitter.com/Andrew4Pendle',
       },
       website: null,
@@ -6321,7 +6321,7 @@ export default {
       name: 'Jo Stevens',
       party: 'Labour',
       twitter: {
-        handler: '@jostevenslabour',
+        username: '@jostevenslabour',
         url: 'https://twitter.com/jostevenslabour',
       },
       website: 'http://www.jostevens.co.uk/',
@@ -6333,7 +6333,7 @@ export default {
       name: 'John Stevenson',
       party: 'Conservative',
       twitter: {
-        handler: '@johnstevensonmp',
+        username: '@johnstevensonmp',
         url: 'https://twitter.com/JohnStevensonMP',
       },
       website: 'http://www.johnstevensonmp.co.uk/',
@@ -6344,7 +6344,7 @@ export default {
       email: 'bob.stewart.mp@parliament.uk',
       name: 'Bob Stewart',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.bobstewart.org.uk/',
     },
     {
@@ -6354,7 +6354,7 @@ export default {
       name: 'Iain Stewart',
       party: 'Conservative',
       twitter: {
-        handler: '@iainastewart',
+        username: '@iainastewart',
         url: 'https://twitter.com/iainastewart',
       },
       website: 'http://iainstewartmp.co.uk/',
@@ -6366,7 +6366,7 @@ export default {
       name: 'Rory Stewart',
       party: 'Conservative',
       twitter: {
-        handler: '@rorystewartuk',
+        username: '@rorystewartuk',
         url: 'https://twitter.com/RoryStewartUK',
       },
       website: 'http://rorystewart.co.uk/',
@@ -6377,7 +6377,7 @@ export default {
       email: 'jamie.stone.mp@parliament.uk',
       name: 'Jamie Stone',
       party: 'Liberal Democrat',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -6386,7 +6386,7 @@ export default {
       email: 'deans@parliament.uk',
       name: 'Sir Gary Streeter',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.garystreeter.co.uk/',
     },
     {
@@ -6396,7 +6396,7 @@ export default {
       name: 'Wes Streeting',
       party: 'Labour',
       twitter: {
-        handler: '@wesstreeting',
+        username: '@wesstreeting',
         url: 'https://twitter.com/wesstreeting',
       },
       website: 'http://www.wesstreeting.org/',
@@ -6408,7 +6408,7 @@ export default {
       name: 'Mel Stride',
       party: 'Conservative',
       twitter: {
-        handler: '@meljstride',
+        username: '@meljstride',
         url: 'https://twitter.com/meljstride',
       },
       website: 'http://melstridemp.com/',
@@ -6419,7 +6419,7 @@ export default {
       email: 'graham.stringer.mp@parliament.uk',
       name: 'Graham Stringer',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -6429,7 +6429,7 @@ export default {
       name: 'Graham Stuart',
       party: 'Conservative',
       twitter: {
-        handler: '@grahamstuart',
+        username: '@grahamstuart',
         url: 'https://twitter.com/grahamstuart',
       },
       website: 'http://www.grahamstuart.com/',
@@ -6440,7 +6440,7 @@ export default {
       email: 'julian.sturdy.mp@parliament.uk',
       name: 'Julian Sturdy',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.juliansturdy.co.uk/',
     },
     {
@@ -6449,7 +6449,7 @@ export default {
       email: 'rishi.sunak.mp@parliament.uk',
       name: 'Rishi Sunak',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.rishisunak.com/',
     },
     {
@@ -6459,7 +6459,7 @@ export default {
       name: 'Sir Desmond',
       party: 'Conservative',
       twitter: {
-        handler: '@desmondswayne',
+        username: '@desmondswayne',
         url: 'https://twitter.com/DesmondSwayne',
       },
       website: 'http://www.desmondswaynemp.com/',
@@ -6471,7 +6471,7 @@ export default {
       name: 'Paul Sweeney',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@pauljsweeney',
+        username: '@pauljsweeney',
         url: 'https://twitter.com/PaulJSweeney',
       },
       website: 'https://www.paulsweeney.mp/%20%20',
@@ -6482,7 +6482,7 @@ export default {
       email: 'jo.swinson.mp@parliament.uk',
       name: 'Jo Swinson',
       party: 'Liberal Democrat',
-      twitter: { handler: '@joswinson', url: 'https://twitter.com/joswinson' },
+      twitter: { username: '@joswinson', url: 'https://twitter.com/joswinson' },
       website: 'http://www.joswinson.org.uk/',
     },
     {
@@ -6491,7 +6491,7 @@ export default {
       email: 'hugo.swire.mp@parliament.uk',
       name: '',
       party: 'Conservative',
-      twitter: { handler: '@hugoswire', url: 'https://twitter.com/HugoSwire' },
+      twitter: { username: '@hugoswire', url: 'https://twitter.com/HugoSwire' },
       website: 'http://www.hugoswire.org.uk/',
     },
     {
@@ -6501,7 +6501,7 @@ export default {
       name: 'Sir Robert',
       party: 'Conservative',
       twitter: {
-        handler: '@robertsymsmp',
+        username: '@robertsymsmp',
         url: 'https://twitter.com/robertsymsMP',
       },
       website: null,
@@ -6513,7 +6513,7 @@ export default {
       name: 'Mark Tami',
       party: 'Labour',
       twitter: {
-        handler: '@marktamimp',
+        username: '@marktamimp',
         url: 'https://twitter.com/MarkTamiMP',
       },
       website: 'http://www.marktami.co.uk/',
@@ -6525,7 +6525,7 @@ export default {
       name: 'Alison Thewliss',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@alisonthewliss',
+        username: '@alisonthewliss',
         url: 'https://twitter.com/alisonthewliss',
       },
       website: 'http://www.alisonthewliss.scot/',
@@ -6537,7 +6537,7 @@ export default {
       name: 'Derek Thomas',
       party: 'Conservative',
       twitter: {
-        handler: '@derekthomasmp',
+        username: '@derekthomasmp',
         url: 'https://twitter.com/DerekThomasMP',
       },
       website: 'http://derekthomas.org/',
@@ -6549,7 +6549,7 @@ export default {
       name: 'Gareth Thomas',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@gareththomasmp',
+        username: '@gareththomasmp',
         url: 'https://twitter.com/GarethThomasMP',
       },
       website: 'http://www.gareththomas.org.uk/',
@@ -6561,7 +6561,7 @@ export default {
       name: 'Nick Thomas-Symonds',
       party: 'Labour',
       twitter: {
-        handler: '@nicktorfaenmp',
+        username: '@nicktorfaenmp',
         url: 'https://twitter.com/nicktorfaenmp',
       },
       website: null,
@@ -6573,7 +6573,7 @@ export default {
       name: 'Ross Thomson',
       party: 'Conservative',
       twitter: {
-        handler: '@rossthomson_mp',
+        username: '@rossthomson_mp',
         url: 'https://twitter.com/RossThomson_MP',
       },
       website: null,
@@ -6585,7 +6585,7 @@ export default {
       name: 'Emily Thornberry',
       party: 'Labour',
       twitter: {
-        handler: '@emilythornberry',
+        username: '@emilythornberry',
         url: 'https://twitter.com/EmilyThornberry',
       },
       website: 'http://www.emilythornberry.com/',
@@ -6596,7 +6596,7 @@ export default {
       email: 'maggie.throup.mp@parliament.uk',
       name: 'Maggie Throup',
       party: 'Conservative',
-      twitter: { handler: '@mthroup', url: 'https://twitter.com/mthroup' },
+      twitter: { username: '@mthroup', url: 'https://twitter.com/mthroup' },
       website: 'http://www.maggiethroup.com/',
     },
     {
@@ -6606,7 +6606,7 @@ export default {
       name: 'Stephen Timms',
       party: 'Labour',
       twitter: {
-        handler: '@stephenctimms',
+        username: '@stephenctimms',
         url: 'https://twitter.com/stephenctimms',
       },
       website: 'http://www.stephentimms.org.uk/',
@@ -6618,7 +6618,7 @@ export default {
       name: 'Kelly Tolhurst',
       party: 'Conservative',
       twitter: {
-        handler: '@kellytolhurst',
+        username: '@kellytolhurst',
         url: 'https://twitter.com/kellytolhurst',
       },
       website: 'http://www.kelly4rochesterandstrood.com/',
@@ -6630,7 +6630,7 @@ export default {
       name: 'Justin Tomlinson',
       party: 'Conservative',
       twitter: {
-        handler: '@jtomlinsonmp',
+        username: '@jtomlinsonmp',
         url: 'https://twitter.com/JTomlinsonMP',
       },
       website: 'http://www.justintomlinson.com/',
@@ -6642,7 +6642,7 @@ export default {
       name: 'Michael Tomlinson',
       party: 'Conservative',
       twitter: {
-        handler: '@michael4mdnp',
+        username: '@michael4mdnp',
         url: 'https://twitter.com/michael4mdnp',
       },
       website: 'http://www.michaeltomlinson.org.uk/',
@@ -6654,7 +6654,7 @@ export default {
       name: 'Craig Tracey',
       party: 'Conservative',
       twitter: {
-        handler: '@craig4nwarks',
+        username: '@craig4nwarks',
         url: 'https://twitter.com/craig4nwarks',
       },
       website: 'http://www.craigtracey.co.uk/',
@@ -6665,7 +6665,7 @@ export default {
       email: 'tredinnickd@parliament.uk',
       name: 'David Tredinnick',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'https://www.bosworthconservatives.org.uk/',
     },
     {
@@ -6674,7 +6674,7 @@ export default {
       email: 'annemarie.trevelyan.mp@parliament.uk',
       name: 'Anne-Marie Trevelyan',
       party: 'Conservative',
-      twitter: { handler: '@annietrev', url: 'https://twitter.com/annietrev' },
+      twitter: { username: '@annietrev', url: 'https://twitter.com/annietrev' },
       website: 'http://www.teamtrevelyan.co.uk/',
     },
     {
@@ -6684,7 +6684,7 @@ export default {
       name: 'Jon Trickett',
       party: 'Labour',
       twitter: {
-        handler: '@jon_trickett',
+        username: '@jon_trickett',
         url: 'https://twitter.com/jon_trickett',
       },
       website: 'http://www.jontrickett.org.uk/',
@@ -6695,7 +6695,7 @@ export default {
       email: 'elizabeth.truss.mp@parliament.uk',
       name: 'Elizabeth Truss',
       party: 'Conservative',
-      twitter: { handler: '@trussliz', url: 'https://twitter.com/trussliz' },
+      twitter: { username: '@trussliz', url: 'https://twitter.com/trussliz' },
       website: 'http://www.elizabethtruss.com/',
     },
     {
@@ -6705,7 +6705,7 @@ export default {
       name: 'Tom Tugendhat',
       party: 'Conservative',
       twitter: {
-        handler: '@tomtugendhat',
+        username: '@tomtugendhat',
         url: 'https://twitter.com/tomtugendhat',
       },
       website: 'http://www.tomtugendhat.org.uk/',
@@ -6717,7 +6717,7 @@ export default {
       name: 'Anna Turley',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@annaturley',
+        username: '@annaturley',
         url: 'https://twitter.com/annaturley',
       },
       website: 'http://www.anna4redcar.org.uk/',
@@ -6729,7 +6729,7 @@ export default {
       name: 'Karl Turner',
       party: 'Labour',
       twitter: {
-        handler: '@karlturnermp',
+        username: '@karlturnermp',
         url: 'https://twitter.com/KarlTurnerMP',
       },
       website: 'http://www.karlturnermp.org.uk/',
@@ -6741,7 +6741,7 @@ export default {
       name: 'Derek Twigg',
       party: 'Labour',
       twitter: {
-        handler: '@derektwiggmp',
+        username: '@derektwiggmp',
         url: 'https://twitter.com/DerekTwiggMP',
       },
       website: 'http://www.derektwigg.org/',
@@ -6753,7 +6753,7 @@ export default {
       name: 'Stephen Twigg',
       party: 'Labour (Co-op)',
       twitter: {
-        handler: '@stephentwigg',
+        username: '@stephentwigg',
         url: 'https://twitter.com/StephenTwigg',
       },
       website: 'http://stephentwiggmp.co.uk/',
@@ -6764,7 +6764,7 @@ export default {
       email: 'liz.twist.mp@parliament.uk',
       name: 'Liz Twist',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website:
         'https://www.parliament.uk/templates/MNIS/Units/Biography/%20www.liztwist.co.uk',
     },
@@ -6775,7 +6775,7 @@ export default {
       name: '',
       party: 'Independent',
       twitter: {
-        handler: '@chukaumunna',
+        username: '@chukaumunna',
         url: 'https://twitter.com/ChukaUmunna',
       },
       website: 'http://www.chuka.org.uk/',
@@ -6786,7 +6786,7 @@ export default {
       email: 'vaizeye@parliament.uk',
       name: '',
       party: 'Conservative',
-      twitter: { handler: '@edvaizey', url: 'https://twitter.com/edvaizey' },
+      twitter: { username: '@edvaizey', url: 'https://twitter.com/edvaizey' },
       website: 'http://www.vaizey.com/',
     },
     {
@@ -6795,7 +6795,7 @@ export default {
       email: 'shailesh.vara.mp@parliament.uk',
       name: 'Mr Vara',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.shaileshvara.com/',
     },
     {
@@ -6805,7 +6805,7 @@ export default {
       name: 'Keith Vaz',
       party: 'Labour',
       twitter: {
-        handler: '@keith4leicester',
+        username: '@keith4leicester',
         url: 'https://twitter.com/keith4leicester',
       },
       website: 'http://www.keithvazmp.com/',
@@ -6817,7 +6817,7 @@ export default {
       name: 'Valerie Vaz',
       party: 'Labour',
       twitter: {
-        handler: '@valerie_vazmp',
+        username: '@valerie_vazmp',
         url: 'https://twitter.com/Valerie_VazMP',
       },
       website: 'http://www.valerievazmp.co.uk/',
@@ -6829,7 +6829,7 @@ export default {
       name: 'Martin Vickers',
       party: 'Conservative',
       twitter: {
-        handler: '@martinvickers',
+        username: '@martinvickers',
         url: 'https://twitter.com/martinvickers',
       },
       website: 'http://www.martinvickers.org.uk/',
@@ -6840,7 +6840,7 @@ export default {
       email: 'theresa@theresavilliers.co.uk',
       name: '',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.theresavilliers.co.uk/',
     },
     {
@@ -6849,7 +6849,7 @@ export default {
       email: 'charles.walker.mp@parliament.uk',
       name: 'Mr Walker',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.charleswalker.org/',
     },
     {
@@ -6859,7 +6859,7 @@ export default {
       name: 'Mr Walker',
       party: 'Conservative',
       twitter: {
-        handler: '@walkerworcester',
+        username: '@walkerworcester',
         url: 'https://twitter.com/walkerworcester',
       },
       website: 'http://www.walker4worcester.com/',
@@ -6871,7 +6871,7 @@ export default {
       name: 'Thelma Walker',
       party: 'Labour',
       twitter: {
-        handler: '@thelma_walkermp',
+        username: '@thelma_walkermp',
         url: 'https://twitter.com/Thelma_WalkerMP',
       },
       website: null,
@@ -6883,7 +6883,7 @@ export default {
       name: 'Mr Wallace',
       party: 'Conservative',
       twitter: {
-        handler: '@bwallacemp',
+        username: '@bwallacemp',
         url: 'https://twitter.com/BWallaceMP',
       },
       website: 'http://www.benwallace.org.uk/',
@@ -6895,7 +6895,7 @@ export default {
       name: 'David Warburton',
       party: 'Conservative',
       twitter: {
-        handler: '@djwarburton',
+        username: '@djwarburton',
         url: 'https://twitter.com/djwarburton',
       },
       website: 'http://davidwarburton.org/',
@@ -6907,7 +6907,7 @@ export default {
       name: 'Matt Warman',
       party: 'Conservative',
       twitter: {
-        handler: '@mattwarman',
+        username: '@mattwarman',
         url: 'https://twitter.com/mattwarman',
       },
       website: 'http://www.mattwarman.co.uk/',
@@ -6919,7 +6919,7 @@ export default {
       name: 'Giles Watling',
       party: 'Conservative',
       twitter: {
-        handler: '@gileswatling',
+        username: '@gileswatling',
         url: 'https://twitter.com/GilesWatling',
       },
       website: null,
@@ -6931,7 +6931,7 @@ export default {
       name: 'Tom Watson',
       party: 'Labour',
       twitter: {
-        handler: '@tom_watson',
+        username: '@tom_watson',
         url: 'https://twitter.com/tom_watson',
       },
       website: 'http://www.tom-watson.com/',
@@ -6943,7 +6943,7 @@ export default {
       name: 'Catherine West',
       party: 'Labour',
       twitter: {
-        handler: '@catherinewest1',
+        username: '@catherinewest1',
         url: 'https://twitter.com/catherinewest1',
       },
       website: 'https://catherinewest-labourclp97.nationbuilder.com/',
@@ -6955,7 +6955,7 @@ export default {
       name: 'Matt Western',
       party: 'Labour',
       twitter: {
-        handler: '@mattwestern_',
+        username: '@mattwestern_',
         url: 'https://twitter.com/mattwestern_',
       },
       website: 'http://www.mattwestern.org/',
@@ -6967,7 +6967,7 @@ export default {
       name: 'Helen Whately',
       party: 'Conservative',
       twitter: {
-        handler: '@helen_whately',
+        username: '@helen_whately',
         url: 'https://twitter.com/helen_whately',
       },
       website: 'http://www.helenwhately.co.uk/',
@@ -6979,7 +6979,7 @@ export default {
       name: 'Mrs Wheeler',
       party: 'Conservative',
       twitter: {
-        handler: '@heatherwheeler',
+        username: '@heatherwheeler',
         url: 'https://twitter.com/HeatherWheeler',
       },
       website: 'http://www.heatherwheeler.org.uk/',
@@ -6991,7 +6991,7 @@ export default {
       name: 'Dr Whitehead',
       party: 'Labour',
       twitter: {
-        handler: '@alanwhiteheadmp',
+        username: '@alanwhiteheadmp',
         url: 'https://twitter.com/alanwhiteheadmp',
       },
       website: 'http://www.alan-whitehead.org.uk/',
@@ -7003,7 +7003,7 @@ export default {
       name: 'Martin Whitfield',
       party: 'Labour',
       twitter: {
-        handler: '@martwhitfieldmp',
+        username: '@martwhitfieldmp',
         url: 'https://twitter.com/martwhitfieldmp',
       },
       website: null,
@@ -7015,7 +7015,7 @@ export default {
       name: 'Dr Whitford',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@dr_philippaw',
+        username: '@dr_philippaw',
         url: 'https://twitter.com/Dr_PhilippaW',
       },
       website: 'http://whitford.scot/',
@@ -7027,7 +7027,7 @@ export default {
       name: 'Craig Whittaker',
       party: 'Conservative',
       twitter: {
-        handler: '@cwhittakermp',
+        username: '@cwhittakermp',
         url: 'https://twitter.com/CWhittakerMP',
       },
       website: 'https://www.craigwhittaker.org.uk/',
@@ -7039,7 +7039,7 @@ export default {
       name: 'Mr Whittingdale',
       party: 'Conservative',
       twitter: {
-        handler: '@jwhittingdale',
+        username: '@jwhittingdale',
         url: 'https://twitter.com/jwhittingdale',
       },
       website: 'http://www.johnwhittingdale.org.uk/',
@@ -7050,7 +7050,7 @@ export default {
       email: 'bill.wiggin.mp@parliament.uk',
       name: 'Bill Wiggin',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.billwiggin.com/',
     },
     {
@@ -7060,7 +7060,7 @@ export default {
       name: 'Hywel Williams',
       party: 'Plaid Cymru',
       twitter: {
-        handler: '@hywelplaidcymru',
+        username: '@hywelplaidcymru',
         url: 'https://twitter.com/hywelplaidcymru',
       },
       website: null,
@@ -7072,7 +7072,7 @@ export default {
       name: 'Dr Williams',
       party: 'Labour',
       twitter: {
-        handler: '@paulwilliamsmp',
+        username: '@paulwilliamsmp',
         url: 'https://twitter.com/paulwilliamsmp',
       },
       website: null,
@@ -7084,7 +7084,7 @@ export default {
       name: 'Chris Williamson',
       party: 'Independent',
       twitter: {
-        handler: '@derbychrisw',
+        username: '@derbychrisw',
         url: 'https://twitter.com/derbychrisw',
       },
       website: null,
@@ -7096,7 +7096,7 @@ export default {
       name: 'Gavin Williamson',
       party: 'Conservative',
       twitter: {
-        handler: '@gwilliamsonmp',
+        username: '@gwilliamsonmp',
         url: 'https://twitter.com/GWilliamsonMP',
       },
       website: 'http://www.gavinwilliamson.org/',
@@ -7108,7 +7108,7 @@ export default {
       name: 'Phil Wilson',
       party: 'Labour',
       twitter: {
-        handler: '@philwilsonmp',
+        username: '@philwilsonmp',
         url: 'https://twitter.com/PhilWilsonMP',
       },
       website: 'http://www.phil4sedgefield.uk/',
@@ -7120,7 +7120,7 @@ export default {
       name: 'Sammy Wilson',
       party: 'Democratic Unionist Party',
       twitter: {
-        handler: '@eastantrimmp',
+        username: '@eastantrimmp',
         url: 'https://twitter.com/eastantrimmp',
       },
       website: 'http://www.sammywilson.org/',
@@ -7131,7 +7131,7 @@ export default {
       email: 'rosie.winterton.mp@parliament.uk',
       name: 'Dame Rosie Winterton',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.rosiewinterton.co.uk/',
     },
     {
@@ -7141,7 +7141,7 @@ export default {
       name: 'Pete Wishart',
       party: 'Scottish National Party',
       twitter: {
-        handler: '@petewishart',
+        username: '@petewishart',
         url: 'https://twitter.com/PeteWishart',
       },
       website: 'http://www.petewishartmp.scot/',
@@ -7153,7 +7153,7 @@ export default {
       name: 'Dr Wollaston',
       party: 'Independent',
       twitter: {
-        handler: '@sarahwollaston',
+        username: '@sarahwollaston',
         url: 'https://twitter.com/sarahwollaston',
       },
       website: 'http://www.drsarah.org.uk/',
@@ -7164,7 +7164,7 @@ export default {
       email: 'mikej.wood.mp@parliament.uk',
       name: 'Mike Wood',
       party: 'Conservative',
-      twitter: { handler: '@mikejwood', url: 'https://twitter.com/mikejwood' },
+      twitter: { username: '@mikejwood', url: 'https://twitter.com/mikejwood' },
       website: 'http://www.mikewood.mp/',
     },
     {
@@ -7174,7 +7174,7 @@ export default {
       name: 'John Woodcock',
       party: 'Independent',
       twitter: {
-        handler: '@jwoodcockmp',
+        username: '@jwoodcockmp',
         url: 'https://twitter.com/JWoodcockMP',
       },
       website: 'http://www.johnwoodcock.org/',
@@ -7186,7 +7186,7 @@ export default {
       name: 'Mr Wragg',
       party: 'Conservative',
       twitter: {
-        handler: '@william_wragg',
+        username: '@william_wragg',
         url: 'https://twitter.com/william_wragg',
       },
       website: 'http://www.williamwragg.org.uk/',
@@ -7197,7 +7197,7 @@ export default {
       email: 'Jeremy.wright.mp@parliament.uk',
       name: 'Jeremy Wright',
       party: 'Conservative',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: 'http://www.jeremywright.org.uk/',
     },
     {
@@ -7206,7 +7206,7 @@ export default {
       email: 'mohammad.yasin.mp@parliament.uk',
       name: 'Mohammad Yasin',
       party: 'Labour',
-      twitter: { handler: null, url: null },
+      twitter: { username: null, url: null },
       website: null,
     },
     {
@@ -7216,7 +7216,7 @@ export default {
       name: 'Nadhim Zahawi',
       party: 'Conservative',
       twitter: {
-        handler: '@nadhimzahawi',
+        username: '@nadhimzahawi',
         url: 'https://twitter.com/nadhimzahawi',
       },
       website: 'http://www.zahawi.com/',
@@ -7228,7 +7228,7 @@ export default {
       name: 'Daniel Zeichner',
       party: 'Labour',
       twitter: {
-        handler: '@danielzeichner',
+        username: '@danielzeichner',
         url: 'https://twitter.com/danielzeichner',
       },
       website: 'http://www.danielzeichner.co.uk/',

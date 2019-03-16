@@ -9,7 +9,7 @@ Schema
   name: 'Ms Abbott',
   party: 'Labour',
   twitter: {
-    handler: '@hackneyabbott',
+    username: '@hackneyabbott',
     url: 'https://twitter.com/HackneyAbbott',
   },
   website: 'http://www.dianeabbott.org.uk/',
@@ -35,9 +35,9 @@ const Commons = () => (
           <dt>Twitter</dt>
           <dd>
             <dl>
-              <dt>Handler</dt>
-              <dd>{mp.twitter.handler}</dd>
-              <dt>Url</dt>
+              <dt>Username</dt>
+              <dd>{mp.twitter.username}</dd>
+              <dt>URL</dt>
               <dd>{mp.twitter.url}</dd>
             </dl>
           </dd>

@@ -17,7 +17,7 @@ Markup
     <dt>TWITTER</dt>
     <dd>
       <dl>
-        <dt>HANDLER</dt>
+        <dt>username</dt>
         <dd>@hackneyabbott</dd>
         <dt>URL</dt>
         <dd>https://twitter.com/HackneyAbbott</dd>
@@ -53,8 +53,8 @@ const Mp = mp =>
             React.createElement(
               'dl',
               {},
-              React.createElement('dt', {}, 'Handler'),
-              React.createElement('dd', {}, mp.twitter.handler),
+              React.createElement('dt', {}, 'username'),
+              React.createElement('dd', {}, mp.twitter.username),
               React.createElement('dt', {}, 'URL'),
               React.createElement('dd', {}, mp.twitter.url),
             ),
