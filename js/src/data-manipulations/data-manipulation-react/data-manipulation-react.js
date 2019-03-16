@@ -1,6 +1,34 @@
 import data from './commons.js';
 const { commons } = data;
 
+/*
+Markup
+<section>
+  <h2>Rt Hon Diane Abbott MP</h2>
+  <dl>
+    <dt>CONSTITUENCY</dt>
+    <dd>Hackney North and Stoke Newington</dd>
+    <dt>EMAIL</dt>
+    <dd>diane.abbott.office@parliament.uk</dd>
+    <dt>NAME</dt>
+    <dd>Ms Abbott</dd>
+    <dt>PARTY</dt>
+    <dd>Labour</dd>
+    <dt>TWITTER</dt>
+    <dd>
+      <dl>
+        <dt>HANDLER</dt>
+        <dd>@hackneyabbott</dd>
+        <dt>URL</dt>
+        <dd>https://twitter.com/HackneyAbbott</dd>
+      </dl>
+    </dd>
+    <dt>WEBSITE</dt>
+    <dd>http://www.dianeabbott.org.uk/</dd>
+  </dl>
+</section>
+*/
+
 const Mp = mp =>
   React.createElement(
     'section',
