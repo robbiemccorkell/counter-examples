@@ -50,6 +50,7 @@ const ContactInfo = props => (
     <h3>Contact:</h3>
     <p><a href={`mailto:${props.email}`}>{props.email}</a></p>
     <p><a href={props.website} target="_blank">{props.website}</a></p>
+    <TwitterHandle handle={props.twitter.handle} url={props.twitter.url} />
   </div>
 );
 
@@ -64,8 +65,7 @@ const Commons = () => (
         <ProfileImages twitterHandle={mp.twitter.handle} party={mp.party} />
         <p>{`Constituency: ${mp.constituency}`}</p>
         <p>{`Party: ${mp.party}`}</p>
-        <ContactInfo email={mp.email} website={mp.website} />
-        <TwitterHandle handle={mp.twitter.handle} url={mp.twitter.url} />
+        <ContactInfo email={mp.email} website={mp.website} twitter={mp.twitter} />
         <hr />
       </section>
     ))}
