@@ -54,23 +54,48 @@ const ContactInfo = props => (
   </div>
 );
 
-
-const Commons = () => (
-  <main>
-    <h1>Member of Parliament list</h1>
-    <p>Find your local MP:</p>
-    {commons.map(mp => (
-      <section key={mp.name}>
-        <h2>{mp.name}</h2>
-        <ProfileImages twitterHandle={mp.twitter.handle} party={mp.party} />
-        <p>{`Constituency: ${mp.constituency}`}</p>
-        <p>{`Party: ${mp.party}`}</p>
-        <ContactInfo email={mp.email} website={mp.website} twitter={mp.twitter} />
-        <hr />
-      </section>
+const PartySelector = props => (
+  <select 
+    id="party-select" 
+    value={props.value}
+    onChange={e => props.onSelect(e.target.value)}
+  >
+    <option value="">--Please choose a party--</option>
+    {props.parties.map(party => (
+      <option value={party} key={party}>{party}</option>
     ))}
-  </main>
+  </select>
 );
+
+
+const Commons = () => {
+  const [partyFilter, setPartyFilter] = React.useState("");
+  const uniqueParties = [...new Set(commons.map(mp => mp.party))];
+  
+  return (
+    <main>
+      <h1>Member of Parliament list</h1>
+      <p>Find your local MP:</p>
+      <PartySelector 
+        parties={uniqueParties} 
+        value={partyFilter}
+        onSelect={setPartyFilter}
+      />
+      {commons
+        .filter(mp => !partyFilter || mp.party === partyFilter)
+        .map(mp => (
+        <section key={mp.name}>
+          <h2>{mp.name}</h2>
+          <ProfileImages twitterHandle={mp.twitter.handle} party={mp.party} />
+          <p>{`Constituency: ${mp.constituency}`}</p>
+          <p>{`Party: ${mp.party}`}</p>
+          <ContactInfo email={mp.email} website={mp.website} twitter={mp.twitter} />
+          <hr />
+        </section>
+      ))}
+    </main>
+  )
+};
 
 const domContainer = document.getElementById("container");
 ReactDOM.render(<Commons />, domContainer);
