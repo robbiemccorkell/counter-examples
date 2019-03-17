@@ -2,10 +2,9 @@ const data = {
   updatedAt: 'Fri Mar 15 2019',
   commons: [
     {
-      addressAs: 'Rt Hon Diane Abbott MP',
+      name: 'Rt Hon Diane Abbott MP',
       constituency: 'Hackney North and Stoke Newington',
       email: 'diane.abbott.office@parliament.uk',
-      name: 'Ms Abbott',
       party: 'Labour',
       twitter: {
         handle: '@hackneyabbott',
@@ -14,10 +13,9 @@ const data = {
       website: 'http://www.dianeabbott.org.uk/',
     },
     {
-      addressAs: 'Debbie Abrahams MP',
+      name: 'Debbie Abrahams MP',
       constituency: 'Oldham East and Saddleworth',
       email: 'abrahamsd@parliament.uk',
-      name: 'Debbie Abrahams',
       party: 'Labour',
       twitter: {
         handle: '@debbie_abrahams',
@@ -26,10 +24,9 @@ const data = {
       website: 'http://www.debbieabrahams.org.uk/',
     },
     {
-      addressAs: 'Adam Afriyie MP',
+      name: 'Adam Afriyie MP',
       constituency: 'Windsor',
       email: 'adam.afriyie.mp@parliament.uk',
-      name: 'Adam Afriyie',
       party: 'Conservative',
       twitter: {
         handle: '@adamafriyie',
@@ -38,10 +35,9 @@ const data = {
       website: 'http://www.adamafriyie.org/',
     },
     {
-      addressAs: 'Peter Aldous MP',
+      name: 'Peter Aldous MP',
       constituency: 'Waveney',
       email: 'peter.aldous.mp@parliament.uk',
-      name: 'Peter Aldous',
       party: 'Conservative',
       twitter: {
         handle: '@peter_aldous',
@@ -50,10 +46,9 @@ const data = {
       website: 'http://www.peteraldous.com/',
     },
     {
-      addressAs: 'Rushanara Ali MP',
+      name: 'Rushanara Ali MP',
       constituency: 'Bethnal Green and Bow',
       email: 'rushanara.ali.mp@parliament.uk',
-      name: 'Rushanara Ali',
       party: 'Labour',
       twitter: {
         handle: '@rushanaraali',
@@ -62,19 +57,17 @@ const data = {
       website: 'http://www.rushanaraali.org/',
     },
     {
-      addressAs: 'Lucy Allan MP',
+      name: 'Lucy Allan MP',
       constituency: 'Telford',
       email: 'lucy.allan.mp@parliament.uk',
-      name: 'Lucy Allan',
       party: 'Conservative',
       twitter: { handle: '@lucyallan', url: 'https://twitter.com/lucyallan' },
       website: 'http://www.lucyallan.com/',
     },
     {
-      addressAs: 'Heidi Allen MP',
+      name: 'Heidi Allen MP',
       constituency: 'South Cambridgeshire',
       email: 'heidi.allen.mp@parliament.uk',
-      name: 'Heidi Allen',
       party: 'Independent',
       twitter: {
         handle: '@heidiallen75',
@@ -83,19 +76,17 @@ const data = {
       website: 'http://www.heidisouthcambs.co.uk/',
     },
     {
-      addressAs: 'Dr Rosena Allin-Khan MP',
+      name: 'Dr Rosena Allin-Khan MP',
       constituency: 'Tooting',
       email: 'rosena.allinkhan.mp@parliament.uk',
-      name: 'Dr Rosena Allin-Khan',
       party: 'Labour',
       twitter: { handle: '@drrosena', url: 'https://twitter.com/DrRosena' },
       website: 'http://tootinglabour.com/',
     },
     {
-      addressAs: 'Tonia Antoniazzi MP',
+      name: 'Tonia Antoniazzi MP',
       constituency: 'Gower',
       email: 'tonia.antoniazzi.mp@parliament.uk',
-      name: 'Tonia Antoniazzi',
       party: 'Labour',
       twitter: {
         handle: '@toniaantoniazzi',
@@ -104,10 +95,9 @@ const data = {
       website: 'http://www.toniaantoniazzi.co.uk/',
     },
     {
-      addressAs: 'Jonathan Ashworth MP',
+      name: 'Jonathan Ashworth MP',
       constituency: 'Leicester South',
       email: 'jon.ashworth.mp@parliament.uk',
-      name: 'Jonathan Ashworth',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@jonashworth',
@@ -116,10 +106,9 @@ const data = {
       website: 'http://www.jonashworth.org/',
     },
     {
-      addressAs: 'Ian Austin MP',
+      name: 'Ian Austin MP',
       constituency: 'Dudley North',
       email: 'austini@parliament.uk',
-      name: 'Ian Austin',
       party: 'Independent',
       twitter: {
         handle: '@ianaustinmp',
@@ -128,10 +117,9 @@ const data = {
       website: 'http://www.ianaustin.co.uk/',
     },
     {
-      addressAs: 'Mr Steve Baker MP',
+      name: 'Mr Steve Baker MP',
       constituency: 'Wycombe',
       email: 'steve.baker.mp@parliament.uk',
-      name: 'Mr Baker',
       party: 'Conservative',
       twitter: {
         handle: '@stevebakerhw',
@@ -140,10 +128,9 @@ const data = {
       website: 'http://www.stevebaker.info/',
     },
     {
-      addressAs: 'Harriett Baldwin MP',
+      name: 'Harriett Baldwin MP',
       constituency: 'West Worcestershire',
       email: 'harriett.baldwin.mp@parliament.uk',
-      name: 'Harriett Baldwin',
       party: 'Conservative',
       twitter: {
         handle: '@hbaldwinmp',
@@ -152,10 +139,9 @@ const data = {
       website: 'http://www.harriettbaldwin.com/',
     },
     {
-      addressAs: 'Rt Hon Stephen Barclay MP',
+      name: 'Rt Hon Stephen Barclay MP',
       constituency: 'North East Cambridgeshire',
       email: 'stephen.barclay.mp@parliament.uk',
-      name: 'Stephen Barclay',
       party: 'Conservative',
       twitter: {
         handle: '@stevebarclaymp',
@@ -164,19 +150,17 @@ const data = {
       website: 'http://www.stevebarclay.net/',
     },
     {
-      addressAs: 'Guto Bebb MP',
+      name: 'Guto Bebb MP',
       constituency: 'Aberconwy',
       email: 'guto.bebb.mp@parliament.uk',
-      name: 'Guto Bebb',
       party: 'Conservative',
       twitter: { handle: '@gutobebb', url: 'https://twitter.com/GutoBebb' },
       website: 'http://www.gutobebb.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Hilary Benn MP',
+      name: 'Rt Hon Hilary Benn MP',
       constituency: 'Leeds Central',
       email: 'bennh@parliament.uk',
-      name: 'Hilary Benn',
       party: 'Labour',
       twitter: {
         handle: '@hilarybennmp',
@@ -185,10 +169,9 @@ const data = {
       website: 'http://www.hilarybennmp.com/',
     },
     {
-      addressAs: 'Rt Hon Richard Benyon MP',
+      name: 'Rt Hon Richard Benyon MP',
       constituency: 'Newbury',
       email: 'benyonr@parliament.uk',
-      name: 'Richard Benyon',
       party: 'Conservative',
       twitter: {
         handle: '@richardbenyonmp',
@@ -197,10 +180,9 @@ const data = {
       website: 'http://www.richardbenyon.com/',
     },
     {
-      addressAs: 'Luciana Berger MP',
+      name: 'Luciana Berger MP',
       constituency: 'Liverpool, Wavertree',
       email: 'luciana.berger.mp@parliament.uk',
-      name: 'Luciana Berger',
       party: 'Independent',
       twitter: {
         handle: '@lucianaberger',
@@ -209,19 +191,17 @@ const data = {
       website: 'http://www.lucianaberger.com/',
     },
     {
-      addressAs: 'Jake Berry MP',
+      name: 'Jake Berry MP',
       constituency: 'Rossendale and Darwen',
       email: 'jake.berry.mp@parliament.uk',
-      name: 'Jake Berry',
       party: 'Conservative',
       twitter: { handle: '@jakeberry', url: 'https://twitter.com/jakeberry' },
       website: 'http://jakeberry.org/',
     },
     {
-      addressAs: 'Mr Clive Betts MP',
+      name: 'Mr Clive Betts MP',
       constituency: 'Sheffield South East',
       email: 'officeofclivebettsmp@parliament.uk',
-      name: 'Mr Betts',
       party: 'Labour',
       twitter: {
         handle: '@clivebettsmp',
@@ -230,10 +210,9 @@ const data = {
       website: 'http://www.clivebetts.com/',
     },
     {
-      addressAs: 'Mhairi Black MP',
+      name: 'Mhairi Black MP',
       constituency: 'Paisley and Renfrewshire South',
       email: 'mhairi.black.mp@parliament.uk',
-      name: 'Mhairi Black',
       party: 'Scottish National Party',
       twitter: {
         handle: '@mhairiblack',
@@ -242,10 +221,9 @@ const data = {
       website: 'http://www.mhairiblack.scot/',
     },
     {
-      addressAs: 'Bob Blackman MP',
+      name: 'Bob Blackman MP',
       constituency: 'Harrow East',
       email: 'bob.blackman.mp@parliament.uk',
-      name: 'Bob Blackman',
       party: 'Conservative',
       twitter: {
         handle: '@bobblackmanmp',
@@ -254,19 +232,17 @@ const data = {
       website: 'http://www.bobblackmanmp.com/',
     },
     {
-      addressAs: 'Kirsty Blackman MP',
+      name: 'Kirsty Blackman MP',
       constituency: 'Aberdeen North',
       email: 'kirsty.blackman.mp@parliament.uk',
-      name: 'Kirsty Blackman',
       party: 'Scottish National Party',
       twitter: { handle: '@kirstysnp', url: 'https://twitter.com/KirstySNP' },
       website: 'http://www.snp.org/kirsty_blackman',
     },
     {
-      addressAs: 'Dr Roberta Blackman-Woods MP',
+      name: 'Dr Roberta Blackman-Woods MP',
       constituency: 'City of Durham',
       email: 'woodsr@parliament.uk',
-      name: 'Dr Blackman-Woods',
       party: 'Labour',
       twitter: {
         handle: '@robertabwmp',
@@ -275,10 +251,9 @@ const data = {
       website: 'http://www.roberta.org.uk/',
     },
     {
-      addressAs: 'Paul Blomfield MP',
+      name: 'Paul Blomfield MP',
       constituency: 'Sheffield Central',
       email: 'paul.blomfield.mp@parliament.uk',
-      name: 'Paul Blomfield',
       party: 'Labour',
       twitter: {
         handle: '@paulblomfieldmp',
@@ -287,10 +262,9 @@ const data = {
       website: 'http://www.paulblomfield.co.uk/',
     },
     {
-      addressAs: 'Crispin Blunt MP',
+      name: 'Crispin Blunt MP',
       constituency: 'Reigate',
       email: 'crispinbluntmp@parliament.uk',
-      name: 'Mr Blunt',
       party: 'Conservative',
       twitter: {
         handle: '@crispinbluntmp',
@@ -299,10 +273,9 @@ const data = {
       website: 'http://www.blunt4reigate.com/',
     },
     {
-      addressAs: 'Nick Boles MP',
+      name: 'Nick Boles MP',
       constituency: 'Grantham and Stamford',
       email: 'nick.boles.mp@parliament.uk',
-      name: 'Nick Boles',
       party: 'Conservative',
       twitter: {
         handle: '@nickbolesmp',
@@ -311,10 +284,9 @@ const data = {
       website: 'http://www.nickboles.co.uk/',
     },
     {
-      addressAs: 'Mr Peter Bone MP',
+      name: 'Mr Peter Bone MP',
       constituency: 'Wellingborough',
       email: 'bonep@parliament.uk',
-      name: 'Mr Bone',
       party: 'Conservative',
       twitter: {
         handle: '@peterbonemp',
@@ -323,10 +295,9 @@ const data = {
       website: 'http://www.wellingboroughconservatives.org/',
     },
     {
-      addressAs: 'Tracy Brabin MP',
+      name: 'Tracy Brabin MP',
       constituency: 'Batley and Spen',
       email: 'tracy.brabin.mp@parliament.uk',
-      name: 'Tracy Brabin',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@tracybrabin',
@@ -335,10 +306,9 @@ const data = {
       website: 'https://tracybrabinmp.com/%20',
     },
     {
-      addressAs: 'Ben Bradley MP',
+      name: 'Ben Bradley MP',
       constituency: 'Mansfield',
       email: 'ben.bradley.mp@parliament.uk',
-      name: 'Ben Bradley',
       party: 'Conservative',
       twitter: {
         handle: '@bbradleymp',
@@ -347,10 +317,9 @@ const data = {
       website: 'https://www.benbradleymp.com/',
     },
     {
-      addressAs: 'Rt Hon Ben Bradshaw MP',
+      name: 'Rt Hon Ben Bradshaw MP',
       constituency: 'Exeter',
       email: 'bradshawb@parliament.uk',
-      name: 'Mr Bradshaw',
       party: 'Labour',
       twitter: {
         handle: '@benpbradshaw',
@@ -359,10 +328,9 @@ const data = {
       website: 'http://www.benbradshaw.co.uk/',
     },
     {
-      addressAs: 'Rt Hon Tom Brake MP',
+      name: 'Rt Hon Tom Brake MP',
       constituency: 'Carshalton and Wallington',
       email: 'info@tombrake.co.uk',
-      name: 'Tom Brake',
       party: 'Liberal Democrat',
       twitter: {
         handle: '@thomasbrake',
@@ -371,10 +339,9 @@ const data = {
       website: 'http://www.tombrake.co.uk/',
     },
     {
-      addressAs: 'Suella Braverman MP',
+      name: 'Suella Braverman MP',
       constituency: 'Fareham',
       email: 'suella.braverman.mp@parliament.uk',
-      name: 'Suella Braverman',
       party: 'Conservative',
       twitter: {
         handle: '@suellabraverman',
@@ -383,10 +350,9 @@ const data = {
       website: 'https://www.suellabraverman.co.uk/',
     },
     {
-      addressAs: 'Kevin Brennan MP',
+      name: 'Kevin Brennan MP',
       constituency: 'Cardiff West',
       email: 'brennank@parliament.uk',
-      name: 'Kevin Brennan',
       party: 'Labour',
       twitter: {
         handle: '@kevinbrennanmp',
@@ -395,19 +361,17 @@ const data = {
       website: 'http://www.kevinbrennan.co.uk/',
     },
     {
-      addressAs: 'Andrew Bridgen MP',
+      name: 'Andrew Bridgen MP',
       constituency: 'North West Leicestershire',
       email: 'andrew.bridgen.mp@parliament.uk',
-      name: 'Andrew Bridgen',
       party: 'Conservative',
       twitter: { handle: '@abridgen', url: 'https://twitter.com/ABridgen' },
       website: 'http://www.andrewbridgen.com/',
     },
     {
-      addressAs: 'Deidre Brock MP',
+      name: 'Deidre Brock MP',
       constituency: 'Edinburgh North and Leith',
       email: 'deidre.brock.mp@parliament.uk',
-      name: 'Deidre Brock',
       party: 'Scottish National Party',
       twitter: {
         handle: '@deidrebrock',
@@ -416,10 +380,9 @@ const data = {
       website: 'http://www.dbrockmp.scot/',
     },
     {
-      addressAs: 'Rt Hon James Brokenshire MP',
+      name: 'Rt Hon James Brokenshire MP',
       constituency: 'Old Bexley and Sidcup',
       email: 'james.brokenshire.mp@parliament.uk',
-      name: 'James Brokenshire',
       party: 'Conservative',
       twitter: {
         handle: '@jbrokenshire',
@@ -428,10 +391,9 @@ const data = {
       website: 'http://www.jamesbrokenshire.com/',
     },
     {
-      addressAs: 'Alan Brown MP',
+      name: 'Alan Brown MP',
       constituency: 'Kilmarnock and Loudoun',
       email: 'alan.brown.mp@parliament.uk',
-      name: 'Mr Brown',
       party: 'Scottish National Party',
       twitter: {
         handle: '@alanbrownsnp',
@@ -440,10 +402,9 @@ const data = {
       website: 'http://www.alanbrownmp.scot/',
     },
     {
-      addressAs: 'Lyn Brown MP',
+      name: 'Lyn Brown MP',
       constituency: 'West Ham',
       email: 'brownl@parliament.uk',
-      name: 'Lyn Brown',
       party: 'Labour',
       twitter: {
         handle: '@lynbrownmp',
@@ -452,10 +413,9 @@ const data = {
       website: 'http://www.lynbrown.org.uk/',
     },
     {
-      addressAs: 'Ms Karen Buck MP',
+      name: 'Ms Karen Buck MP',
       constituency: 'Westminster North',
       email: 'buckk@parliament.uk',
-      name: 'Ms Buck',
       party: 'Labour',
       twitter: {
         handle: '@karenpbuckmp',
@@ -464,10 +424,9 @@ const data = {
       website: 'http://www.karenbuck.org.uk/',
     },
     {
-      addressAs: 'Robert Buckland MP',
+      name: 'Robert Buckland MP',
       constituency: 'South Swindon',
       email: 'robert.buckland.mp@parliament.uk',
-      name: 'Robert Buckland',
       party: 'Conservative',
       twitter: {
         handle: '@robertbuckland',
@@ -476,10 +435,9 @@ const data = {
       website: 'http://www.robertbuckland.co.uk/',
     },
     {
-      addressAs: 'Richard Burden MP',
+      name: 'Richard Burden MP',
       constituency: 'Birmingham, Northfield',
       email: 'richard.burden.mp@parliament.uk',
-      name: 'Richard Burden',
       party: 'Labour',
       twitter: {
         handle: '@richardburdenmp',
@@ -488,10 +446,9 @@ const data = {
       website: 'http://www.richardburden.com/',
     },
     {
-      addressAs: 'Richard Burgon MP',
+      name: 'Richard Burgon MP',
       constituency: 'Leeds East',
       email: 'richard@richardburgon.com',
-      name: 'Richard Burgon',
       party: 'Labour',
       twitter: {
         handle: '@richardburgon',
@@ -500,10 +457,9 @@ const data = {
       website: 'http://www.richardburgon.com/',
     },
     {
-      addressAs: 'Conor Burns MP',
+      name: 'Conor Burns MP',
       constituency: 'Bournemouth West',
       email: 'conor.burns.mp@parliament.uk',
-      name: 'Conor Burns',
       party: 'Conservative',
       twitter: {
         handle: '@conorburnsuk',
@@ -512,10 +468,9 @@ const data = {
       website: 'http://www.conorburns.com/',
     },
     {
-      addressAs: 'Rt Hon Alistair Burt MP',
+      name: 'Rt Hon Alistair Burt MP',
       constituency: 'North East Bedfordshire',
       email: 'alistair.burt.mp@parliament.uk',
-      name: 'Alistair Burt',
       party: 'Conservative',
       twitter: {
         handle: '@alistairburtuk',
@@ -524,10 +479,9 @@ const data = {
       website: 'http://www.alistair-burt.co.uk/',
     },
     {
-      addressAs: 'Rt Hon Liam Byrne MP',
+      name: 'Rt Hon Liam Byrne MP',
       constituency: 'Birmingham, Hodge Hill',
       email: 'byrnel@parliament.uk',
-      name: 'Liam Byrne',
       party: 'Labour',
       twitter: {
         handle: '@liambyrnemp',
@@ -536,10 +490,9 @@ const data = {
       website: 'http://www.liambyrne.co.uk/',
     },
     {
-      addressAs: 'Ruth Cadbury MP',
+      name: 'Ruth Cadbury MP',
       constituency: 'Brentford and Isleworth',
       email: 'ruthcadburymp@parliament.uk',
-      name: 'Ruth Cadbury',
       party: 'Labour',
       twitter: {
         handle: '@ruthcadbury',
@@ -548,10 +501,9 @@ const data = {
       website: 'https://ruthcadbury.org/',
     },
     {
-      addressAs: 'Rt Hon Alun Cairns MP',
+      name: 'Rt Hon Alun Cairns MP',
       constituency: 'Vale of Glamorgan',
       email: 'alun.cairns.mp@parliament.uk',
-      name: 'Alun Cairns',
       party: 'Conservative',
       twitter: {
         handle: '@aluncairns',
@@ -560,10 +512,9 @@ const data = {
       website: 'http://www.aluncairns.co.uk/',
     },
     {
-      addressAs: 'Dr Lisa Cameron MP',
+      name: 'Dr Lisa Cameron MP',
       constituency: 'East Kilbride, Strathaven and Lesmahagow',
       email: 'lisa.cameron.mp@parliament.uk',
-      name: 'Dr Cameron',
       party: 'Scottish National Party',
       twitter: {
         handle: '@drlisacameronmp',
@@ -572,10 +523,9 @@ const data = {
       website: 'http://www.lisacameronmp.scot/',
     },
     {
-      addressAs: 'Sir Alan Campbell MP',
+      name: 'Sir Alan Campbell MP',
       constituency: 'Tynemouth',
       email: 'alan.campbell.mp@parliament.uk',
-      name: 'Sir Alan Campbell',
       party: 'Labour',
       twitter: {
         handle: '@alancampbellmp',
@@ -584,10 +534,9 @@ const data = {
       website: 'http://www.alancampbellmp.co.uk/',
     },
     {
-      addressAs: 'Dan Carden MP',
+      name: 'Dan Carden MP',
       constituency: 'Liverpool, Walton',
       email: 'dan.carden.mp@parliament.uk',
-      name: 'Dan Carden',
       party: 'Labour',
       twitter: {
         handle: '@dancardenmp',
@@ -596,10 +545,9 @@ const data = {
       website: 'http://www.dancarden4walton.org/',
     },
     {
-      addressAs: 'Rt Hon Alistair Carmichael MP',
+      name: 'Rt Hon Alistair Carmichael MP',
       constituency: 'Orkney and Shetland',
       email: 'carmichaela@parliament.uk',
-      name: 'Mr Carmichael',
       party: 'Liberal Democrat',
       twitter: {
         handle: '@acarmichaelmp',
@@ -608,10 +556,9 @@ const data = {
       website: 'http://www.alistaircarmichael.org.uk/',
     },
     {
-      addressAs: 'Sir William Cash MP',
+      name: 'Sir William Cash MP',
       constituency: 'Stone',
       email: 'cashw@parliament.uk',
-      name: 'Sir William',
       party: 'Conservative',
       twitter: {
         handle: '@billcashmp',
@@ -620,10 +567,9 @@ const data = {
       website: 'http://www.billcashmp.co.uk/',
     },
     {
-      addressAs: 'Maria Caulfield MP',
+      name: 'Maria Caulfield MP',
       constituency: 'Lewes',
       email: 'maria.caulfield.mp@parliament.uk',
-      name: 'Maria Caulfield',
       party: 'Conservative',
       twitter: {
         handle: '@mariacaulfield',
@@ -632,10 +578,9 @@ const data = {
       website: 'http://www.mariacaulfield.co.uk/',
     },
     {
-      addressAs: 'Alex Chalk MP',
+      name: 'Alex Chalk MP',
       constituency: 'Cheltenham',
       email: 'alex.chalk.mp@parliament.uk',
-      name: 'Alex Chalk',
       party: 'Conservative',
       twitter: {
         handle: '@alexchalkchelt',
@@ -644,10 +589,9 @@ const data = {
       website: 'http://www.alexchalk.com/',
     },
     {
-      addressAs: 'Sarah Champion MP',
+      name: 'Sarah Champion MP',
       constituency: 'Rotherham',
       email: 'sarah.champion.mp@parliament.uk',
-      name: 'Sarah Champion',
       party: 'Labour',
       twitter: {
         handle: '@sarahchampionmp',
@@ -656,19 +600,17 @@ const data = {
       website: 'http://www.sarahchampionmp.com/',
     },
     {
-      addressAs: 'Bambos Charalambous MP',
+      name: 'Bambos Charalambous MP',
       constituency: 'Enfield, Southgate',
       email: 'bambos.charalambous.mp@parliament.uk',
-      name: 'Bambos Charalambous',
       party: 'Labour',
       twitter: { handle: '@bambosmp', url: 'https://twitter.com/BambosMP' },
       website: 'https://www.bambos.org.uk/',
     },
     {
-      addressAs: 'Joanna Cherry QC MP',
+      name: 'Joanna Cherry QC MP',
       constituency: 'Edinburgh South West',
       email: 'joanna.cherry.mp@parliament.uk',
-      name: 'Joanna Cherry',
       party: 'Scottish National Party',
       twitter: {
         handle: '@joannaccherry',
@@ -677,10 +619,9 @@ const data = {
       website: 'http://www.snp.org/joanna_cherry',
     },
     {
-      addressAs: 'Rehman Chishti MP',
+      name: 'Rehman Chishti MP',
       constituency: 'Gillingham and Rainham',
       email: 'rehman.chishti.mp@parliament.uk',
-      name: 'Rehman Chishti',
       party: 'Conservative',
       twitter: {
         handle: '@rehman_chishti',
@@ -689,10 +630,9 @@ const data = {
       website: 'http://www.rehmanchishti.com/',
     },
     {
-      addressAs: 'Jo Churchill MP',
+      name: 'Jo Churchill MP',
       constituency: 'Bury St Edmunds',
       email: 'jo.churchill.mp@parliament.uk',
-      name: 'Jo Churchill',
       party: 'Conservative',
       twitter: {
         handle: '@jochurchill4',
@@ -701,10 +641,9 @@ const data = {
       website: 'http://www.jochurchill.org.uk/',
     },
     {
-      addressAs: 'Colin Clark MP',
+      name: 'Colin Clark MP',
       constituency: 'Gordon',
       email: 'colin.clark.mp@parliament.uk',
-      name: 'Colin Clark',
       party: 'Conservative',
       twitter: {
         handle: '@colin_j_clark',
@@ -713,10 +652,9 @@ const data = {
       website: 'https://www.colinclark.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Greg Clark MP',
+      name: 'Rt Hon Greg Clark MP',
       constituency: 'Tunbridge Wells',
       email: 'gregclarkmp@parliament.uk',
-      name: 'Greg Clark',
       party: 'Conservative',
       twitter: {
         handle: '@gregclarkmp',
@@ -725,10 +663,9 @@ const data = {
       website: 'http://www.gregclark.org/',
     },
     {
-      addressAs: 'Mr Simon Clarke MP',
+      name: 'Mr Simon Clarke MP',
       constituency: 'Middlesbrough South and East Cleveland',
       email: 'simon.clarke.mp@parliament.uk',
-      name: 'Mr Clarke',
       party: 'Conservative',
       twitter: {
         handle: '@simonclarke84',
@@ -737,10 +674,9 @@ const data = {
       website: 'http://www.simon-clarke.org.uk/',
     },
     {
-      addressAs: 'Vernon Coaker MP',
+      name: 'Vernon Coaker MP',
       constituency: 'Gedling',
       email: 'vernon.coaker.mp@parliament.uk',
-      name: 'Vernon Coaker',
       party: 'Labour',
       twitter: {
         handle: '@vernon_coaker',
@@ -749,10 +685,9 @@ const data = {
       website: 'http://www.vernon-coaker-mp.co.uk/',
     },
     {
-      addressAs: 'Ann Coffey MP',
+      name: 'Ann Coffey MP',
       constituency: 'Stockport',
       email: 'ann.coffey.mp@parliament.uk',
-      name: 'Ann Coffey',
       party: 'Independent',
       twitter: {
         handle: '@anncoffey_mp',
@@ -761,10 +696,9 @@ const data = {
       website: 'http://www.anncoffeymp.com/',
     },
     {
-      addressAs: 'Dr Thérèse Coffey MP',
+      name: 'Dr Thérèse Coffey MP',
       constituency: 'Suffolk Coastal',
       email: 'therese.coffey.mp@parliament.uk',
-      name: 'Dr Coffey',
       party: 'Conservative',
       twitter: {
         handle: '@theresecoffey',
@@ -773,10 +707,9 @@ const data = {
       website: 'http://www.theresecoffeymp.com/',
     },
     {
-      addressAs: 'Damian Collins MP',
+      name: 'Damian Collins MP',
       constituency: 'Folkestone and Hythe',
       email: 'damian.collins.mp@parliament.uk',
-      name: 'Damian Collins',
       party: 'Conservative',
       twitter: {
         handle: '@damiancollins',
@@ -785,10 +718,9 @@ const data = {
       website: 'http://www.damiancollins.com/',
     },
     {
-      addressAs: 'Rosie Cooper MP',
+      name: 'Rosie Cooper MP',
       constituency: 'West Lancashire',
       email: 'rosie@rosiecooper.net',
-      name: 'Rosie Cooper',
       party: 'Labour',
       twitter: {
         handle: '@rosie4westlancs',
@@ -797,10 +729,9 @@ const data = {
       website: 'http://www.rosiecooper.net/',
     },
     {
-      addressAs: 'Rt Hon Yvette Cooper MP',
+      name: 'Rt Hon Yvette Cooper MP',
       constituency: 'Normanton, Pontefract and Castleford',
       email: 'coopery@parliament.uk',
-      name: 'Yvette Cooper',
       party: 'Labour',
       twitter: {
         handle: '@yvettecoopermp',
@@ -809,10 +740,9 @@ const data = {
       website: 'http://www.yvettecooper.com/',
     },
     {
-      addressAs: 'Rt Hon Jeremy Corbyn MP',
+      name: 'Rt Hon Jeremy Corbyn MP',
       constituency: 'Islington North',
       email: 'jeremy.corbyn.mp@parliament.uk',
-      name: 'Jeremy Corbyn',
       party: 'Labour',
       twitter: {
         handle: '@jeremycorbyn',
@@ -821,10 +751,9 @@ const data = {
       website: 'http://www.jeremycorbyn.org.uk/',
     },
     {
-      addressAs: 'Alberto Costa MP',
+      name: 'Alberto Costa MP',
       constituency: 'South Leicestershire',
       email: 'alberto.costa.mp@parliament.uk',
-      name: 'Alberto Costa',
       party: 'Conservative',
       twitter: {
         handle: '@albertocostamp',
@@ -833,10 +762,9 @@ const data = {
       website: 'http://www.albertocosta.org.uk/',
     },
     {
-      addressAs: 'Robert Courts MP',
+      name: 'Robert Courts MP',
       constituency: 'Witney',
       email: 'robert.courts.mp@parliament.uk',
-      name: 'Robert Courts',
       party: 'Conservative',
       twitter: {
         handle: '@robertcourts',
@@ -845,10 +773,9 @@ const data = {
       website: 'http://www.robertcourts.co.uk/',
     },
     {
-      addressAs: 'Ronnie Cowan MP',
+      name: 'Ronnie Cowan MP',
       constituency: 'Inverclyde',
       email: 'ronnie.cowan.mp@parliament.uk',
-      name: 'Ronnie Cowan',
       party: 'Scottish National Party',
       twitter: {
         handle: '@ronniecowan',
@@ -858,10 +785,9 @@ const data = {
         'https://www.parliament.uk/templates/MNIS/Units/Biography/www.ronniecowan.com',
     },
     {
-      addressAs: 'Rt Hon Geoffrey Cox QC MP',
+      name: 'Rt Hon Geoffrey Cox QC MP',
       constituency: 'Torridge and West Devon',
       email: 'coxg@parliament.uk',
-      name: 'Mr Cox',
       party: 'Conservative',
       twitter: {
         handle: '@geoffrey_cox',
@@ -870,28 +796,25 @@ const data = {
       website: 'http://www.geoffreycox.co.uk/',
     },
     {
-      addressAs: 'Neil Coyle MP',
+      name: 'Neil Coyle MP',
       constituency: 'Bermondsey and Old Southwark',
       email: 'neil.coyle.mp@parliament.uk',
-      name: 'Neil Coyle',
       party: 'Labour',
       twitter: { handle: '@coyleneil', url: 'https://twitter.com/coyleneil' },
       website: 'http://www.boslabour.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Stephen Crabb MP',
+      name: 'Rt Hon Stephen Crabb MP',
       constituency: 'Preseli Pembrokeshire',
       email: 'stephen.crabb.mp@parliament.uk',
-      name: 'Stephen Crabb',
       party: 'Conservative',
       twitter: { handle: '@scrabbmp', url: 'https://twitter.com/SCrabbMP' },
       website: 'http://www.stephencrabb.com/',
     },
     {
-      addressAs: 'Sir David Crausby MP',
+      name: 'Sir David Crausby MP',
       constituency: 'Bolton North East',
       email: 'crausbyd@parliament.uk',
-      name: 'Sir David',
       party: 'Labour',
       twitter: {
         handle: '@davidcrausby',
@@ -900,10 +823,9 @@ const data = {
       website: 'http://www.davidcrausby.co.uk/',
     },
     {
-      addressAs: 'Angela Crawley MP',
+      name: 'Angela Crawley MP',
       constituency: 'Lanark and Hamilton East',
       email: 'angela.crawley.mp@parliament.uk',
-      name: 'Angela Crawley',
       party: 'Scottish National Party',
       twitter: {
         handle: '@angelacrawleymp',
@@ -912,10 +834,9 @@ const data = {
       website: 'http://www.snp.org/angela_crawley',
     },
     {
-      addressAs: 'Mary Creagh MP',
+      name: 'Mary Creagh MP',
       constituency: 'Wakefield',
       email: 'creaghm@parliament.uk',
-      name: 'Mary Creagh',
       party: 'Labour',
       twitter: {
         handle: '@marycreaghmp',
@@ -924,10 +845,9 @@ const data = {
       website: 'http://www.marycreagh.com/',
     },
     {
-      addressAs: 'Stella Creasy MP',
+      name: 'Stella Creasy MP',
       constituency: 'Walthamstow',
       email: 'stella.creasy.mp@parliament.uk',
-      name: 'Stella Creasy',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@stellacreasy',
@@ -936,10 +856,9 @@ const data = {
       website: 'http://www.workingforwalthamstow.org.uk/',
     },
     {
-      addressAs: 'Tracey Crouch MP',
+      name: 'Tracey Crouch MP',
       constituency: 'Chatham and Aylesford',
       email: 'tracey.crouch.mp@parliament.uk',
-      name: 'Tracey Crouch',
       party: 'Conservative',
       twitter: {
         handle: '@tracey_crouch',
@@ -948,10 +867,9 @@ const data = {
       website: 'http://www.traceycrouch.org/',
     },
     {
-      addressAs: 'Jon Cruddas MP',
+      name: 'Jon Cruddas MP',
       constituency: 'Dagenham and Rainham',
       email: 'cruddasj@parliament.uk',
-      name: 'Jon Cruddas',
       party: 'Labour',
       twitter: {
         handle: '@joncruddas_1',
@@ -960,10 +878,9 @@ const data = {
       website: 'http://www.joncruddas.org.uk/',
     },
     {
-      addressAs: 'Judith Cummins MP',
+      name: 'Judith Cummins MP',
       constituency: 'Bradford South',
       email: 'judith.cummins.mp@parliament.uk',
-      name: 'Judith Cummins',
       party: 'Labour',
       twitter: {
         handle: '@judithcummins',
@@ -972,10 +889,9 @@ const data = {
       website: 'http://www.judithcummins.org.uk/',
     },
     {
-      addressAs: 'Alex Cunningham MP',
+      name: 'Alex Cunningham MP',
       constituency: 'Stockton North',
       email: 'alex.cunningham.mp@parliament.uk',
-      name: 'Alex Cunningham',
       party: 'Labour',
       twitter: {
         handle: '@acunninghammp',
@@ -984,19 +900,17 @@ const data = {
       website: 'http://www.alexcunninghammp.com/',
     },
     {
-      addressAs: 'Janet Daby MP',
+      name: 'Janet Daby MP',
       constituency: 'Lewisham East',
       email: 'janet.daby.mp@parliament.uk',
-      name: '',
       party: 'Labour',
       twitter: { handle: '@janetdaby', url: 'https://twitter.com/JanetDaby' },
       website: 'https://www.janetdaby.org/',
     },
     {
-      addressAs: 'Nic Dakin MP',
+      name: 'Nic Dakin MP',
       constituency: 'Scunthorpe',
       email: 'nic.dakin.mp@parliament.uk',
-      name: 'Nic Dakin',
       party: 'Labour',
       twitter: {
         handle: '@nicdakinmp',
@@ -1005,10 +919,9 @@ const data = {
       website: 'https://www.nicdakin.uk/',
     },
     {
-      addressAs: 'Wayne David MP',
+      name: 'Wayne David MP',
       constituency: 'Caerphilly',
       email: 'davidw@parliament.uk',
-      name: 'Wayne David',
       party: 'Labour',
       twitter: {
         handle: '@waynedavid_mp',
@@ -1017,10 +930,9 @@ const data = {
       website: 'http://www.waynedavid.labour.co.uk/',
     },
     {
-      addressAs: 'David T. C. Davies MP',
+      name: 'David T. C. Davies MP',
       constituency: 'Monmouth',
       email: 'david.davies.mp@parliament.uk',
-      name: 'David T. C. Davies',
       party: 'Conservative',
       twitter: {
         handle: '@davidtcdavies',
@@ -1029,10 +941,9 @@ const data = {
       website: 'http://www.david-daviesmp.co.uk/',
     },
     {
-      addressAs: 'Geraint Davies MP',
+      name: 'Geraint Davies MP',
       constituency: 'Swansea West',
       email: 'geraint.davies.mp@parliament.uk',
-      name: 'Geraint Davies',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@geraintdaviesmp',
@@ -1041,10 +952,9 @@ const data = {
       website: 'http://www.geraintdavies.org.uk/',
     },
     {
-      addressAs: 'Philip Davies MP',
+      name: 'Philip Davies MP',
       constituency: 'Shipley',
       email: 'daviesp@parliament.uk',
-      name: 'Philip Davies',
       party: 'Conservative',
       twitter: {
         handle: '@philipdaviesmp',
@@ -1053,10 +963,9 @@ const data = {
       website: 'http://www.philip-davies.org.uk/',
     },
     {
-      addressAs: 'Marsha De Cordova MP',
+      name: 'Marsha De Cordova MP',
       constituency: 'Battersea',
       email: 'marsha.decordova.mp@parliament.uk',
-      name: 'Marsha De Cordova',
       party: 'Labour',
       twitter: {
         handle: '@marshadecordova',
@@ -1065,10 +974,9 @@ const data = {
       website: 'http://marshadecordova.co.uk/',
     },
     {
-      addressAs: 'Gloria De Piero MP',
+      name: 'Gloria De Piero MP',
       constituency: 'Ashfield',
       email: 'gloria.depiero.mp@parliament.uk',
-      name: 'Gloria De Piero',
       party: 'Labour',
       twitter: {
         handle: '@gloriadepiero',
@@ -1077,28 +985,25 @@ const data = {
       website: 'http://www.gloria-de-piero.co.uk/',
     },
     {
-      addressAs: 'Thangam Debbonaire MP',
+      name: 'Thangam Debbonaire MP',
       constituency: 'Bristol West',
       email: 'thangam.debbonaire.mp@parliament.uk',
-      name: 'Thangam Debbonaire',
       party: 'Labour',
       twitter: { handle: '@thangammp', url: 'https://twitter.com/thangammp' },
       website: 'http://www.debbonaire.co.uk/',
     },
     {
-      addressAs: 'Mr Tanmanjeet Singh Dhesi MP',
+      name: 'Mr Tanmanjeet Singh Dhesi MP',
       constituency: 'Slough',
       email: 'tan.dhesi.mp@parliament.uk',
-      name: 'Mr Dhesi',
       party: 'Labour',
       twitter: { handle: '@tandhesi', url: 'https://twitter.com/TanDhesi' },
       website: 'http://www.tsdhesi.com/',
     },
     {
-      addressAs: 'Caroline Dinenage MP',
+      name: 'Caroline Dinenage MP',
       constituency: 'Gosport',
       email: 'caroline.dinenage.mp@parliament.uk',
-      name: 'Caroline Dinenage',
       party: 'Conservative',
       twitter: {
         handle: '@cj_dinenage',
@@ -1107,19 +1012,17 @@ const data = {
       website: 'http://caroline4gosport.co.uk/',
     },
     {
-      addressAs: 'Mr Jonathan Djanogly MP',
+      name: 'Mr Jonathan Djanogly MP',
       constituency: 'Huntingdon',
       email: 'jonathan.djanogly.mp@parliament.uk',
-      name: 'Mr Djanogly',
       party: 'Conservative',
       twitter: { handle: '@jdjanogly', url: 'https://twitter.com/JDjanogly' },
       website: 'http://www.jonathandjanogly.com/',
     },
     {
-      addressAs: 'Leo Docherty MP',
+      name: 'Leo Docherty MP',
       constituency: 'Aldershot',
       email: 'leo.docherty.mp@parliament.uk',
-      name: 'Leo Docherty',
       party: 'Conservative',
       twitter: {
         handle: '@leodochertyuk',
@@ -1128,10 +1031,9 @@ const data = {
       website: 'https://www.leodocherty.org.uk/',
     },
     {
-      addressAs: 'Martin Docherty-Hughes MP',
+      name: 'Martin Docherty-Hughes MP',
       constituency: 'West Dunbartonshire',
       email: 'martin.docherty.mp@parliament.uk',
-      name: 'Martin Docherty-Hughes',
       party: 'Scottish National Party',
       twitter: {
         handle: '@martinjdocherty',
@@ -1140,10 +1042,9 @@ const data = {
       website: 'http://www.martindocherty.scot/',
     },
     {
-      addressAs: 'Michelle Donelan MP',
+      name: 'Michelle Donelan MP',
       constituency: 'Chippenham',
       email: 'michelle.donelan.mp@parliament.uk',
-      name: 'Michelle Donelan',
       party: 'Conservative',
       twitter: {
         handle: '@michelledonelan',
@@ -1152,10 +1053,9 @@ const data = {
       website: 'https://michelledonelan.co.uk/',
     },
     {
-      addressAs: 'Ms Nadine Dorries MP',
+      name: 'Ms Nadine Dorries MP',
       constituency: 'Mid Bedfordshire',
       email: 'dorriesn@parliament.uk',
-      name: '',
       party: 'Conservative',
       twitter: {
         handle: '@nadinedorries/with_replies',
@@ -1164,10 +1064,9 @@ const data = {
       website: 'http://blog.dorries.org/',
     },
     {
-      addressAs: 'Steve Double MP',
+      name: 'Steve Double MP',
       constituency: 'St Austell and Newquay',
       email: 'steve.double.mp@parliament.uk',
-      name: 'Steve Double',
       party: 'Conservative',
       twitter: {
         handle: '@stevedouble',
@@ -1176,10 +1075,9 @@ const data = {
       website: 'http://www.stevedouble.org.uk/',
     },
     {
-      addressAs: 'Stephen Doughty MP',
+      name: 'Stephen Doughty MP',
       constituency: 'Cardiff South and Penarth',
       email: 'stephen.doughty.mp@parliament.uk',
-      name: 'Stephen Doughty',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@sdoughtymp',
@@ -1188,19 +1086,17 @@ const data = {
       website: 'http://www.stephendoughty.org.uk/',
     },
     {
-      addressAs: 'Jackie Doyle-Price MP',
+      name: 'Jackie Doyle-Price MP',
       constituency: 'Thurrock',
       email: 'jackie.doyleprice.mp@parliament.uk',
-      name: 'Jackie Doyle-Price',
       party: 'Conservative',
       twitter: { handle: '@jackiedp', url: 'https://twitter.com/JACKIEDP' },
       website: 'http://www.jackiedoyleprice.com/',
     },
     {
-      addressAs: 'Jack Dromey MP',
+      name: 'Jack Dromey MP',
       constituency: 'Birmingham, Erdington',
       email: 'jack.dromey.mp@parliament.uk',
-      name: 'Jack Dromey',
       party: 'Labour',
       twitter: {
         handle: '@jackdromeymp',
@@ -1209,10 +1105,9 @@ const data = {
       website: 'http://www.jackdromey.org/',
     },
     {
-      addressAs: 'James Duddridge MP',
+      name: 'James Duddridge MP',
       constituency: 'Rochford and Southend East',
       email: 'james@jamesduddridge.com',
-      name: 'James Duddridge',
       party: 'Conservative',
       twitter: {
         handle: '@jamesduddridge',
@@ -1221,10 +1116,9 @@ const data = {
       website: 'http://www.jamesduddridge.com/',
     },
     {
-      addressAs: 'Rosie Duffield MP',
+      name: 'Rosie Duffield MP',
       constituency: 'Canterbury',
       email: 'rosie.duffield.mp@parliament.uk',
-      name: 'Rosie Duffield',
       party: 'Labour',
       twitter: {
         handle: '@rosieduffield1',
@@ -1233,10 +1127,9 @@ const data = {
       website: 'http://www.rosieduffieldmp.co.uk/',
     },
     {
-      addressAs: 'Rt Hon Sir Alan Duncan MP',
+      name: 'Rt Hon Sir Alan Duncan MP',
       constituency: 'Rutland and Melton',
       email: 'alan.duncan.mp@parliament.uk',
-      name: 'Sir Alan',
       party: 'Conservative',
       twitter: {
         handle: '@alanduncanmp',
@@ -1245,10 +1138,9 @@ const data = {
       website: 'http://www.alanduncan.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Philip Dunne MP',
+      name: 'Rt Hon Philip Dunne MP',
       constituency: 'Ludlow',
       email: 'philip.dunne.mp@parliament.uk',
-      name: 'Mr Dunne',
       party: 'Conservative',
       twitter: {
         handle: '@dunne4ludlow',
@@ -1257,10 +1149,9 @@ const data = {
       website: 'http://www.philipdunne.com/',
     },
     {
-      addressAs: 'Ms Angela Eagle MP',
+      name: 'Ms Angela Eagle MP',
       constituency: 'Wallasey',
       email: 'eaglea@parliament.uk',
-      name: 'Ms Eagle',
       party: 'Labour',
       twitter: {
         handle: '@angelaeagle',
@@ -1269,19 +1160,17 @@ const data = {
       website: 'http://www.angelaeagle.co.uk/',
     },
     {
-      addressAs: 'Maria Eagle MP',
+      name: 'Maria Eagle MP',
       constituency: 'Garston and Halewood',
       email: 'eaglem@parliament.uk',
-      name: 'Maria Eagle',
       party: 'Labour',
       twitter: { handle: '@meaglemp', url: 'https://twitter.com/meaglemp' },
       website: 'https://www.mariaeagle.co.uk/',
     },
     {
-      addressAs: 'Jonathan Edwards MP',
+      name: 'Jonathan Edwards MP',
       constituency: 'Carmarthen East and Dinefwr',
       email: 'jonathan.edwards.mp@parliament.uk',
-      name: 'Jonathan Edwards',
       party: 'Plaid Cymru',
       twitter: {
         handle: '@jonathanplaid',
@@ -1290,10 +1179,9 @@ const data = {
       website: 'http://www.carmarthenshiresvoice.org.uk/',
     },
     {
-      addressAs: 'Clive Efford MP',
+      name: 'Clive Efford MP',
       constituency: 'Eltham',
       email: 'effordc@parliament.uk',
-      name: 'Clive Efford',
       party: 'Labour',
       twitter: {
         handle: '@cliveefford',
@@ -1302,10 +1190,9 @@ const data = {
       website: 'http://www.cliveefford.org.uk/',
     },
     {
-      addressAs: 'Julie Elliott MP',
+      name: 'Julie Elliott MP',
       constituency: 'Sunderland Central',
       email: 'julie.elliott.mp@parliament.uk',
-      name: 'Julie Elliott',
       party: 'Labour',
       twitter: {
         handle: '@julieelliottmp',
@@ -1314,10 +1201,9 @@ const data = {
       website: 'http://julie4sunderland.co.uk/',
     },
     {
-      addressAs: 'Michael Ellis MP',
+      name: 'Michael Ellis MP',
       constituency: 'Northampton North',
       email: 'michael.ellis.mp@parliament.uk',
-      name: 'Michael Ellis',
       party: 'Conservative',
       twitter: {
         handle: '@michael_ellis1',
@@ -1326,10 +1212,9 @@ const data = {
       website: 'http://www.michaelellis.co.uk/',
     },
     {
-      addressAs: 'Dame Louise Ellman MP',
+      name: 'Dame Louise Ellman MP',
       constituency: 'Liverpool, Riverside',
       email: 'louise.ellman.mp@parliament.uk; james.floyd@parliament.uk',
-      name: 'Dame Louise Ellman',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@louiseellman',
@@ -1338,10 +1223,9 @@ const data = {
       website: 'http://www.louiseellman.co.uk/',
     },
     {
-      addressAs: 'Rt Hon Tobias Ellwood MP',
+      name: 'Rt Hon Tobias Ellwood MP',
       constituency: 'Bournemouth East',
       email: 'tobias.ellwood.mp@parliament.uk',
-      name: 'Mr Ellwood',
       party: 'Conservative',
       twitter: {
         handle: '@tobias_ellwood',
@@ -1350,19 +1234,17 @@ const data = {
       website: 'http://www.tobiasellwood.com/',
     },
     {
-      addressAs: 'Chris Elmore MP',
+      name: 'Chris Elmore MP',
       constituency: 'Ogmore',
       email: 'Chris.Elmore.mp@parliament.uk',
-      name: 'Chris Elmore',
       party: 'Labour',
       twitter: { handle: '@cpjelmore', url: 'https://twitter.com/cpjelmore' },
       website: 'http://www.chriselmore.co.uk/',
     },
     {
-      addressAs: 'Charlie Elphicke MP',
+      name: 'Charlie Elphicke MP',
       constituency: 'Dover',
       email: 'charlie.elphicke.mp@parliament.uk',
-      name: 'Charlie Elphicke',
       party: 'Conservative',
       twitter: {
         handle: '@charlieelphicke',
@@ -1371,10 +1253,9 @@ const data = {
       website: 'http://www.elphicke.com/',
     },
     {
-      addressAs: 'Bill Esterson MP',
+      name: 'Bill Esterson MP',
       constituency: 'Sefton Central',
       email: 'bill.esterson.mp@parliament.uk',
-      name: 'Bill Esterson',
       party: 'Labour',
       twitter: {
         handle: '@bill_esterson',
@@ -1383,10 +1264,9 @@ const data = {
       website: 'http://www.billesterson.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Sir David Evennett MP',
+      name: 'Rt Hon Sir David Evennett MP',
       constituency: 'Bexleyheath and Crayford',
       email: 'david.evennett.mp@parliament.uk',
-      name: 'Sir David Evennett',
       party: 'Conservative',
       twitter: {
         handle: '@davidevennett',
@@ -1395,10 +1275,9 @@ const data = {
       website: 'http://davidevennett.com/',
     },
     {
-      addressAs: 'Michael Fabricant MP',
+      name: 'Michael Fabricant MP',
       constituency: 'Lichfield',
       email: null,
-      name: 'Michael Fabricant',
       party: 'Conservative',
       twitter: {
         handle: '@mike_fabricant',
@@ -1407,19 +1286,17 @@ const data = {
       website: 'http://www.michael.fabricant.mp.co.uk/',
     },
     {
-      addressAs: 'Tim Farron MP',
+      name: 'Tim Farron MP',
       constituency: 'Westmorland and Lonsdale',
       email: 'farront@parliament.uk',
-      name: 'Tim Farron',
       party: 'Liberal Democrat',
       twitter: { handle: '@timfarron', url: 'https://twitter.com/timfarron' },
       website: 'http://www.timfarron.co.uk/',
     },
     {
-      addressAs: 'Marion Fellows MP',
+      name: 'Marion Fellows MP',
       constituency: 'Motherwell and Wishaw',
       email: 'marion.fellows.mp@parliament.uk',
-      name: 'Marion Fellows',
       party: 'Scottish National Party',
       twitter: {
         handle: '@marionfellows',
@@ -1428,10 +1305,9 @@ const data = {
       website: 'http://marionfellows.scot/',
     },
     {
-      addressAs: 'Rt Hon Frank Field MP',
+      name: 'Rt Hon Frank Field MP',
       constituency: 'Birkenhead',
       email: 'fieldf@parliament.uk',
-      name: 'Frank Field',
       party: 'Independent',
       twitter: {
         handle: '@frankfieldteam',
@@ -1440,10 +1316,9 @@ const data = {
       website: 'http://www.frankfield.co.uk/',
     },
     {
-      addressAs: 'Rt Hon Mark Field MP',
+      name: 'Rt Hon Mark Field MP',
       constituency: 'Cities of London and Westminster',
       email: 'fieldm@parliament.uk',
-      name: 'Mr Field',
       party: 'Conservative',
       twitter: {
         handle: '@markfielduk',
@@ -1452,19 +1327,17 @@ const data = {
       website: 'http://www.markfieldmp.com/',
     },
     {
-      addressAs: 'Jim Fitzpatrick MP',
+      name: 'Jim Fitzpatrick MP',
       constituency: 'Poplar and Limehouse',
       email: 'jim.fitzpatrick.mp@parliament.uk',
-      name: 'Jim Fitzpatrick',
       party: 'Labour',
       twitter: { handle: '@fitzmp', url: 'https://twitter.com/FitzMP' },
       website: 'http://www.jimfitzpatrickmp.org/',
     },
     {
-      addressAs: 'Rt Hon Caroline Flint MP',
+      name: 'Rt Hon Caroline Flint MP',
       constituency: 'Don Valley',
       email: 'caroline.flint.mp@parliament.uk',
-      name: 'Caroline Flint',
       party: 'Labour',
       twitter: {
         handle: '@carolineflintmp',
@@ -1473,19 +1346,17 @@ const data = {
       website: 'http://www.carolineflint.org/',
     },
     {
-      addressAs: 'Vicky Ford MP',
+      name: 'Vicky Ford MP',
       constituency: 'Chelmsford',
       email: 'vicky.ford.mp@parliament.uk',
-      name: 'Vicky Ford',
       party: 'Conservative',
       twitter: { handle: '@vickyford', url: 'https://twitter.com/vickyford' },
       website: 'https://www.vickyford.uk/',
     },
     {
-      addressAs: 'Kevin Foster MP',
+      name: 'Kevin Foster MP',
       constituency: 'Torbay',
       email: 'kevin.foster.mp@parliament.uk',
-      name: 'Kevin Foster',
       party: 'Conservative',
       twitter: {
         handle: '@kevin_j_foster',
@@ -1494,10 +1365,9 @@ const data = {
       website: 'http://www.kevinjfoster.com/',
     },
     {
-      addressAs: 'Yvonne Fovargue MP',
+      name: 'Yvonne Fovargue MP',
       constituency: 'Makerfield',
       email: 'yvonne.fovargue.mp@parliament.uk',
-      name: 'Yvonne Fovargue',
       party: 'Labour',
       twitter: {
         handle: '@y_fovarguemp',
@@ -1506,10 +1376,9 @@ const data = {
       website: 'http://www.yvonnefovargue.com/',
     },
     {
-      addressAs: 'Vicky Foxcroft MP',
+      name: 'Vicky Foxcroft MP',
       constituency: 'Lewisham, Deptford',
       email: 'vicky.foxcroft.mp@parliament.uk',
-      name: 'Vicky Foxcroft',
       party: 'Labour',
       twitter: {
         handle: '@vickyfoxcroft',
@@ -1518,10 +1387,9 @@ const data = {
       website: 'http://www.vickyfoxcroft.org.uk/',
     },
     {
-      addressAs: 'George Freeman MP',
+      name: 'George Freeman MP',
       constituency: 'Mid Norfolk',
       email: 'george.freeman.mp@parliament.uk',
-      name: 'George Freeman',
       party: 'Conservative',
       twitter: {
         handle: '@georgefreemanmp',
@@ -1530,10 +1398,9 @@ const data = {
       website: 'http://www.georgefreeman.co.uk/',
     },
     {
-      addressAs: 'James Frith MP',
+      name: 'James Frith MP',
       constituency: 'Bury North',
       email: 'james.frith.mp@parliament.uk',
-      name: 'James Frith',
       party: 'Labour',
       twitter: {
         handle: '@jamesfrith',
@@ -1542,10 +1409,9 @@ const data = {
       website: 'http://www.jamesfrith.org/',
     },
     {
-      addressAs: 'Gill Furniss MP',
+      name: 'Gill Furniss MP',
       constituency: 'Sheffield, Brightside and Hillsborough',
       email: 'gill.furniss.mp@parliament.uk',
-      name: 'Gill Furniss',
       party: 'Labour',
       twitter: {
         handle: '@gillfurnissmp',
@@ -1554,10 +1420,9 @@ const data = {
       website: 'https://gillfurniss.com/',
     },
     {
-      addressAs: 'Mr Marcus Fysh MP',
+      name: 'Mr Marcus Fysh MP',
       constituency: 'Yeovil',
       email: 'marcus.fysh.mp@parliament.uk',
-      name: 'Mr Fysh',
       party: 'Conservative',
       twitter: {
         handle: '@marcusfysh',
@@ -1566,19 +1431,17 @@ const data = {
       website: 'http://www.marcusfysh.org.uk/',
     },
     {
-      addressAs: 'Mike Gapes MP',
+      name: 'Mike Gapes MP',
       constituency: 'Ilford South',
       email: 'mike.gapes.mp@parliament.uk',
-      name: 'Mike Gapes',
       party: 'Independent',
       twitter: { handle: '@mikegapes', url: 'https://twitter.com/MikeGapes' },
       website: 'http://www.mikegapes.org/',
     },
     {
-      addressAs: 'Barry Gardiner MP',
+      name: 'Barry Gardiner MP',
       constituency: 'Brent North',
       email: 'gardinerb@parliament.uk',
-      name: 'Barry Gardiner',
       party: 'Labour',
       twitter: {
         handle: '@barrygardiner',
@@ -1587,10 +1450,9 @@ const data = {
       website: 'http://www.barrygardiner.com/',
     },
     {
-      addressAs: 'Mark Garnier MP',
+      name: 'Mark Garnier MP',
       constituency: 'Wyre Forest',
       email: 'mark.garnier.mp@parliament.uk',
-      name: 'Mark Garnier',
       party: 'Conservative',
       twitter: {
         handle: '@mark4wyreforest',
@@ -1599,10 +1461,9 @@ const data = {
       website: 'http://www.markgarnier.co.uk/',
     },
     {
-      addressAs: 'Stephen Gethins MP',
+      name: 'Stephen Gethins MP',
       constituency: 'North East Fife',
       email: 'stephen.gethins.mp@parliament.uk',
-      name: 'Stephen Gethins',
       party: 'Scottish National Party',
       twitter: {
         handle: '@stephengethins',
@@ -1611,19 +1472,17 @@ const data = {
       website: 'http://stephengethins.scot/',
     },
     {
-      addressAs: 'Ms Nusrat Ghani MP',
+      name: 'Ms Nusrat Ghani MP',
       constituency: 'Wealden',
       email: 'nusrat.ghani.mp@parliament.uk',
-      name: '',
       party: 'Conservative',
       twitter: { handle: '@nus_ghani', url: 'https://twitter.com/nus_ghani' },
       website: 'http://www.nusghani.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Nick Gibb MP',
+      name: 'Rt Hon Nick Gibb MP',
       constituency: 'Bognor Regis and Littlehampton',
       email: 'gibbn@parliament.uk',
-      name: 'Nick Gibb',
       party: 'Conservative',
       twitter: {
         handle: '@nickgibbuk',
@@ -1633,10 +1492,9 @@ const data = {
         'https://www.gov.uk/government/organisations/department-for-education',
     },
     {
-      addressAs: 'Patricia Gibson MP',
+      name: 'Patricia Gibson MP',
       constituency: 'North Ayrshire and Arran',
       email: 'patricia.gibson.mp@parliament.uk',
-      name: 'Patricia Gibson',
       party: 'Scottish National Party',
       twitter: {
         handle: '@pgibsonsnp',
@@ -1645,10 +1503,9 @@ const data = {
       website: 'http://www.snp.org/patricia_gibson',
     },
     {
-      addressAs: 'Preet Kaur Gill MP',
+      name: 'Preet Kaur Gill MP',
       constituency: 'Birmingham, Edgbaston',
       email: 'preet.gill.mp@parliament.uk',
-      name: 'Preet Gill',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@preetkgillmp',
@@ -1657,10 +1514,9 @@ const data = {
       website: 'https://www.preetkaurgill.com/',
     },
     {
-      addressAs: 'Rt Hon Dame Cheryl Gillan MP',
+      name: 'Rt Hon Dame Cheryl Gillan MP',
       constituency: 'Chesham and Amersham',
       email: 'cheryl.gillan.mp@parliament.uk',
-      name: 'Dame Cheryl',
       party: 'Conservative',
       twitter: {
         handle: '@cherylgillanmp',
@@ -1669,10 +1525,9 @@ const data = {
       website: 'http://www.cherylgillan.co.uk/',
     },
     {
-      addressAs: 'John Glen MP',
+      name: 'John Glen MP',
       constituency: 'Salisbury',
       email: 'john.glen.mp@parliament.uk',
-      name: 'John Glen',
       party: 'Conservative',
       twitter: {
         handle: '@johnglenuk',
@@ -1681,10 +1536,9 @@ const data = {
       website: 'http://www.johnglen.org.uk/',
     },
     {
-      addressAs: 'Mr Roger Godsiff MP',
+      name: 'Mr Roger Godsiff MP',
       constituency: 'Birmingham, Hall Green',
       email: 'godsiffr@parliament.uk',
-      name: 'Mr Godsiff',
       party: 'Labour',
       twitter: {
         handle: '@rogergodsiff',
@@ -1693,10 +1547,9 @@ const data = {
       website: 'http://www.rogergodsiffmp.co.uk/',
     },
     {
-      addressAs: 'Zac Goldsmith MP',
+      name: 'Zac Goldsmith MP',
       constituency: 'Richmond Park',
       email: 'zac@zacgoldsmith.com',
-      name: 'Zac Goldsmith',
       party: 'Conservative',
       twitter: {
         handle: '@zacgoldsmith',
@@ -1705,10 +1558,9 @@ const data = {
       website: 'http://www.zacgoldsmith.com/',
     },
     {
-      addressAs: 'Helen Goodman MP',
+      name: 'Helen Goodman MP',
       constituency: 'Bishop Auckland',
       email: 'goodmanh@parliament.uk',
-      name: 'Helen Goodman',
       party: 'Labour',
       twitter: {
         handle: '@helengoodmanmp',
@@ -1717,19 +1569,17 @@ const data = {
       website: 'http://www.helengoodman.org.uk/',
     },
     {
-      addressAs: 'Patrick Grady MP',
+      name: 'Patrick Grady MP',
       constituency: 'Glasgow North',
       email: 'patrick.grady.mp@parliament.uk',
-      name: 'Patrick Grady',
       party: 'Scottish National Party',
       twitter: { handle: '@gradysnp', url: 'https://twitter.com/gradysnp' },
       website: 'http://www.patrickgrady.scot/',
     },
     {
-      addressAs: 'Luke Graham MP',
+      name: 'Luke Graham MP',
       constituency: 'Ochil and South Perthshire',
       email: 'luke.graham.mp@parliament.uk',
-      name: 'Luke Graham',
       party: 'Conservative',
       twitter: {
         handle: '@lukegrahammp?lang=en',
@@ -1738,10 +1588,9 @@ const data = {
       website: 'https://www.lukegraham.org.uk/',
     },
     {
-      addressAs: 'Richard Graham MP',
+      name: 'Richard Graham MP',
       constituency: 'Gloucester',
       email: 'richard.graham.mp@parliament.uk',
-      name: 'Richard Graham',
       party: 'Conservative',
       twitter: {
         handle: '@richardgrahammp',
@@ -1750,10 +1599,9 @@ const data = {
       website: 'http://www.richardgraham.org/',
     },
     {
-      addressAs: 'Mrs Helen Grant MP',
+      name: 'Mrs Helen Grant MP',
       constituency: 'Maidstone and The Weald',
       email: 'helen.grant.mp@parliament.uk',
-      name: 'Mrs Grant',
       party: 'Conservative',
       twitter: {
         handle: '@helengrantmp',
@@ -1762,10 +1610,9 @@ const data = {
       website: 'http://www.helengrant.org/',
     },
     {
-      addressAs: 'Peter Grant MP',
+      name: 'Peter Grant MP',
       constituency: 'Glenrothes',
       email: 'peter.grant.mp@parliament.uk',
-      name: 'Peter Grant',
       party: 'Scottish National Party',
       twitter: {
         handle: '@petergrantmp',
@@ -1774,19 +1621,17 @@ const data = {
       website: 'http://petergrant.scot/',
     },
     {
-      addressAs: 'James Gray MP',
+      name: 'James Gray MP',
       constituency: 'North Wiltshire',
       email: 'jamesgraymp@parliament.uk',
-      name: 'James Gray',
       party: 'Conservative',
       twitter: { handle: '@@jgray', url: 'https://twitter.com/@JGray' },
       website: 'http://www.jamesgray.org/',
     },
     {
-      addressAs: 'Neil Gray MP',
+      name: 'Neil Gray MP',
       constituency: 'Airdrie and Shotts',
       email: 'neil.gray.mp@parliament.uk',
-      name: 'Neil Gray',
       party: 'Scottish National Party',
       twitter: {
         handle: '@neilgraymp',
@@ -1795,10 +1640,9 @@ const data = {
       website: 'https://www.snp.org/neil_gray',
     },
     {
-      addressAs: 'Rt Hon Chris Grayling MP',
+      name: 'Rt Hon Chris Grayling MP',
       constituency: 'Epsom and Ewell',
       email: 'chris.grayling.mp@parliament.uk',
-      name: 'Chris Grayling',
       party: 'Conservative',
       twitter: {
         handle: '@transportgovuk',
@@ -1807,19 +1651,17 @@ const data = {
       website: 'http://www.chrisgrayling.net/',
     },
     {
-      addressAs: 'Chris Green MP',
+      name: 'Chris Green MP',
       constituency: 'Bolton West',
       email: 'chris.green.mp@parliament.uk',
-      name: 'Chris Green',
       party: 'Conservative',
       twitter: { handle: '@cgreenuk', url: 'https://twitter.com/CGreenUK' },
       website: 'http://www.chris-green.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Damian Green MP',
+      name: 'Rt Hon Damian Green MP',
       constituency: 'Ashford',
       email: 'damian.green.mp@parliament.uk',
-      name: 'Damian Green',
       party: 'Conservative',
       twitter: {
         handle: '@damiangreenmp',
@@ -1828,10 +1670,9 @@ const data = {
       website: 'http://www.damiangreenmp.org.uk/',
     },
     {
-      addressAs: 'Kate Green MP',
+      name: 'Kate Green MP',
       constituency: 'Stretford and Urmston',
       email: 'kate.green.mp@parliament.uk',
-      name: 'Kate Green',
       party: 'Labour',
       twitter: {
         handle: '@kategreensu',
@@ -1840,10 +1681,9 @@ const data = {
       website: 'http://www.kategreen.org/',
     },
     {
-      addressAs: 'Rt Hon Justine Greening MP',
+      name: 'Rt Hon Justine Greening MP',
       constituency: 'Putney',
       email: 'greeningj@parliament.uk',
-      name: 'Justine Greening',
       party: 'Conservative',
       twitter: {
         handle: '@justinegreening',
@@ -1852,10 +1692,9 @@ const data = {
       website: 'http://www.justinegreening.co.uk/',
     },
     {
-      addressAs: 'Lilian Greenwood MP',
+      name: 'Lilian Greenwood MP',
       constituency: 'Nottingham South',
       email: 'lilian.greenwood.mp@parliament.uk',
-      name: 'Lilian Greenwood',
       party: 'Labour',
       twitter: {
         handle: '@liliangreenwood',
@@ -1864,10 +1703,9 @@ const data = {
       website: 'http://www.liliangreenwood.co.uk/',
     },
     {
-      addressAs: 'Margaret Greenwood MP',
+      name: 'Margaret Greenwood MP',
       constituency: 'Wirral West',
       email: 'margaret.greenwood.mp@parliament.uk',
-      name: 'Margaret Greenwood',
       party: 'Labour',
       twitter: {
         handle: '@mgreenwoodww',
@@ -1876,10 +1714,9 @@ const data = {
       website: 'http://www.margaretgreenwood.org.uk/',
     },
     {
-      addressAs: 'Nia Griffith MP',
+      name: 'Nia Griffith MP',
       constituency: 'Llanelli',
       email: 'nia.griffith.mp@parliament.uk',
-      name: 'Nia Griffith',
       party: 'Labour',
       twitter: {
         handle: '@niagriffithmp',
@@ -1888,10 +1725,9 @@ const data = {
       website: 'http://niagriffith.org.uk/',
     },
     {
-      addressAs: 'Andrew Griffiths MP',
+      name: 'Andrew Griffiths MP',
       constituency: 'Burton',
       email: 'andrew.griffiths.mp@parliament.uk',
-      name: 'Andrew Griffiths',
       party: 'Conservative',
       twitter: {
         handle: '@agriffithsmp',
@@ -1900,37 +1736,33 @@ const data = {
       website: 'http://www.andrewgriffithsmp.com/',
     },
     {
-      addressAs: 'Andrew Gwynne MP',
+      name: 'Andrew Gwynne MP',
       constituency: 'Denton and Reddish',
       email: 'gwynnea@parliament.uk',
-      name: 'Andrew Gwynne',
       party: 'Labour',
       twitter: { handle: '@gwynnemp', url: 'https://twitter.com/GwynneMP' },
       website: 'http://www.andrewgwynne.co.uk/',
     },
     {
-      addressAs: 'Mr Sam Gyimah MP',
+      name: 'Mr Sam Gyimah MP',
       constituency: 'East Surrey',
       email: 'sam@samgyimah.com',
-      name: 'Mr Gyimah',
       party: 'Conservative',
       twitter: { handle: '@samgyimah', url: 'https://twitter.com/SamGyimah' },
       website: 'http://www.samgyimah.com/',
     },
     {
-      addressAs: 'Louise Haigh MP',
+      name: 'Louise Haigh MP',
       constituency: 'Sheffield, Heeley',
       email: 'louise.haigh.mp@parliament.uk',
-      name: 'Louise Haigh',
       party: 'Labour',
       twitter: { handle: '@louhaigh', url: 'https://twitter.com/louhaigh' },
       website: 'http://www.louisehaigh.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Robert Halfon MP',
+      name: 'Rt Hon Robert Halfon MP',
       constituency: 'Harlow',
       email: 'halfon4harlow@roberthalfon.com',
-      name: 'Robert Halfon',
       party: 'Conservative',
       twitter: {
         handle: '@halfon4harlowmp',
@@ -1939,10 +1771,9 @@ const data = {
       website: 'http://www.roberthalfon.com/',
     },
     {
-      addressAs: 'Luke Hall MP',
+      name: 'Luke Hall MP',
       constituency: 'Thornbury and Yate',
       email: 'luke.hall.mp@parliament.uk',
-      name: 'Luke Hall',
       party: 'Conservative',
       twitter: {
         handle: '@lukehallmp',
@@ -1951,10 +1782,9 @@ const data = {
       website: 'http://www.lukehall.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Philip Hammond MP',
+      name: 'Rt Hon Philip Hammond MP',
       constituency: 'Runnymede and Weybridge',
       email: 'philip.hammond.mp@parliament.uk',
-      name: 'Mr Hammond',
       party: 'Conservative',
       twitter: {
         handle: '@philiphammonduk',
@@ -1963,19 +1793,17 @@ const data = {
       website: 'http://rthonphiliphammond.co.uk/',
     },
     {
-      addressAs: 'Stephen Hammond MP',
+      name: 'Stephen Hammond MP',
       constituency: 'Wimbledon',
       email: 'stephen.hammond.mp@parliament.uk',
-      name: 'Stephen Hammond',
       party: 'Conservative',
       twitter: { handle: '@s_hammond', url: 'https://twitter.com/s_hammond' },
       website: 'https://www.stephenhammond.net/',
     },
     {
-      addressAs: 'Rt Hon Matt Hancock MP',
+      name: 'Rt Hon Matt Hancock MP',
       constituency: 'West Suffolk',
       email: 'matt.hancock.mp@parliament.uk',
-      name: 'Matt Hancock',
       party: 'Conservative',
       twitter: {
         handle: '@matthancock',
@@ -1984,19 +1812,17 @@ const data = {
       website: 'https://www.matt-hancock.com/',
     },
     {
-      addressAs: 'Rt Hon Greg Hands MP',
+      name: 'Rt Hon Greg Hands MP',
       constituency: 'Chelsea and Fulham',
       email: 'handsg@parliament.uk',
-      name: 'Greg Hands',
       party: 'Conservative',
       twitter: { handle: '@greghands', url: 'https://twitter.com/GregHands' },
       website: 'http://www.greghands.com/',
     },
     {
-      addressAs: 'Rt Hon David Hanson MP',
+      name: 'Rt Hon David Hanson MP',
       constituency: 'Delyn',
       email: 'david.hanson.mp@parliament.uk',
-      name: 'David Hanson',
       party: 'Labour',
       twitter: {
         handle: '@davidhansonmp',
@@ -2005,10 +1831,9 @@ const data = {
       website: 'http://www.davidhanson.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Harriet Harman QC MP',
+      name: 'Rt Hon Harriet Harman QC MP',
       constituency: 'Camberwell and Peckham',
       email: 'harriet.harman.mp@parliament.uk',
-      name: 'Ms Harman',
       party: 'Labour',
       twitter: {
         handle: '@harrietharman',
@@ -2017,10 +1842,9 @@ const data = {
       website: 'http://www.harrietharman.org/',
     },
     {
-      addressAs: 'Rt Hon Mark Harper MP',
+      name: 'Rt Hon Mark Harper MP',
       constituency: 'Forest of Dean',
       email: 'mark.harper.mp@parliament.uk',
-      name: 'Mr Harper',
       party: 'Conservative',
       twitter: {
         handle: '@mark_j_harper',
@@ -2029,10 +1853,9 @@ const data = {
       website: 'http://www.markharper.org/',
     },
     {
-      addressAs: 'Richard Harrington MP',
+      name: 'Richard Harrington MP',
       constituency: 'Watford',
       email: 'richard.harrington.mp@parliament.uk',
-      name: 'Richard Harrington',
       party: 'Conservative',
       twitter: {
         handle: '@richard4watford',
@@ -2041,10 +1864,9 @@ const data = {
       website: 'http://www.richardharrington.org.uk/',
     },
     {
-      addressAs: 'Carolyn Harris MP',
+      name: 'Carolyn Harris MP',
       constituency: 'Swansea East',
       email: 'carolyn.harris.mp@parliament.uk',
-      name: 'Carolyn Harris',
       party: 'Labour',
       twitter: {
         handle: '@carolynharris24',
@@ -2053,10 +1875,9 @@ const data = {
       website: 'http://www.carolynharris.org.uk/',
     },
     {
-      addressAs: 'Simon Hart MP',
+      name: 'Simon Hart MP',
       constituency: 'Carmarthen West and South Pembrokeshire',
       email: 'simon.hart.mp@parliament.uk',
-      name: 'Simon Hart',
       party: 'Conservative',
       twitter: {
         handle: '@simonhartmp',
@@ -2065,10 +1886,9 @@ const data = {
       website: 'http://www.simon-hart.com/',
     },
     {
-      addressAs: 'Helen Hayes MP',
+      name: 'Helen Hayes MP',
       constituency: 'Dulwich and West Norwood',
       email: 'helen.hayes.mp@parliament.uk',
-      name: 'Helen Hayes',
       party: 'Labour',
       twitter: {
         handle: '@helenhayes_',
@@ -2077,10 +1897,9 @@ const data = {
       website: 'http://www.helenhayes.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Sir Oliver Heald QC MP',
+      name: 'Rt Hon Sir Oliver Heald QC MP',
       constituency: 'North East Hertfordshire',
       email: 'Oliver.heald.mp@parliament.uk',
-      name: 'Sir Oliver',
       party: 'Conservative',
       twitter: {
         handle: '@oliverhealdmp',
@@ -2089,10 +1908,9 @@ const data = {
       website: 'http://www.oliverhealdmp.com/',
     },
     {
-      addressAs: 'Rt Hon John Healey MP',
+      name: 'Rt Hon John Healey MP',
       constituency: 'Wentworth and Dearne',
       email: 'john.healey.mp@parliament.uk',
-      name: 'John Healey',
       party: 'Labour',
       twitter: {
         handle: '@johnhealey_mp',
@@ -2101,19 +1919,17 @@ const data = {
       website: 'http://www.johnhealeymp.co.uk/',
     },
     {
-      addressAs: 'James Heappey MP',
+      name: 'James Heappey MP',
       constituency: 'Wells',
       email: 'james.heappey.mp@parliament.uk',
-      name: 'James Heappey',
       party: 'Conservative',
       twitter: { handle: '@jsheappey', url: 'https://twitter.com/jsheappey' },
       website: 'http://www.jamesheappey.org.uk/',
     },
     {
-      addressAs: 'Chris Heaton-Harris MP',
+      name: 'Chris Heaton-Harris MP',
       constituency: 'Daventry',
       email: 'chris.heatonharris.mp@parliament.uk',
-      name: 'Chris Heaton-Harris',
       party: 'Conservative',
       twitter: {
         handle: '@chhcalling',
@@ -2122,10 +1938,9 @@ const data = {
       website: 'http://www.heatonharris.com/',
     },
     {
-      addressAs: 'Peter Heaton-Jones MP',
+      name: 'Peter Heaton-Jones MP',
       constituency: 'North Devon',
       email: 'peter.heatonjones.mp@parliament.uk',
-      name: 'Peter Heaton-Jones',
       party: 'Conservative',
       twitter: {
         handle: '@peternorthdevon',
@@ -2134,10 +1949,9 @@ const data = {
       website: 'http://www.peterheatonjones.org.uk/',
     },
     {
-      addressAs: 'Drew Hendry MP',
+      name: 'Drew Hendry MP',
       constituency: 'Inverness, Nairn, Badenoch and Strathspey',
       email: 'drew.hendry.mp@parliament.uk',
-      name: 'Drew Hendry',
       party: 'Scottish National Party',
       twitter: {
         handle: '@drewhendrysnp',
@@ -2146,10 +1960,9 @@ const data = {
       website: 'http://drewhendrymp.scot/',
     },
     {
-      addressAs: 'Rt Hon Nick Herbert MP',
+      name: 'Rt Hon Nick Herbert MP',
       constituency: 'Arundel and South Downs',
       email: 'nick@nickherbert.com',
-      name: 'Nick Herbert',
       party: 'Conservative',
       twitter: {
         handle: '@nickherbertmp',
@@ -2158,10 +1971,9 @@ const data = {
       website: 'http://www.nickherbert.com/',
     },
     {
-      addressAs: 'Meg Hillier MP',
+      name: 'Meg Hillier MP',
       constituency: 'Hackney South and Shoreditch',
       email: 'meghilliermp@parliament.uk',
-      name: 'Meg Hillier',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@meg_hilliermp',
@@ -2170,10 +1982,9 @@ const data = {
       website: 'http://www.meghillier.com/',
     },
     {
-      addressAs: 'Rt Hon Dame Margaret Hodge MP',
+      name: 'Rt Hon Dame Margaret Hodge MP',
       constituency: 'Barking',
       email: 'hodgem@parliament.uk',
-      name: 'Dame Margaret Hodge',
       party: 'Labour',
       twitter: {
         handle: '@margarethodge',
@@ -2182,10 +1993,9 @@ const data = {
       website: 'http://margaret-hodge.co.uk/',
     },
     {
-      addressAs: 'Mrs Sharon Hodgson MP',
+      name: 'Mrs Sharon Hodgson MP',
       constituency: 'Washington and Sunderland West',
       email: 'sharon.hodgson.mp@parliament.uk',
-      name: 'Mrs Hodgson',
       party: 'Labour',
       twitter: {
         handle: '@sharonhodgsonmp',
@@ -2194,10 +2004,9 @@ const data = {
       website: 'http://www.sharonhodgson.org/',
     },
     {
-      addressAs: 'Kate Hoey MP',
+      name: 'Kate Hoey MP',
       constituency: 'Vauxhall',
       email: 'hoeyk@parliament.uk',
-      name: 'Kate Hoey',
       party: 'Labour',
       twitter: {
         handle: '@katehoeymp',
@@ -2206,10 +2015,9 @@ const data = {
       website: 'http://www.katehoey.com/',
     },
     {
-      addressAs: 'Kate Hollern MP',
+      name: 'Kate Hollern MP',
       constituency: 'Blackburn',
       email: 'kate.hollern.mp@parliament.uk',
-      name: 'Kate Hollern',
       party: 'Labour',
       twitter: {
         handle: '@kate_hollernmp',
@@ -2218,10 +2026,9 @@ const data = {
       website: 'http://www.katehollern.org/',
     },
     {
-      addressAs: 'Kevin Hollinrake MP',
+      name: 'Kevin Hollinrake MP',
       constituency: 'Thirsk and Malton',
       email: 'kevin.hollinrake.mp@parliament.uk',
-      name: 'Kevin Hollinrake',
       party: 'Conservative',
       twitter: {
         handle: '@kevinhollinrake',
@@ -2230,10 +2037,9 @@ const data = {
       website: 'http://www.kevinhollinrake.org.uk/',
     },
     {
-      addressAs: 'Stewart Hosie MP',
+      name: 'Stewart Hosie MP',
       constituency: 'Dundee East',
       email: 'hosies@parliament.uk',
-      name: 'Stewart Hosie',
       party: 'Scottish National Party',
       twitter: {
         handle: '@stewarthosiemp',
@@ -2242,19 +2048,17 @@ const data = {
       website: 'http://www.stewarthosie.com/',
     },
     {
-      addressAs: 'John Howell MP',
+      name: 'John Howell MP',
       constituency: 'Henley',
       email: 'howelljm@parliament.uk',
-      name: 'John Howell',
       party: 'Conservative',
       twitter: { handle: '@jhowelluk', url: 'https://twitter.com/JHowellUK' },
       website: 'http://www.johnhowellmp.com/',
     },
     {
-      addressAs: 'Nigel Huddleston MP',
+      name: 'Nigel Huddleston MP',
       constituency: 'Mid Worcestershire',
       email: 'nigel.huddleston.mp@parliament.uk',
-      name: 'Nigel Huddleston',
       party: 'Conservative',
       twitter: {
         handle: '@huddlestonnigel',
@@ -2263,10 +2067,9 @@ const data = {
       website: 'http://www.nigelhuddleston.com/',
     },
     {
-      addressAs: 'Rt Hon Jeremy Hunt MP',
+      name: 'Rt Hon Jeremy Hunt MP',
       constituency: 'South West Surrey',
       email: 'huntj@parliament.uk',
-      name: 'Mr Hunt',
       party: 'Conservative',
       twitter: {
         handle: '@jeremy_hunt',
@@ -2275,10 +2078,9 @@ const data = {
       website: 'http://www.jeremyhunt.org/',
     },
     {
-      addressAs: 'Rt Hon Nick Hurd MP',
+      name: 'Rt Hon Nick Hurd MP',
       constituency: 'Ruislip, Northwood and Pinner',
       email: 'nick.hurd.mp@parliament.uk',
-      name: 'Mr Hurd',
       party: 'Conservative',
       twitter: {
         handle: '@nickhurdmp',
@@ -2287,10 +2089,9 @@ const data = {
       website: 'http://www.nickhurd.com/',
     },
     {
-      addressAs: 'Imran Hussain MP',
+      name: 'Imran Hussain MP',
       constituency: 'Bradford East',
       email: 'imran.hussain.mp@parliament.uk',
-      name: 'Imran Hussain',
       party: 'Labour',
       twitter: {
         handle: '@imran_hussainmp',
@@ -2299,10 +2100,9 @@ const data = {
       website: 'http://www.imranhussain.org.uk/',
     },
     {
-      addressAs: 'Margot James MP',
+      name: 'Margot James MP',
       constituency: 'Stourbridge',
       email: 'margot.james.mp@parliament.uk',
-      name: 'Margot James',
       party: 'Conservative',
       twitter: {
         handle: '@margot_james_mp',
@@ -2311,10 +2111,9 @@ const data = {
       website: 'http://www.margotjames.com/',
     },
     {
-      addressAs: 'Dan Jarvis MP',
+      name: 'Dan Jarvis MP',
       constituency: 'Barnsley Central',
       email: 'dan.jarvis.mp@parliament.uk',
-      name: 'Dan Jarvis',
       party: 'Labour',
       twitter: {
         handle: '@danjarvismp',
@@ -2324,10 +2123,9 @@ const data = {
         'https://www.parliament.uk/templates/MNIS/Units/Biography/www.danjarvis.org.uk',
     },
     {
-      addressAs: 'Rt Hon Sajid Javid MP',
+      name: 'Rt Hon Sajid Javid MP',
       constituency: 'Bromsgrove',
       email: 'sajid.javid.mp@parliament.uk',
-      name: 'Sajid Javid',
       party: 'Conservative',
       twitter: {
         handle: '@sajidjavid',
@@ -2336,19 +2134,17 @@ const data = {
       website: 'http://www.sajidjavid.com/',
     },
     {
-      addressAs: 'Mr Ranil Jayawardena MP',
+      name: 'Mr Ranil Jayawardena MP',
       constituency: 'North East Hampshire',
       email: 'email@ranil.uk',
-      name: 'Mr Jayawardena',
       party: 'Conservative',
       twitter: { handle: '@teamranil', url: 'https://twitter.com/teamranil' },
       website: 'https://www.ranil.uk/',
     },
     {
-      addressAs: 'Sir Bernard Jenkin MP',
+      name: 'Sir Bernard Jenkin MP',
       constituency: 'Harwich and North Essex',
       email: 'bernard.jenkin.mp@parliament.uk',
-      name: 'Sir Bernard',
       party: 'Conservative',
       twitter: {
         handle: '@bernardjenkin',
@@ -2357,10 +2153,9 @@ const data = {
       website: 'http://www.bernardjenkinmp.com/',
     },
     {
-      addressAs: 'Andrea Jenkyns MP',
+      name: 'Andrea Jenkyns MP',
       constituency: 'Morley and Outwood',
       email: 'andrea.jenkyns.mp@parliament.uk',
-      name: 'Andrea Jenkyns',
       party: 'Conservative',
       twitter: {
         handle: '@andreajenkyns',
@@ -2369,10 +2164,9 @@ const data = {
       website: 'http://www.andreajenkyns.co.uk/',
     },
     {
-      addressAs: 'Robert Jenrick MP',
+      name: 'Robert Jenrick MP',
       constituency: 'Newark',
       email: 'robert.jenrick.mp@parliament.uk',
-      name: '',
       party: 'Conservative',
       twitter: {
         handle: '@robertjenrick',
@@ -2381,10 +2175,9 @@ const data = {
       website: 'http://www.robertjenrick.com/',
     },
     {
-      addressAs: 'Dr Caroline Johnson MP',
+      name: 'Dr Caroline Johnson MP',
       constituency: 'Sleaford and North Hykeham',
       email: 'caroline.johnson.mp@parliament.uk',
-      name: 'Dr Caroline Johnson',
       party: 'Conservative',
       twitter: {
         handle: '@drcarolinej',
@@ -2393,10 +2186,9 @@ const data = {
       website: 'http://www.carolinejohnson.co.uk/',
     },
     {
-      addressAs: 'Diana Johnson MP',
+      name: 'Diana Johnson MP',
       constituency: 'Kingston upon Hull North',
       email: 'johnsond@parliament.uk',
-      name: 'Diana Johnson',
       party: 'Labour',
       twitter: {
         handle: '@dianajohnsonmp',
@@ -2405,10 +2197,9 @@ const data = {
       website: 'http://www.dianajohnson.co.uk/',
     },
     {
-      addressAs: 'Joseph Johnson MP',
+      name: 'Joseph Johnson MP',
       constituency: 'Orpington',
       email: 'jo.johnson.mp@parliament.uk',
-      name: 'Joseph Johnson',
       party: 'Conservative',
       twitter: {
         handle: '@jojohnsonmp',
@@ -2417,19 +2208,17 @@ const data = {
       website: 'http://www.jo-johnson.com/',
     },
     {
-      addressAs: 'Andrew Jones MP',
+      name: 'Andrew Jones MP',
       constituency: 'Harrogate and Knaresborough',
       email: 'andrew.jones.mp@parliament.uk',
-      name: 'Andrew Jones',
       party: 'Conservative',
       twitter: { handle: '@ajonesmp', url: 'https://twitter.com/AJonesMP' },
       website: 'http://www.andrewjonesmp.co.uk/',
     },
     {
-      addressAs: 'Darren Jones MP',
+      name: 'Darren Jones MP',
       constituency: 'Bristol North West',
       email: 'darren.jones.mp@parliament.uk',
-      name: 'Darren Jones',
       party: 'Labour',
       twitter: {
         handle: '@darrenpjones',
@@ -2438,10 +2227,9 @@ const data = {
       website: 'http://www.darren-jones.co.uk/',
     },
     {
-      addressAs: 'Gerald Jones MP',
+      name: 'Gerald Jones MP',
       constituency: 'Merthyr Tydfil and Rhymney',
       email: 'gerald.jones.mp@parliament.uk',
-      name: 'Gerald Jones',
       party: 'Labour',
       twitter: {
         handle: '@geraldjoneslab',
@@ -2450,10 +2238,9 @@ const data = {
       website: 'http://www.geraldjones.co.uk/',
     },
     {
-      addressAs: 'Graham P Jones MP',
+      name: 'Graham P Jones MP',
       constituency: 'Hyndburn',
       email: 'graham.jones.mp@parliament.uk',
-      name: 'Graham Jones',
       party: 'Labour',
       twitter: {
         handle: '@grahamjones_mp',
@@ -2462,10 +2249,9 @@ const data = {
       website: 'https://hhgrahamjones.blogspot.com/',
     },
     {
-      addressAs: 'Rt Hon Kevan Jones MP',
+      name: 'Rt Hon Kevan Jones MP',
       constituency: 'North Durham',
       email: 'kevanjonesmp@parliament.uk',
-      name: 'Mr Jones',
       party: 'Labour',
       twitter: {
         handle: '@kevanjonesmp',
@@ -2474,10 +2260,9 @@ const data = {
       website: 'http://www.kevanjonesmp.org.uk/',
     },
     {
-      addressAs: 'Mr Marcus Jones MP',
+      name: 'Mr Marcus Jones MP',
       constituency: 'Nuneaton',
       email: 'marcus.jones.mp@parliament.uk',
-      name: 'Mr Jones',
       party: 'Conservative',
       twitter: {
         handle: '@marcus4nuneaton',
@@ -2486,19 +2271,17 @@ const data = {
       website: 'http://www.marcusjones.org.uk/',
     },
     {
-      addressAs: 'Sarah Jones MP',
+      name: 'Sarah Jones MP',
       constituency: 'Croydon Central',
       email: 'sarah.jones.mp@parliament.uk',
-      name: 'Sarah Jones',
       party: 'Labour',
       twitter: { handle: '@laboursj', url: 'https://twitter.com/LabourSJ' },
       website: 'http://www.sarah-jones.org/',
     },
     {
-      addressAs: 'Susan Elan Jones MP',
+      name: 'Susan Elan Jones MP',
       constituency: 'Clwyd South',
       email: 'susan.jones.mp@parliament.uk',
-      name: 'Susan Elan Jones',
       party: 'Labour',
       twitter: {
         handle: '@susanelanjones',
@@ -2507,10 +2290,9 @@ const data = {
       website: 'http://www.susanelanjones.co.uk/',
     },
     {
-      addressAs: 'Daniel Kawczynski MP',
+      name: 'Daniel Kawczynski MP',
       constituency: 'Shrewsbury and Atcham',
       email: 'kawczynskid@parliament.uk',
-      name: 'Daniel Kawczynski',
       party: 'Conservative',
       twitter: {
         handle: '@dkshrewsbury',
@@ -2519,19 +2301,17 @@ const data = {
       website: 'http://www.daniel4shrewsbury.co.uk/',
     },
     {
-      addressAs: 'Barbara Keeley MP',
+      name: 'Barbara Keeley MP',
       constituency: 'Worsley and Eccles South',
       email: null,
-      name: 'Barbara Keeley',
       party: 'Labour',
       twitter: { handle: '@keeleymp', url: 'https://twitter.com/KeeleyMP' },
       website: 'http://www.barbarakeeley.co.uk/',
     },
     {
-      addressAs: 'Liz Kendall MP',
+      name: 'Liz Kendall MP',
       constituency: 'Leicester West',
       email: 'liz.kendall.mp@parliament.uk',
-      name: 'Liz Kendall',
       party: 'Labour',
       twitter: {
         handle: '@leicesterliz',
@@ -2540,10 +2320,9 @@ const data = {
       website: 'http://www.lizkendall.org/',
     },
     {
-      addressAs: 'Seema Kennedy MP',
+      name: 'Seema Kennedy MP',
       constituency: 'South Ribble',
       email: 'seema.kennedy.mp@parliament.uk',
-      name: 'Seema Kennedy',
       party: 'Conservative',
       twitter: {
         handle: '@seemakennedy',
@@ -2552,10 +2331,9 @@ const data = {
       website: 'http://www.seemakennedy.co.uk/',
     },
     {
-      addressAs: 'Afzal Khan MP',
+      name: 'Afzal Khan MP',
       constituency: 'Manchester, Gorton',
       email: 'afzal.khan.mp@parliament.uk',
-      name: 'Afzal Khan',
       party: 'Labour',
       twitter: {
         handle: '@afzal4gorton',
@@ -2564,28 +2342,25 @@ const data = {
       website: 'http://www.afzalkhan.org.uk/',
     },
     {
-      addressAs: 'Ged Killen MP',
+      name: 'Ged Killen MP',
       constituency: 'Rutherglen and Hamilton West',
       email: 'ged.killen.mp@parliament.uk',
-      name: 'Ged Killen',
       party: 'Labour (Co-op)',
       twitter: { handle: '@gedk', url: 'https://twitter.com/Gedk' },
       website: 'http://gedkillen.com/',
     },
     {
-      addressAs: 'Stephen Kinnock MP',
+      name: 'Stephen Kinnock MP',
       constituency: 'Aberavon',
       email: 'stephen.kinnock.mp@parliament.uk',
-      name: 'Stephen Kinnock',
       party: 'Labour',
       twitter: { handle: '@skinnock', url: 'https://twitter.com/skinnock' },
       website: 'http://www.stephenkinnock.co.uk/',
     },
     {
-      addressAs: 'Rt Hon Sir Greg Knight MP',
+      name: 'Rt Hon Sir Greg Knight MP',
       constituency: 'East Yorkshire',
       email: 'sothcottt@parliament.uk',
-      name: 'Sir Greg',
       party: 'Conservative',
       twitter: {
         handle: '@gregknightmp',
@@ -2594,10 +2369,9 @@ const data = {
       website: 'http://www.gregknight.com/',
     },
     {
-      addressAs: 'Julian Knight MP',
+      name: 'Julian Knight MP',
       constituency: 'Solihull',
       email: 'julian.knight.mp@parliament.uk',
-      name: 'Julian Knight',
       party: 'Conservative',
       twitter: {
         handle: '@julianknight15',
@@ -2606,19 +2380,17 @@ const data = {
       website: 'http://www.julianknight.org.uk/',
     },
     {
-      addressAs: 'Peter Kyle MP',
+      name: 'Peter Kyle MP',
       constituency: 'Hove',
       email: 'peter.kyle.mp@parliament.uk',
-      name: 'Peter Kyle',
       party: 'Labour',
       twitter: { handle: '@peterkyle', url: 'https://twitter.com/peterkyle' },
       website: 'http://www.peterkyle.co.uk/',
     },
     {
-      addressAs: 'Rt Hon Dame Eleanor Laing MP',
+      name: 'Rt Hon Dame Eleanor Laing MP',
       constituency: 'Epping Forest',
       email: 'eleanor.laing.mp@parliament.uk',
-      name: 'Dame Eleanor Laing',
       party: 'Conservative',
       twitter: {
         handle: '@eleanorlaingmp',
@@ -2627,10 +2399,9 @@ const data = {
       website: 'http://www.eleanorlaing.com/',
     },
     {
-      addressAs: 'Rt Hon Norman Lamb MP',
+      name: 'Rt Hon Norman Lamb MP',
       constituency: 'North Norfolk',
       email: 'norman.lamb.mp@parliament.uk',
-      name: 'Norman Lamb',
       party: 'Liberal Democrat',
       twitter: {
         handle: '@normanlamb',
@@ -2639,10 +2410,9 @@ const data = {
       website: 'http://www.normanlamb.org.uk/',
     },
     {
-      addressAs: 'Rt Hon David Lammy MP',
+      name: 'Rt Hon David Lammy MP',
       constituency: 'Tottenham',
       email: 'lammyd@parliament.uk',
-      name: 'Mr Lammy',
       party: 'Labour',
       twitter: {
         handle: '@davidlammy',
@@ -2651,19 +2421,17 @@ const data = {
       website: 'http://www.davidlammy.co.uk/',
     },
     {
-      addressAs: 'John Lamont MP',
+      name: 'John Lamont MP',
       constituency: 'Berwickshire, Roxburgh and Selkirk',
       email: 'john.lamont.mp@parliament.uk',
-      name: 'John Lamont',
       party: 'Conservative',
       twitter: { handle: '@john2win', url: 'https://twitter.com/John2Win' },
       website: 'http://www.johnlamont.org/',
     },
     {
-      addressAs: 'Rt Hon Mark Lancaster MP',
+      name: 'Rt Hon Mark Lancaster MP',
       constituency: 'Milton Keynes North',
       email: 'officeofmarklancaster@parliament.uk',
-      name: 'Mark Lancaster',
       party: 'Conservative',
       twitter: {
         handle: '@marklancastermk',
@@ -2672,10 +2440,9 @@ const data = {
       website: 'http://www.lancaster4mk.com/',
     },
     {
-      addressAs: 'Mrs Pauline Latham MP',
+      name: 'Mrs Pauline Latham MP',
       constituency: 'Mid Derbyshire',
       email: 'pauline.latham.mp@parliament.uk',
-      name: 'Mrs Pauline Latham',
       party: 'Conservative',
       twitter: {
         handle: '@pauline_latham',
@@ -2684,10 +2451,9 @@ const data = {
       website: 'http://www.paulinelatham.co.uk/',
     },
     {
-      addressAs: 'Ian Lavery MP',
+      name: 'Ian Lavery MP',
       constituency: 'Wansbeck',
       email: 'ian.lavery.mp@parliament.uk',
-      name: 'Ian Lavery',
       party: 'Labour',
       twitter: {
         handle: '@ianlaverymp',
@@ -2696,10 +2462,9 @@ const data = {
       website: 'http://www.ianlavery.org.uk/',
     },
     {
-      addressAs: 'Chris Law MP',
+      name: 'Chris Law MP',
       constituency: 'Dundee West',
       email: 'chris.law.mp@parliament.uk',
-      name: 'Chris Law',
       party: 'Scottish National Party',
       twitter: {
         handle: '@chrislawsnp',
@@ -2708,10 +2473,9 @@ const data = {
       website: 'http://chrislaw.scot/',
     },
     {
-      addressAs: 'Rt Hon Andrea Leadsom MP',
+      name: 'Rt Hon Andrea Leadsom MP',
       constituency: 'South Northamptonshire',
       email: 'andrea.leadsom.mp@parliament.uk',
-      name: '',
       party: 'Conservative',
       twitter: {
         handle: '@andrealeadsom',
@@ -2720,10 +2484,9 @@ const data = {
       website: 'http://www.andrealeadsom.com/',
     },
     {
-      addressAs: 'Dr Phillip Lee MP',
+      name: 'Dr Phillip Lee MP',
       constituency: 'Bracknell',
       email: 'phillip.lee.mp@parliament.uk',
-      name: 'Dr Lee or Dr Phillip Lee MP',
       party: 'Conservative',
       twitter: {
         handle: '@drphillipleemp',
@@ -2732,10 +2495,9 @@ const data = {
       website: 'http://www.phillip-lee.com/',
     },
     {
-      addressAs: 'Jeremy Lefroy MP',
+      name: 'Jeremy Lefroy MP',
       constituency: 'Stafford',
       email: 'jeremy.lefroy.mp@parliament.uk',
-      name: 'Mr Lefroy',
       party: 'Conservative',
       twitter: {
         handle: '@jeremylefroy',
@@ -2744,10 +2506,9 @@ const data = {
       website: 'http://www.jeremylefroy.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Sir Edward Leigh MP',
+      name: 'Rt Hon Sir Edward Leigh MP',
       constituency: 'Gainsborough',
       email: 'edward.leigh.mp@parliament.uk',
-      name: 'Sir Edward',
       party: 'Conservative',
       twitter: {
         handle: '@edwardleighmp',
@@ -2756,10 +2517,9 @@ const data = {
       website: 'http://www.edwardleigh.org.uk/',
     },
     {
-      addressAs: 'Mr Chris Leslie MP',
+      name: 'Mr Chris Leslie MP',
       constituency: 'Nottingham East',
       email: 'chris.leslie@parliament.uk',
-      name: '',
       party: 'Independent',
       twitter: {
         handle: '@chrislesliemp',
@@ -2768,10 +2528,9 @@ const data = {
       website: 'http://www.chrisleslie.org/',
     },
     {
-      addressAs: 'Rt Hon Sir Oliver Letwin MP',
+      name: 'Rt Hon Sir Oliver Letwin MP',
       constituency: 'West Dorset',
       email: 'letwino@parliament.uk',
-      name: 'Sir Oliver',
       party: 'Conservative',
       twitter: {
         handle: '@oliverletwinmp',
@@ -2780,10 +2539,9 @@ const data = {
       website: 'http://www.oliverletwinmp.com/',
     },
     {
-      addressAs: 'Mrs Emma Lewell-Buck MP',
+      name: 'Mrs Emma Lewell-Buck MP',
       constituency: 'South Shields',
       email: 'emma.lewell-buck.mp@parliament.uk',
-      name: 'Mrs Lewell-Buck',
       party: 'Labour',
       twitter: {
         handle: '@emmalewellbuck',
@@ -2792,19 +2550,17 @@ const data = {
       website: 'http://www.emma-lewell-buck.net/',
     },
     {
-      addressAs: 'Andrew Lewer MP',
+      name: 'Andrew Lewer MP',
       constituency: 'Northampton South',
       email: 'andrew.lewer.mp@parliament.uk',
-      name: 'Andrew Lewer',
       party: 'Conservative',
       twitter: { handle: '@alewermbe', url: 'https://twitter.com/ALewerMBE' },
       website: 'https://www.andrewlewer.com/',
     },
     {
-      addressAs: 'Rt Hon Brandon Lewis MP',
+      name: 'Rt Hon Brandon Lewis MP',
       constituency: 'Great Yarmouth',
       email: 'Helen.Hill@parliament.uk',
-      name: 'Brandon Lewis',
       party: 'Conservative',
       twitter: {
         handle: '@brandonlewis',
@@ -2813,10 +2569,9 @@ const data = {
       website: 'http://www.brandonlewis.co/',
     },
     {
-      addressAs: 'Clive Lewis MP',
+      name: 'Clive Lewis MP',
       constituency: 'Norwich South',
       email: 'clive.lewis.mp@parliament.uk',
-      name: 'Clive Lewis',
       party: 'Labour',
       twitter: {
         handle: '@labourlewis',
@@ -2825,10 +2580,9 @@ const data = {
       website: 'http://www.clivelewis.org/',
     },
     {
-      addressAs: 'Mr Ivan Lewis MP',
+      name: 'Mr Ivan Lewis MP',
       constituency: 'Bury South',
       email: 'lewisi@parliament.uk',
-      name: 'Mr Lewis',
       party: 'Independent',
       twitter: {
         handle: '@ivanlewis_mp',
@@ -2837,10 +2591,9 @@ const data = {
       website: 'http://ivanlewis.org.uk/',
     },
     {
-      addressAs: 'Rt Hon David Lidington MP',
+      name: 'Rt Hon David Lidington MP',
       constituency: 'Aylesbury',
       email: 'david.lidington.mp@parliament.uk',
-      name: 'Mr Lidington',
       party: 'Conservative',
       twitter: {
         handle: '@dlidington',
@@ -2849,10 +2602,9 @@ const data = {
       website: 'http://www.davidlidington.co.uk/',
     },
     {
-      addressAs: 'David Linden MP',
+      name: 'David Linden MP',
       constituency: 'Glasgow East',
       email: 'david.linden.mp@parliament.uk',
-      name: 'David Linden',
       party: 'Scottish National Party',
       twitter: {
         handle: '@davidlinden',
@@ -2861,10 +2613,9 @@ const data = {
       website: 'http://www.davidlinden.scot/',
     },
     {
-      addressAs: 'Stephen Lloyd MP',
+      name: 'Stephen Lloyd MP',
       constituency: 'Eastbourne',
       email: 'stephen.lloyd.mp@parliament.uk',
-      name: 'Stephen Lloyd',
       party: 'Independent',
       twitter: {
         handle: '@stephenlloydebn',
@@ -2873,10 +2624,9 @@ const data = {
       website: 'http://eastbournelibdems.org.uk/',
     },
     {
-      addressAs: 'Rebecca Long Bailey MP',
+      name: 'Rebecca Long Bailey MP',
       constituency: 'Salford and Eccles',
       email: 'rebecca.longbailey.mp@parliament.uk',
-      name: 'Ms Long Bailey',
       party: 'Labour',
       twitter: {
         handle: '@rlong_bailey',
@@ -2885,10 +2635,9 @@ const data = {
       website: 'http://rebeccalongbailey.com/',
     },
     {
-      addressAs: 'Jack Lopresti MP',
+      name: 'Jack Lopresti MP',
       constituency: 'Filton and Bradley Stoke',
       email: 'jack.lopresti.mp@parliament.uk',
-      name: 'Jack Lopresti',
       party: 'Conservative',
       twitter: {
         handle: '@jacklopresti',
@@ -2897,10 +2646,9 @@ const data = {
       website: 'http://www.jacklopresti.com/',
     },
     {
-      addressAs: 'Tim Loughton MP',
+      name: 'Tim Loughton MP',
       constituency: 'East Worthing and Shoreham',
       email: 'loughtont@parliament.uk',
-      name: 'Tim Loughton',
       party: 'Conservative',
       twitter: {
         handle: '@timloughton',
@@ -2909,10 +2657,9 @@ const data = {
       website: 'http://www.timloughton.com/',
     },
     {
-      addressAs: 'Caroline Lucas MP',
+      name: 'Caroline Lucas MP',
       constituency: 'Brighton, Pavilion',
       email: 'caroline.lucas.mp@parliament.uk',
-      name: 'Caroline Lucas',
       party: 'Green Party',
       twitter: {
         handle: '@carolinelucas',
@@ -2921,19 +2668,17 @@ const data = {
       website: 'http://www.carolinelucas.com/',
     },
     {
-      addressAs: 'Ian C. Lucas MP',
+      name: 'Ian C. Lucas MP',
       constituency: 'Wrexham',
       email: 'lucasi@parliament.uk',
-      name: 'Ian C. Lucas',
       party: 'Labour',
       twitter: { handle: '@ianclucas', url: 'https://twitter.com/IanCLucas' },
       website: 'http://www.ianlucas.co.uk/',
     },
     {
-      addressAs: 'Holly Lynch MP',
+      name: 'Holly Lynch MP',
       constituency: 'Halifax',
       email: 'holly.lynch.mp@parliament.uk',
-      name: 'Holly Lynch',
       party: 'Labour',
       twitter: {
         handle: '@hollylynch5',
@@ -2942,10 +2687,9 @@ const data = {
       website: 'http://www.hollylynch.org.uk/',
     },
     {
-      addressAs: 'Steve McCabe MP',
+      name: 'Steve McCabe MP',
       constituency: 'Birmingham, Selly Oak',
       email: 'mccabes@parliament.uk',
-      name: 'Steve McCabe',
       party: 'Labour',
       twitter: {
         handle: '@steve_mccabe',
@@ -2954,19 +2698,17 @@ const data = {
       website: 'http://www.stevemccabe-mp.org.uk/',
     },
     {
-      addressAs: 'Kerry McCarthy MP',
+      name: 'Kerry McCarthy MP',
       constituency: 'Bristol East',
       email: 'kerry.mccarthy.mp@parliament.uk',
-      name: 'Kerry McCarthy',
       party: 'Labour',
       twitter: { handle: '@kerrymp', url: 'https://twitter.com/KerryMP' },
       website: 'http://www.kerrymccarthymp.org/',
     },
     {
-      addressAs: 'Siobhain McDonagh MP',
+      name: 'Siobhain McDonagh MP',
       constituency: 'Mitcham and Morden',
       email: 'mcdonaghs@parliament.uk',
-      name: 'Siobhain McDonagh',
       party: 'Labour',
       twitter: {
         handle: '@siobhain_mp',
@@ -2975,10 +2717,9 @@ const data = {
       website: 'http://www.siobhainmcdonagh.org.uk/',
     },
     {
-      addressAs: 'Andy McDonald MP',
+      name: 'Andy McDonald MP',
       constituency: 'Middlesbrough',
       email: 'info@andymcdonaldmp.org',
-      name: 'Andy McDonald',
       party: 'Labour',
       twitter: {
         handle: '@andymcdonaldmp',
@@ -2987,10 +2728,9 @@ const data = {
       website: 'http://www.andymcdonaldmp.org/',
     },
     {
-      addressAs: 'Stewart Malcolm McDonald MP',
+      name: 'Stewart Malcolm McDonald MP',
       constituency: 'Glasgow South',
       email: 'stewart.mcdonald.mp@parliament.uk',
-      name: 'Stewart Malcolm McDonald',
       party: 'Scottish National Party',
       twitter: {
         handle: '@stewartmcdonald',
@@ -2999,10 +2739,9 @@ const data = {
       website: 'http://www.stewartmcdonald.scot/',
     },
     {
-      addressAs: 'Stuart C. McDonald MP',
+      name: 'Stuart C. McDonald MP',
       constituency: 'Cumbernauld, Kilsyth and Kirkintilloch East',
       email: 'stuart.mcdonald.mp@parliament.uk',
-      name: 'Stuart C. McDonald',
       party: 'Scottish National Party',
       twitter: {
         handle: '@stuart_mcdonald',
@@ -3011,10 +2750,9 @@ const data = {
       website: 'http://www.stuartmcdonaldmp.co.uk/',
     },
     {
-      addressAs: 'Rt Hon John McDonnell MP',
+      name: 'Rt Hon John McDonnell MP',
       constituency: 'Hayes and Harlington',
       email: 'mcdonnellj@parliament.uk',
-      name: 'John McDonnell',
       party: 'Labour',
       twitter: {
         handle: '@johnmcdonnellmp',
@@ -3023,10 +2761,9 @@ const data = {
       website: 'http://www.john-mcdonnell.net/',
     },
     {
-      addressAs: 'Rt Hon Pat McFadden MP',
+      name: 'Rt Hon Pat McFadden MP',
       constituency: 'Wolverhampton South East',
       email: 'mcfaddenp@parliament.uk',
-      name: 'Mr McFadden',
       party: 'Labour',
       twitter: {
         handle: '@patmcfaddenmp',
@@ -3035,10 +2772,9 @@ const data = {
       website: 'http://www.patmcfadden.com/',
     },
     {
-      addressAs: 'Conor McGinn MP',
+      name: 'Conor McGinn MP',
       constituency: 'St Helens North',
       email: 'conor.mcginn.mp@parliament.uk',
-      name: 'Conor McGinn',
       party: 'Labour',
       twitter: {
         handle: '@conormcginn',
@@ -3047,10 +2783,9 @@ const data = {
       website: 'http://www.conormcginn.co.uk/',
     },
     {
-      addressAs: 'Alison McGovern MP',
+      name: 'Alison McGovern MP',
       constituency: 'Wirral South',
       email: 'alison.mcgovern.mp@parliament.uk',
-      name: 'Alison McGovern',
       party: 'Labour',
       twitter: {
         handle: '@alison_mcgovern',
@@ -3059,10 +2794,9 @@ const data = {
       website: 'http://www.alisonmcgovern.org.uk/',
     },
     {
-      addressAs: 'Liz McInnes MP',
+      name: 'Liz McInnes MP',
       constituency: 'Heywood and Middleton',
       email: null,
-      name: '',
       party: 'Labour',
       twitter: {
         handle: '@lizmcinnes_mp',
@@ -3071,10 +2805,9 @@ const data = {
       website: 'http://www.lizmcinnesmp.org.uk/',
     },
     {
-      addressAs: 'Craig Mackinlay MP',
+      name: 'Craig Mackinlay MP',
       constituency: 'South Thanet',
       email: 'craig.mackinlay.mp@parliament.uk',
-      name: 'Craig Mackinlay',
       party: 'Conservative',
       twitter: {
         handle: '@cmackinlay',
@@ -3083,10 +2816,9 @@ const data = {
       website: 'http://www.craigmackinlay.com/',
     },
     {
-      addressAs: 'Catherine McKinnell MP',
+      name: 'Catherine McKinnell MP',
       constituency: 'Newcastle upon Tyne North',
       email: 'catherine.mckinnell.mp@parliament.uk',
-      name: 'Catherine McKinnell',
       party: 'Labour',
       twitter: {
         handle: '@catmckinnell',
@@ -3095,10 +2827,9 @@ const data = {
       website: 'http://www.catherinemckinnellmp.co.uk/',
     },
     {
-      addressAs: 'Rachel Maclean MP',
+      name: 'Rachel Maclean MP',
       constituency: 'Redditch',
       email: 'rachel.maclean.mp@parliament.uk',
-      name: 'Rachel Maclean',
       party: 'Conservative',
       twitter: {
         handle: '@redditchrachel',
@@ -3107,10 +2838,9 @@ const data = {
       website: 'https://www.rachelmaclean.uk/',
     },
     {
-      addressAs: 'Jim McMahon MP',
+      name: 'Jim McMahon MP',
       constituency: 'Oldham West and Royton',
       email: 'jim.mcmahon.mp@parliament.uk',
-      name: '',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@jimfromoldham',
@@ -3119,10 +2849,9 @@ const data = {
       website: 'http://www.jimmcmahon.co.uk/',
     },
     {
-      addressAs: 'John McNally MP',
+      name: 'John McNally MP',
       constituency: 'Falkirk',
       email: 'john.mcnally.mp@parliament.uk',
-      name: 'John McNally',
       party: 'Scottish National Party',
       twitter: {
         handle: '@johnmcnallymp',
@@ -3131,10 +2860,9 @@ const data = {
       website: 'http://johnny4falkirk.scot/',
     },
     {
-      addressAs: 'Stephen McPartland MP',
+      name: 'Stephen McPartland MP',
       constituency: 'Stevenage',
       email: 'stephen.mcpartland.mp@parliament.uk',
-      name: 'Stephen McPartland',
       party: 'Conservative',
       twitter: {
         handle: '@smcpartlandmp',
@@ -3143,10 +2871,9 @@ const data = {
       website: 'http://www.stephenmcpartland.co.uk/',
     },
     {
-      addressAs: 'Justin Madders MP',
+      name: 'Justin Madders MP',
       constituency: 'Ellesmere Port and Neston',
       email: 'justin.madders.mp@parliament.uk',
-      name: 'Justin Madders',
       party: 'Labour',
       twitter: {
         handle: '@justinmadders',
@@ -3155,10 +2882,9 @@ const data = {
       website: 'http://www.justinmadders.com/',
     },
     {
-      addressAs: 'Shabana Mahmood MP',
+      name: 'Shabana Mahmood MP',
       constituency: 'Birmingham, Ladywood',
       email: 'shabana.mahmood.mp@parliament.uk',
-      name: 'Shabana Mahmood',
       party: 'Labour',
       twitter: {
         handle: '@shabanamahmood',
@@ -3167,19 +2893,17 @@ const data = {
       website: 'http://www.shabanamahmood.org/',
     },
     {
-      addressAs: 'Alan Mak MP',
+      name: 'Alan Mak MP',
       constituency: 'Havant',
       email: 'alan.mak.mp@parliament.uk',
-      name: 'Alan Mak',
       party: 'Conservative',
       twitter: { handle: '@alanmakmp', url: 'https://twitter.com/AlanMakMP' },
       website: 'http://www.alanmak.org.uk/',
     },
     {
-      addressAs: 'Seema Malhotra MP',
+      name: 'Seema Malhotra MP',
       constituency: 'Feltham and Heston',
       email: 'seema.malhotra.mp@parliament.uk',
-      name: 'Seema Malhotra',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@seemamalhotra1',
@@ -3188,10 +2912,9 @@ const data = {
       website: 'http://www.seemamalhotra.com/',
     },
     {
-      addressAs: 'Kit Malthouse MP',
+      name: 'Kit Malthouse MP',
       constituency: 'North West Hampshire',
       email: 'kit.malthouse.mp@parliament.uk',
-      name: 'Kit Malthouse',
       party: 'Conservative',
       twitter: {
         handle: '@kitmalthouse',
@@ -3200,10 +2923,9 @@ const data = {
       website: 'http://kitmalthouse.com/',
     },
     {
-      addressAs: 'John Mann MP',
+      name: 'John Mann MP',
       constituency: 'Bassetlaw',
       email: 'john.mann.mp@parliament.uk',
-      name: 'John Mann',
       party: 'Labour',
       twitter: {
         handle: '@johnmannmp',
@@ -3212,10 +2934,9 @@ const data = {
       website: 'http://www.johnmannmp.com/',
     },
     {
-      addressAs: 'Scott Mann MP',
+      name: 'Scott Mann MP',
       constituency: 'North Cornwall',
       email: 'scott.mann.mp@parliament.uk',
-      name: 'Scott Mann',
       party: 'Conservative',
       twitter: {
         handle: '@scottmannmp',
@@ -3224,10 +2945,9 @@ const data = {
       website: 'http://www.scottmann.org.uk/',
     },
     {
-      addressAs: 'Gordon Marsden MP',
+      name: 'Gordon Marsden MP',
       constituency: 'Blackpool South',
       email: 'gordonmarsdenmp@parliament.uk',
-      name: 'Gordon Marsden',
       party: 'Labour',
       twitter: {
         handle: '@gordonmarsden',
@@ -3236,10 +2956,9 @@ const data = {
       website: 'http://www.gordonmarsden.co.uk/',
     },
     {
-      addressAs: 'Sandy Martin MP',
+      name: 'Sandy Martin MP',
       constituency: 'Ipswich',
       email: 'sandy.martin.mp@parliament.uk',
-      name: 'Sandy Martin',
       party: 'Labour',
       twitter: {
         handle: '@sandyofipswich',
@@ -3248,10 +2967,9 @@ const data = {
       website: 'http://sandyofipswich.co.uk/',
     },
     {
-      addressAs: 'Rachael Maskell MP',
+      name: 'Rachael Maskell MP',
       constituency: 'York Central',
       email: 'rachael.maskell.mp@parliament.uk',
-      name: 'Rachael Maskell',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@rachaelmaskell',
@@ -3260,10 +2978,9 @@ const data = {
       website: 'http://www.rachaelmaskell.com/',
     },
     {
-      addressAs: 'Paul Maskey MP',
+      name: 'Paul Maskey MP',
       constituency: 'Belfast West',
       email: 'paul.maskey.mp@parliament.uk',
-      name: 'Paul Maskey',
       party: 'Sinn Féin',
       twitter: {
         handle: '@paulmaskeymp',
@@ -3272,10 +2989,9 @@ const data = {
       website: 'http://www.sinnfein.ie/',
     },
     {
-      addressAs: 'Paul Masterton MP',
+      name: 'Paul Masterton MP',
       constituency: 'East Renfrewshire',
       email: 'paul.masterton.mp@parliament.uk',
-      name: 'Paul Masterton',
       party: 'Conservative',
       twitter: {
         handle: '@pm4eastren',
@@ -3284,10 +3000,9 @@ const data = {
       website: 'https://www.paulmasterton.org.uk/',
     },
     {
-      addressAs: 'Christian Matheson MP',
+      name: 'Christian Matheson MP',
       constituency: 'City of Chester',
       email: 'chris.matheson.mp@parliament.uk',
-      name: 'Christian Matheson',
       party: 'Labour',
       twitter: {
         handle: '@chrism4chester',
@@ -3296,10 +3011,9 @@ const data = {
       website: 'http://www.chrismatheson.co.uk/',
     },
     {
-      addressAs: 'Rt Hon Theresa May MP',
+      name: 'Rt Hon Theresa May MP',
       constituency: 'Maidenhead',
       email: 'mayt@parliament.uk',
-      name: 'Mrs May',
       party: 'Conservative',
       twitter: {
         handle: '@theresa_may',
@@ -3308,10 +3022,9 @@ const data = {
       website: 'http://www.tmay.co.uk/',
     },
     {
-      addressAs: 'Paul Maynard MP',
+      name: 'Paul Maynard MP',
       constituency: 'Blackpool North and Cleveleys',
       email: 'paul.maynard.mp@parliament.uk',
-      name: 'Paul Maynard',
       party: 'Conservative',
       twitter: {
         handle: '@paulmaynardmp',
@@ -3320,10 +3033,9 @@ const data = {
       website: 'http://www.paulmaynard.co.uk/',
     },
     {
-      addressAs: 'Ian Mearns MP',
+      name: 'Ian Mearns MP',
       constituency: 'Gateshead',
       email: 'ian.mearns.mp@parliament.uk',
-      name: 'Ian Mearns',
       party: 'Labour',
       twitter: {
         handle: '@ianmearnsmp',
@@ -3332,10 +3044,9 @@ const data = {
       website: 'http://www.ianmearns.org.uk/',
     },
     {
-      addressAs: 'Johnny Mercer MP',
+      name: 'Johnny Mercer MP',
       constituency: 'Plymouth, Moor View',
       email: 'diary@johnnyforplymouth.co.uk',
-      name: 'Johnny Mercer',
       party: 'Conservative',
       twitter: {
         handle: '@johnnymercermp',
@@ -3344,10 +3055,9 @@ const data = {
       website: 'http://www.johnnyforplymouth.co.uk/',
     },
     {
-      addressAs: 'Huw Merriman MP',
+      name: 'Huw Merriman MP',
       constituency: 'Bexhill and Battle',
       email: 'huw.merriman.mp@parliament.uk',
-      name: 'Huw Merriman',
       party: 'Conservative',
       twitter: {
         handle: '@huwmerriman',
@@ -3356,10 +3066,9 @@ const data = {
       website: 'http://www.huwmerriman.org.uk/',
     },
     {
-      addressAs: 'Stephen Metcalfe MP',
+      name: 'Stephen Metcalfe MP',
       constituency: 'South Basildon and East Thurrock',
       email: 'stephen.metcalfe.mp@parliament.uk',
-      name: 'Stephen Metcalfe',
       party: 'Conservative',
       twitter: {
         handle: '@metcalfe_sbet',
@@ -3368,10 +3077,9 @@ const data = {
       website: 'https://www.stephenmetcalfe.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Maria Miller MP',
+      name: 'Rt Hon Maria Miller MP',
       constituency: 'Basingstoke',
       email: 'maria.miller.mp@parliament.uk',
-      name: 'Mrs Maria Miller',
       party: 'Conservative',
       twitter: {
         handle: '@maria_millermp',
@@ -3380,10 +3088,9 @@ const data = {
       website: 'http://www.maria4basingstoke.co.uk/',
     },
     {
-      addressAs: 'Amanda Milling MP',
+      name: 'Amanda Milling MP',
       constituency: 'Cannock Chase',
       email: 'amanda.milling.mp@parliament.uk',
-      name: 'Amanda Milling',
       party: 'Conservative',
       twitter: {
         handle: '@amandamilling',
@@ -3392,10 +3099,9 @@ const data = {
       website: 'http://www.amandamilling.com/',
     },
     {
-      addressAs: 'Nigel Mills MP',
+      name: 'Nigel Mills MP',
       constituency: 'Amber Valley',
       email: 'nigel.mills.mp@parliament.uk',
-      name: 'Nigel Mills',
       party: 'Conservative',
       twitter: {
         handle: '@nigelmillsmp',
@@ -3404,10 +3110,9 @@ const data = {
       website: 'http://www.nigelmillsmp.com/',
     },
     {
-      addressAs: 'Rt Hon Anne Milton MP',
+      name: 'Rt Hon Anne Milton MP',
       constituency: 'Guildford',
       email: 'anne.milton.mp@parliament.uk',
-      name: 'Anne Milton',
       party: 'Conservative',
       twitter: {
         handle: '@annemilton',
@@ -3416,10 +3121,9 @@ const data = {
       website: 'http://www.guildfordconservatives.com/',
     },
     {
-      addressAs: 'Francie Molloy MP',
+      name: 'Francie Molloy MP',
       constituency: 'Mid Ulster',
       email: 'sinnfeincookstown@yahoo.com',
-      name: 'Francie Molloy',
       party: 'Sinn Féin',
       twitter: {
         handle: '@franciemolloy',
@@ -3428,10 +3132,9 @@ const data = {
       website: 'http://www.franciemolloy.ie/',
     },
     {
-      addressAs: 'Carol Monaghan MP',
+      name: 'Carol Monaghan MP',
       constituency: 'Glasgow North West',
       email: 'carol.monaghan.mp@parliament.uk',
-      name: 'Carol Monaghan',
       party: 'Scottish National Party',
       twitter: {
         handle: '@cmonaghansnp',
@@ -3440,10 +3143,9 @@ const data = {
       website: 'http://www.snp.org/carol_monaghan',
     },
     {
-      addressAs: 'Mrs Madeleine Moon MP',
+      name: 'Mrs Madeleine Moon MP',
       constituency: 'Bridgend',
       email: 'moonm@parliament.uk',
-      name: 'Mrs Moon',
       party: 'Labour',
       twitter: {
         handle: '@madeleinemoon',
@@ -3452,10 +3154,9 @@ const data = {
       website: 'http://www.madeleinemoonmp.com/',
     },
     {
-      addressAs: 'Damien Moore MP',
+      name: 'Damien Moore MP',
       constituency: 'Southport',
       email: 'damien.moore.mp@parliament.uk',
-      name: 'Damien Moore',
       party: 'Conservative',
       twitter: {
         handle: '@damienmooremp',
@@ -3464,10 +3165,9 @@ const data = {
       website: 'http://www.damienmooremp.com/',
     },
     {
-      addressAs: 'Layla Moran MP',
+      name: 'Layla Moran MP',
       constituency: 'Oxford West and Abingdon',
       email: 'layla.moran.mp@parliament.uk',
-      name: 'Layla Moran',
       party: 'Liberal Democrat',
       twitter: {
         handle: '@laylamoran',
@@ -3476,10 +3176,9 @@ const data = {
       website: 'http://www.laylamoran.com/',
     },
     {
-      addressAs: 'Rt Hon Penny Mordaunt MP',
+      name: 'Rt Hon Penny Mordaunt MP',
       constituency: 'Portsmouth North',
       email: 'penny.mordaunt.mp@parliament.uk',
-      name: 'Penny Mordaunt',
       party: 'Conservative',
       twitter: {
         handle: '@pennymordauntmp',
@@ -3488,10 +3187,9 @@ const data = {
       website: 'http://www.pennymordaunt.com/',
     },
     {
-      addressAs: 'Jessica Morden MP',
+      name: 'Jessica Morden MP',
       constituency: 'Newport East',
       email: 'mordenj@parliament.uk',
-      name: 'Jessica Morden',
       party: 'Labour',
       twitter: {
         handle: '@jessicamordenmp',
@@ -3500,10 +3198,9 @@ const data = {
       website: 'http://www.jessicamorden.com/',
     },
     {
-      addressAs: 'Rt Hon Nicky Morgan MP',
+      name: 'Rt Hon Nicky Morgan MP',
       constituency: 'Loughborough',
       email: 'nicky.morgan.mp@parliament.uk',
-      name: 'Nicky Morgan',
       party: 'Conservative',
       twitter: {
         handle: '@nickymorgan01',
@@ -3512,10 +3209,9 @@ const data = {
       website: 'http://www.nickymorgan.org/',
     },
     {
-      addressAs: 'Stephen Morgan MP',
+      name: 'Stephen Morgan MP',
       constituency: 'Portsmouth South',
       email: 'stephen.morgan.mp@parliament.uk',
-      name: 'Stephen Morgan',
       party: 'Labour',
       twitter: {
         handle: '@stephenmorganmp',
@@ -3524,10 +3220,9 @@ const data = {
       website: 'https://stephenjmorgan.org/',
     },
     {
-      addressAs: 'Anne Marie Morris MP',
+      name: 'Anne Marie Morris MP',
       constituency: 'Newton Abbot',
       email: 'annemarie.morris.mp@parliament.uk',
-      name: 'Anne Marie Morris',
       party: 'Conservative',
       twitter: {
         handle: '@ammorrismp',
@@ -3536,10 +3231,9 @@ const data = {
       website: 'http://www.annemariemorris.co.uk/',
     },
     {
-      addressAs: 'David Morris MP',
+      name: 'David Morris MP',
       constituency: 'Morecambe and Lunesdale',
       email: 'david.morris.mp@parliament.uk',
-      name: 'David Morris',
       party: 'Conservative',
       twitter: {
         handle: '@davidmpmorris',
@@ -3548,10 +3242,9 @@ const data = {
       website: 'http://www.davidmorris.org.uk/',
     },
     {
-      addressAs: 'Grahame Morris MP',
+      name: 'Grahame Morris MP',
       constituency: 'Easington',
       email: 'grahame.morris.mp@parliament.uk',
-      name: 'Grahame Morris',
       party: 'Labour',
       twitter: {
         handle: '@grahamemorris',
@@ -3560,10 +3253,9 @@ const data = {
       website: 'http://grahamemorrismp.co.uk/',
     },
     {
-      addressAs: 'James Morris MP',
+      name: 'James Morris MP',
       constituency: 'Halesowen and Rowley Regis',
       email: 'james.morris.mp@parliament.uk',
-      name: 'James Morris',
       party: 'Conservative',
       twitter: {
         handle: '@jamesmorrishrr',
@@ -3572,10 +3264,9 @@ const data = {
       website: 'http://www.jamesmorrismp.com/',
     },
     {
-      addressAs: 'Wendy Morton MP',
+      name: 'Wendy Morton MP',
       constituency: 'Aldridge-Brownhills',
       email: 'wendy.morton.mp@parliament.uk',
-      name: 'Wendy Morton',
       party: 'Conservative',
       twitter: {
         handle: '@morton_wendy',
@@ -3584,10 +3275,9 @@ const data = {
       website: 'http://wendymorton.co.uk/',
     },
     {
-      addressAs: 'Rt Hon David Mundell MP',
+      name: 'Rt Hon David Mundell MP',
       constituency: 'Dumfriesshire, Clydesdale and Tweeddale',
       email: 'david.mundell.mp@parliament.uk',
-      name: 'David Mundell',
       party: 'Conservative',
       twitter: {
         handle: '@davidmundelldct',
@@ -3596,10 +3286,9 @@ const data = {
       website: 'http://www.davidmundell.com/',
     },
     {
-      addressAs: 'Ian Murray MP',
+      name: 'Ian Murray MP',
       constituency: 'Edinburgh South',
       email: 'ian.murray.mp@parliament.uk',
-      name: 'Ian Murray',
       party: 'Labour',
       twitter: {
         handle: '@ianmurraymp',
@@ -3608,10 +3297,9 @@ const data = {
       website: 'https://www.ianmurraymp.com/',
     },
     {
-      addressAs: 'Mrs Sheryll Murray MP',
+      name: 'Mrs Sheryll Murray MP',
       constituency: 'South East Cornwall',
       email: 'sheryll.murray.mp@parliament.uk',
-      name: 'Mrs Murray',
       party: 'Conservative',
       twitter: {
         handle: '@sheryllmurray',
@@ -3620,10 +3308,9 @@ const data = {
       website: 'http://sheryllmurray.com/',
     },
     {
-      addressAs: 'Dr Andrew Murrison MP',
+      name: 'Dr Andrew Murrison MP',
       constituency: 'South West Wiltshire',
       email: 'murrisona@parliament.uk',
-      name: 'Dr Murrison',
       party: 'Conservative',
       twitter: {
         handle: '@murrisonmp',
@@ -3632,28 +3319,25 @@ const data = {
       website: 'http://www.andrewmurrison.co.uk/',
     },
     {
-      addressAs: 'Lisa Nandy MP',
+      name: 'Lisa Nandy MP',
       constituency: 'Wigan',
       email: 'lisa.nandy.mp@parliament.uk',
-      name: 'Lisa Nandy',
       party: 'Labour',
       twitter: { handle: '@lisanandy', url: 'https://twitter.com/lisanandy' },
       website: 'http://www.lisanandy.co.uk/',
     },
     {
-      addressAs: 'Robert Neill MP',
+      name: 'Robert Neill MP',
       constituency: 'Bromley and Chislehurst',
       email: 'bob.neill.mp@parliament.uk',
-      name: 'Robert Neill',
       party: 'Conservative',
       twitter: { handle: '@neill_bob', url: 'https://twitter.com/neill_bob' },
       website: 'http://www.bobneill.org.uk/',
     },
     {
-      addressAs: 'Gavin Newlands MP',
+      name: 'Gavin Newlands MP',
       constituency: 'Paisley and Renfrewshire North',
       email: 'gavin.newlands.mp@parliament.uk',
-      name: 'Gavin Newlands',
       party: 'Scottish National Party',
       twitter: {
         handle: '@gavinnewlandsmp',
@@ -3662,10 +3346,9 @@ const data = {
       website: 'http://www.gavinnewlands.scot/',
     },
     {
-      addressAs: 'Sarah Newton MP',
+      name: 'Sarah Newton MP',
       constituency: 'Truro and Falmouth',
       email: 'sarah.newton.mp@parliament.uk',
-      name: 'Sarah Newton',
       party: 'Conservative',
       twitter: {
         handle: '@sarahnewtonmp',
@@ -3674,10 +3357,9 @@ const data = {
       website: 'http://www.sarahnewton.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Caroline Nokes MP',
+      name: 'Rt Hon Caroline Nokes MP',
       constituency: 'Romsey and Southampton North',
       email: 'caroline.nokes.mp@parliament.uk',
-      name: 'Caroline Nokes',
       party: 'Conservative',
       twitter: {
         handle: '@carolinenokes',
@@ -3686,10 +3368,9 @@ const data = {
       website: 'http://www.carolinenokes.com/',
     },
     {
-      addressAs: 'Jesse Norman MP',
+      name: 'Jesse Norman MP',
       constituency: 'Hereford and South Herefordshire',
       email: 'jesse.norman.mp@parliament.uk',
-      name: 'Jesse Norman',
       party: 'Conservative',
       twitter: {
         handle: '@jesse_norman',
@@ -3698,10 +3379,9 @@ const data = {
       website: 'http://www.jessenorman.com/',
     },
     {
-      addressAs: "Neil O'Brien MP",
+      name: "Neil O'Brien MP",
       constituency: 'Harborough',
       email: 'neil.obrien.mp@parliament.uk',
-      name: "Neil O'Brien",
       party: 'Conservative',
       twitter: {
         handle: '@neildotobrien',
@@ -3710,10 +3390,9 @@ const data = {
       website: 'https://www.neilobrien.org.uk/',
     },
     {
-      addressAs: 'Dr Matthew Offord MP',
+      name: 'Dr Matthew Offord MP',
       constituency: 'Hendon',
       email: 'matthew.offord.mp@parliament.uk',
-      name: 'Dr Offord',
       party: 'Conservative',
       twitter: {
         handle: '@offord4hendon',
@@ -3722,10 +3401,9 @@ const data = {
       website: 'http://www.matthewofford.co.uk/',
     },
     {
-      addressAs: "Brendan O'Hara MP",
+      name: "Brendan O'Hara MP",
       constituency: 'Argyll and Bute',
       email: 'brendan.ohara.mp@parliament.uk',
-      name: "Brendan O'Hara",
       party: 'Scottish National Party',
       twitter: {
         handle: '@brendanoharasnp',
@@ -3734,19 +3412,17 @@ const data = {
       website: 'http://www.brendanoharamp.scot/%20',
     },
     {
-      addressAs: 'Melanie Onn MP',
+      name: 'Melanie Onn MP',
       constituency: 'Great Grimsby',
       email: 'melanie.onn.mp@parliament.uk',
-      name: 'Melanie Onn',
       party: 'Labour',
       twitter: { handle: '@onnmel', url: 'https://twitter.com/onnmel' },
       website: 'https://www.grimsbylabour.co.uk/',
     },
     {
-      addressAs: 'Chi Onwurah MP',
+      name: 'Chi Onwurah MP',
       constituency: 'Newcastle upon Tyne Central',
       email: 'chi.onwurah.mp@parliament.uk',
-      name: 'Chi Onwurah',
       party: 'Labour',
       twitter: {
         handle: '@chionwurah',
@@ -3755,10 +3431,9 @@ const data = {
       website: 'http://chionwurahmp.com/',
     },
     {
-      addressAs: 'Guy Opperman MP',
+      name: 'Guy Opperman MP',
       constituency: 'Hexham',
       email: 'guy.opperman.mp@parliament.uk',
-      name: 'Guy Opperman',
       party: 'Conservative',
       twitter: {
         handle: '@guyopperman',
@@ -3767,10 +3442,9 @@ const data = {
       website: 'http://guyopperman.co.uk/',
     },
     {
-      addressAs: 'Kate Osamor MP',
+      name: 'Kate Osamor MP',
       constituency: 'Edmonton',
       email: 'kate.osamor.mp@parliament.uk',
-      name: 'Kate Osamor',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@kateosamor',
@@ -3779,10 +3453,9 @@ const data = {
       website: 'http://www.kateosamor.co.uk/',
     },
     {
-      addressAs: 'Albert Owen MP',
+      name: 'Albert Owen MP',
       constituency: 'Ynys Môn',
       email: 'albert.owen.mp@parliament.uk',
-      name: 'Albert Owen',
       party: 'Labour',
       twitter: {
         handle: '@albertowenmp',
@@ -3791,10 +3464,9 @@ const data = {
       website: 'http://albertowenmp.org/',
     },
     {
-      addressAs: 'Ian Paisley MP',
+      name: 'Ian Paisley MP',
       constituency: 'North Antrim',
       email: 'ian.paisley.mp@parliament.uk',
-      name: 'Ian Paisley',
       party: 'Democratic Unionist Party',
       twitter: {
         handle: '@ianpaisleymp',
@@ -3803,10 +3475,9 @@ const data = {
       website: 'http://www.ianpaisleymp.co.uk/',
     },
     {
-      addressAs: 'Neil Parish MP',
+      name: 'Neil Parish MP',
       constituency: 'Tiverton and Honiton',
       email: 'neil.parish.mp@parliament.uk',
-      name: 'Neil Parish',
       party: 'Conservative',
       twitter: {
         handle: '@neil_parish',
@@ -3815,10 +3486,9 @@ const data = {
       website: 'http://www.neilparish.co.uk/',
     },
     {
-      addressAs: 'Rt Hon Priti Patel MP',
+      name: 'Rt Hon Priti Patel MP',
       constituency: 'Witham',
       email: 'withammp@parliament.uk',
-      name: 'Priti Patel',
       party: 'Conservative',
       twitter: {
         handle: '@patel4witham',
@@ -3827,10 +3497,9 @@ const data = {
       website: 'http://www.priti4witham.com/',
     },
     {
-      addressAs: 'Rt Hon Owen Paterson MP',
+      name: 'Rt Hon Owen Paterson MP',
       constituency: 'North Shropshire',
       email: 'Patersono@parliament.uk',
-      name: 'Mr Paterson',
       party: 'Conservative',
       twitter: {
         handle: '@owen_patersonmp',
@@ -3839,10 +3508,9 @@ const data = {
       website: 'http://www.owenpaterson.org/',
     },
     {
-      addressAs: 'Mark Pawsey MP',
+      name: 'Mark Pawsey MP',
       constituency: 'Rugby',
       email: 'mark.pawsey.mp@parliament.uk',
-      name: 'Mark Pawsey',
       party: 'Conservative',
       twitter: {
         handle: '@markpawsey',
@@ -3851,10 +3519,9 @@ const data = {
       website: 'http://www.markpawsey.org.uk/',
     },
     {
-      addressAs: 'Stephanie Peacock MP',
+      name: 'Stephanie Peacock MP',
       constituency: 'Barnsley East',
       email: 'stephanie.peacock.mp@parliament.uk',
-      name: 'Stephanie Peacock',
       party: 'Labour',
       twitter: {
         handle: '@steph_peacock',
@@ -3863,10 +3530,9 @@ const data = {
       website: 'http://www.stephaniepeacock.org.uk/',
     },
     {
-      addressAs: 'Teresa Pearce MP',
+      name: 'Teresa Pearce MP',
       constituency: 'Erith and Thamesmead',
       email: 'teresa.pearce.mp@parliament.uk',
-      name: 'Teresa Pearce',
       party: 'Labour',
       twitter: {
         handle: '@tpearce003',
@@ -3875,10 +3541,9 @@ const data = {
       website: 'http://www.teresapearce.org.uk/',
     },
     {
-      addressAs: 'Matthew Pennycook MP',
+      name: 'Matthew Pennycook MP',
       constituency: 'Greenwich and Woolwich',
       email: 'matthew.pennycook.mp@parliament.uk',
-      name: 'Matthew Pennycook',
       party: 'Labour',
       twitter: {
         handle: '@mtpennycook',
@@ -3887,10 +3552,9 @@ const data = {
       website: 'http://www.matthewpennycook.com/',
     },
     {
-      addressAs: 'John Penrose MP',
+      name: 'John Penrose MP',
       constituency: 'Weston-super-Mare',
       email: 'beauperec@parliament.uk',
-      name: 'John Penrose',
       party: 'Conservative',
       twitter: {
         handle: '@johnpenrosenews',
@@ -3899,10 +3563,9 @@ const data = {
       website: 'http://www.johnpenrose.org/',
     },
     {
-      addressAs: 'Toby Perkins MP',
+      name: 'Toby Perkins MP',
       constituency: 'Chesterfield',
       email: 'toby.perkins.mp@parliament.uk',
-      name: 'Toby Perkins',
       party: 'Labour',
       twitter: {
         handle: '@tobyperkinsmp',
@@ -3911,10 +3574,9 @@ const data = {
       website: 'http://www.tobyperkins.org.uk/',
     },
     {
-      addressAs: 'Jess Phillips MP',
+      name: 'Jess Phillips MP',
       constituency: 'Birmingham, Yardley',
       email: 'jess.phillips.mp@parliament.uk',
-      name: 'Jess Phillips',
       party: 'Labour',
       twitter: {
         handle: '@jessphillips',
@@ -3923,10 +3585,9 @@ const data = {
       website: 'http://www.jessphillips.net/',
     },
     {
-      addressAs: 'Bridget Phillipson MP',
+      name: 'Bridget Phillipson MP',
       constituency: 'Houghton and Sunderland South',
       email: 'bridget.phillipson.mp@parliament.uk',
-      name: 'Bridget Phillipson',
       party: 'Labour',
       twitter: {
         handle: '@bphillipsonmp',
@@ -3935,10 +3596,9 @@ const data = {
       website: 'http://www.bridgetphillipson.com/',
     },
     {
-      addressAs: 'Chris Philp MP',
+      name: 'Chris Philp MP',
       constituency: 'Croydon South',
       email: 'chris.philp.mp@parliament.uk',
-      name: 'Chris Philp',
       party: 'Conservative',
       twitter: {
         handle: '@chrisphilp_mp',
@@ -3947,10 +3607,9 @@ const data = {
       website: 'http://www.chrisphilp.com/',
     },
     {
-      addressAs: 'Rt Hon Christopher Pincher MP',
+      name: 'Rt Hon Christopher Pincher MP',
       constituency: 'Tamworth',
       email: 'christopher.pincher.mp@parliament.uk',
-      name: 'Christopher Pincher',
       party: 'Conservative',
       twitter: {
         handle: '@chrispincher',
@@ -3959,10 +3618,9 @@ const data = {
       website: 'http://www.christopherpincher.com/',
     },
     {
-      addressAs: 'Luke Pollard MP',
+      name: 'Luke Pollard MP',
       constituency: 'Plymouth, Sutton and Devonport',
       email: 'luke.pollard.mp@parliament.uk',
-      name: 'Luke Pollard',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@lukepollard',
@@ -3971,10 +3629,9 @@ const data = {
       website: 'http://www.lukepollard.org/',
     },
     {
-      addressAs: 'Dr Dan Poulter MP',
+      name: 'Dr Dan Poulter MP',
       constituency: 'Central Suffolk and North Ipswich',
       email: 'daniel.poulter.mp@parliament.uk',
-      name: 'Dr Dan Poulter',
       party: 'Conservative',
       twitter: {
         handle: '@drdanpoulter',
@@ -3983,10 +3640,9 @@ const data = {
       website: 'http://www.drdanielpoulter.com/',
     },
     {
-      addressAs: 'Rebecca Pow MP',
+      name: 'Rebecca Pow MP',
       constituency: 'Taunton Deane',
       email: 'rebecca.pow.mp@parliament.uk',
-      name: 'Rebecca Pow',
       party: 'Conservative',
       twitter: {
         handle: '@pow_rebecca',
@@ -3995,10 +3651,9 @@ const data = {
       website: 'http://www.rebeccapow.org.uk/',
     },
     {
-      addressAs: 'Lucy Powell MP',
+      name: 'Lucy Powell MP',
       constituency: 'Manchester Central',
       email: 'contact@lucypowell.org.uk',
-      name: 'Lucy Powell',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@lucympowell',
@@ -4007,10 +3662,9 @@ const data = {
       website: 'http://lucypowell.org.uk/',
     },
     {
-      addressAs: 'Victoria Prentis MP',
+      name: 'Victoria Prentis MP',
       constituency: 'Banbury',
       email: 'victoria.prentis.mp@parliament.uk',
-      name: 'Victoria Prentis',
       party: 'Conservative',
       twitter: {
         handle: '@victoriaprentis',
@@ -4019,19 +3673,17 @@ const data = {
       website: 'http://victoriaprentis.com/',
     },
     {
-      addressAs: 'Mr Mark Prisk MP',
+      name: 'Mr Mark Prisk MP',
       constituency: 'Hertford and Stortford',
       email: 'natalie.bithell@parliament.uk',
-      name: 'Mr Prisk',
       party: 'Conservative',
       twitter: { handle: '@priskmark', url: 'https://twitter.com/PriskMark' },
       website: 'http://www.markprisk.com/',
     },
     {
-      addressAs: 'Mark Pritchard MP',
+      name: 'Mark Pritchard MP',
       constituency: 'The Wrekin',
       email: 'pritchardm@parliament.uk',
-      name: 'Mark Pritchard',
       party: 'Conservative',
       twitter: {
         handle: '@mpritchardmp',
@@ -4040,10 +3692,9 @@ const data = {
       website: 'http://www.markpritchard.com/',
     },
     {
-      addressAs: 'Tom Pursglove MP',
+      name: 'Tom Pursglove MP',
       constituency: 'Corby',
       email: 'tom.pursglove.mp@parliament.uk',
-      name: 'Tom Pursglove',
       party: 'Conservative',
       twitter: {
         handle: '@votepursglove',
@@ -4052,10 +3703,9 @@ const data = {
       website: 'http://www.votepursglove.co.uk/',
     },
     {
-      addressAs: 'Will Quince MP',
+      name: 'Will Quince MP',
       constituency: 'Colchester',
       email: 'will.quince.mp@parliament.uk',
-      name: 'Will Quince',
       party: 'Conservative',
       twitter: {
         handle: '@willquince',
@@ -4064,10 +3714,9 @@ const data = {
       website: 'https://www.willquince.com/',
     },
     {
-      addressAs: 'Yasmin Qureshi MP',
+      name: 'Yasmin Qureshi MP',
       constituency: 'Bolton South East',
       email: 'yasmin.qureshi.mp@parliament.uk',
-      name: 'Yasmin Qureshi',
       party: 'Labour',
       twitter: {
         handle: '@yasminqureshimp',
@@ -4076,10 +3725,9 @@ const data = {
       website: 'http://www.yasminqureshi.org.uk/',
     },
     {
-      addressAs: 'Faisal Rashid MP',
+      name: 'Faisal Rashid MP',
       constituency: 'Warrington South',
       email: 'faisal.rashid.mp@parliament.uk',
-      name: 'Faisal Rashid',
       party: 'Labour',
       twitter: {
         handle: '@faisalrashid6',
@@ -4088,10 +3736,9 @@ const data = {
       website: 'http://www.faisalrashid.com/',
     },
     {
-      addressAs: 'Angela Rayner MP',
+      name: 'Angela Rayner MP',
       constituency: 'Ashton-under-Lyne',
       email: 'angela.rayner.mp@parliament.uk',
-      name: 'Angela Rayner',
       party: 'Labour',
       twitter: {
         handle: '@angelarayner',
@@ -4100,10 +3747,9 @@ const data = {
       website: 'http://www.angelarayner.com/',
     },
     {
-      addressAs: 'Rt Hon John Redwood MP',
+      name: 'Rt Hon John Redwood MP',
       constituency: 'Wokingham',
       email: 'john.redwood.mp@parliament.uk',
-      name: 'John Redwood',
       party: 'Conservative',
       twitter: {
         handle: '@johnredwood',
@@ -4112,10 +3758,9 @@ const data = {
       website: 'http://www.johnredwoodsdiary.com/',
     },
     {
-      addressAs: 'Mr Steve Reed MP',
+      name: 'Mr Steve Reed MP',
       constituency: 'Croydon North',
       email: 'steve.reed.mp@parliament.uk',
-      name: 'Mr Reed',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@stevereedmp',
@@ -4124,10 +3769,9 @@ const data = {
       website: 'http://www.stevereedmp.co.uk/',
     },
     {
-      addressAs: 'Christina Rees MP',
+      name: 'Christina Rees MP',
       constituency: 'Neath',
       email: 'christina.rees.mp@parliament.uk',
-      name: 'Christina Rees',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@rees4neath',
@@ -4136,10 +3780,9 @@ const data = {
       website: 'http://www.christinarees.org/',
     },
     {
-      addressAs: 'Rachel Reeves MP',
+      name: 'Rachel Reeves MP',
       constituency: 'Leeds West',
       email: 'rachel.reeves.mp@parliament.uk',
-      name: 'Rachel Reeves',
       party: 'Labour',
       twitter: {
         handle: '@rachelreevesmp',
@@ -4148,10 +3791,9 @@ const data = {
       website: 'http://www.rachelreeves.net/',
     },
     {
-      addressAs: 'Emma Reynolds MP',
+      name: 'Emma Reynolds MP',
       constituency: 'Wolverhampton North East',
       email: 'emma.reynolds.mp@parliament.uk',
-      name: 'Emma Reynolds',
       party: 'Labour',
       twitter: {
         handle: '@emmareynoldsmp',
@@ -4160,10 +3802,9 @@ const data = {
       website: 'http://www.emmareynolds.org.uk/',
     },
     {
-      addressAs: 'Jonathan Reynolds MP',
+      name: 'Jonathan Reynolds MP',
       constituency: 'Stalybridge and Hyde',
       email: 'jonathan.reynolds.mp@parliament.uk',
-      name: 'Jonathan Reynolds',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@jreynoldsmp',
@@ -4172,10 +3813,9 @@ const data = {
       website: 'http://www.jonathanreynolds.org.uk/',
     },
     {
-      addressAs: 'Ms Marie Rimmer MP',
+      name: 'Ms Marie Rimmer MP',
       constituency: 'St Helens South and Whiston',
       email: 'marie.rimmer.mp@parliament.uk',
-      name: 'Ms Marie Rimmer',
       party: 'Labour',
       twitter: {
         handle: '@marierimmermp',
@@ -4184,10 +3824,9 @@ const data = {
       website: 'http://www.marierimmer.org.uk/',
     },
     {
-      addressAs: 'Mary Robinson MP',
+      name: 'Mary Robinson MP',
       constituency: 'Cheadle',
       email: 'mary.robinson.mp@parliament.uk',
-      name: 'Mary Robinson',
       party: 'Conservative',
       twitter: {
         handle: '@maryrobinson01',
@@ -4196,10 +3835,9 @@ const data = {
       website: 'http://www.mary-robinson.org.uk/',
     },
     {
-      addressAs: 'Andrew Rosindell MP',
+      name: 'Andrew Rosindell MP',
       constituency: 'Romford',
       email: 'andrew.rosindell.mp@parliament.uk',
-      name: 'Andrew Rosindell',
       party: 'Conservative',
       twitter: {
         handle: '@andrewrosindell',
@@ -4208,10 +3846,9 @@ const data = {
       website: 'http://www.rosindell.com/',
     },
     {
-      addressAs: 'Danielle Rowley MP',
+      name: 'Danielle Rowley MP',
       constituency: 'Midlothian',
       email: 'danielle.rowley.mp@parliament.uk',
-      name: 'Danielle Rowley',
       party: 'Labour',
       twitter: {
         handle: '@danirowley',
@@ -4220,10 +3857,9 @@ const data = {
       website: 'https://www.daniellerowleymp.uk/',
     },
     {
-      addressAs: 'Rt Hon Amber Rudd MP',
+      name: 'Rt Hon Amber Rudd MP',
       constituency: 'Hastings and Rye',
       email: 'amber.rudd.mp@parliament.uk',
-      name: 'Amber Rudd',
       party: 'Conservative',
       twitter: {
         handle: '@amberruddhr',
@@ -4232,19 +3868,17 @@ const data = {
       website: 'http://www.amberrudd.co.uk/',
     },
     {
-      addressAs: 'Lloyd Russell-Moyle MP',
+      name: 'Lloyd Russell-Moyle MP',
       constituency: 'Brighton, Kemptown',
       email: 'lloyd.russellmoyle.mp@parliament.uk',
-      name: 'Lloyd Russell-Moyle',
       party: 'Labour (Co-op)',
       twitter: { handle: '@lloyd_rm', url: 'https://twitter.com/lloyd_rm' },
       website: 'http://russell-moyle.co.uk/',
     },
     {
-      addressAs: 'David Rutley MP',
+      name: 'David Rutley MP',
       constituency: 'Macclesfield',
       email: 'david.rutley.mp@parliament.uk',
-      name: 'David Rutley',
       party: 'Conservative',
       twitter: {
         handle: '@davidrutleymp',
@@ -4253,10 +3887,9 @@ const data = {
       website: 'http://www.davidrutley.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Joan Ryan MP',
+      name: 'Rt Hon Joan Ryan MP',
       constituency: 'Enfield North',
       email: 'joan.ryan.mp@parliament.uk',
-      name: 'Joan Ryan',
       party: 'Independent',
       twitter: {
         handle: '@joanryanenfield',
@@ -4265,37 +3898,33 @@ const data = {
       website: 'http://www.joanryan.org.uk/',
     },
     {
-      addressAs: 'Antoinette Sandbach MP',
+      name: 'Antoinette Sandbach MP',
       constituency: 'Eddisbury',
       email: 'antoinette.sandbach.mp@parliament.uk',
-      name: 'Antoinette Sandbach',
       party: 'Conservative',
       twitter: { handle: '@sandbach', url: 'https://twitter.com/Sandbach' },
       website: 'http://www.antoinettesandbach.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Liz Saville Roberts MP',
+      name: 'Rt Hon Liz Saville Roberts MP',
       constituency: 'Dwyfor Meirionnydd',
       email: 'liz.savilleroberts.mp@parliament.uk',
-      name: 'Liz Saville Roberts',
       party: 'Plaid Cymru',
       twitter: { handle: '@lsrplaid', url: 'https://twitter.com/lsrplaid' },
       website: 'http://www.lizsavilleroberts.org/',
     },
     {
-      addressAs: 'Paul Scully MP',
+      name: 'Paul Scully MP',
       constituency: 'Sutton and Cheam',
       email: 'paul.scully.mp@parliament.uk',
-      name: 'Paul Scully',
       party: 'Conservative',
       twitter: { handle: '@scullyp', url: 'https://twitter.com/scullyp' },
       website: 'http://www.scully.org.uk/',
     },
     {
-      addressAs: 'Mr Bob Seely MP',
+      name: 'Mr Bob Seely MP',
       constituency: 'Isle of Wight',
       email: 'bob.seely.mp@parliament.uk',
-      name: 'Mr Seely',
       party: 'Conservative',
       twitter: {
         handle: '@iowbobseely',
@@ -4304,10 +3933,9 @@ const data = {
       website: 'https://www.bobseely.org.uk/',
     },
     {
-      addressAs: 'Andrew Selous MP',
+      name: 'Andrew Selous MP',
       constituency: 'South West Bedfordshire',
       email: 'andrew.selous.mp@parliament.uk',
-      name: 'Andrew Selous',
       party: 'Conservative',
       twitter: {
         handle: '@andrewselous',
@@ -4316,10 +3944,9 @@ const data = {
       website: 'http://www.andrewselous.org.uk/',
     },
     {
-      addressAs: 'Jim Shannon MP',
+      name: 'Jim Shannon MP',
       constituency: 'Strangford',
       email: 'jim.shannon.mp@parliament.uk',
-      name: 'Jim Shannon',
       party: 'Democratic Unionist Party',
       twitter: {
         handle: '@jimshannonmp',
@@ -4328,10 +3955,9 @@ const data = {
       website: 'http://www.dup.org.uk/MyProfile.asp?MemberID=62',
     },
     {
-      addressAs: 'Rt Hon Grant Shapps MP',
+      name: 'Rt Hon Grant Shapps MP',
       constituency: 'Welwyn Hatfield',
       email: 'shappsg@parliament.uk',
-      name: 'Grant Shapps',
       party: 'Conservative',
       twitter: {
         handle: '@grantshapps',
@@ -4340,10 +3966,9 @@ const data = {
       website: 'http://www.shapps.com/',
     },
     {
-      addressAs: 'Alok Sharma MP',
+      name: 'Alok Sharma MP',
       constituency: 'Reading West',
       email: 'alok.sharma.mp@parliament.uk',
-      name: 'Alok Sharma',
       party: 'Conservative',
       twitter: {
         handle: '@aloksharma_rdg',
@@ -4352,10 +3977,9 @@ const data = {
       website: 'http://www.aloksharma.co.uk/',
     },
     {
-      addressAs: 'Mr Virendra Sharma MP',
+      name: 'Mr Virendra Sharma MP',
       constituency: 'Ealing, Southall',
       email: 'sharmav@parliament.uk',
-      name: 'Mr Sharma',
       party: 'Labour',
       twitter: {
         handle: '@virendrasharma',
@@ -4364,10 +3988,9 @@ const data = {
       website: 'http://www.virendrasharma.com/',
     },
     {
-      addressAs: 'Mr Barry Sheerman MP',
+      name: 'Mr Barry Sheerman MP',
       constituency: 'Huddersfield',
       email: 'sheermanb@parliament.uk',
-      name: 'Mr Barry Sheerman',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@barrysheerman',
@@ -4376,10 +3999,9 @@ const data = {
       website: 'http://www.barrysheerman.co.uk/',
     },
     {
-      addressAs: 'Alec Shelbrooke MP',
+      name: 'Alec Shelbrooke MP',
       constituency: 'Elmet and Rothwell',
       email: 'alec.shelbrooke.mp@parliament.uk',
-      name: 'Alec Shelbrooke',
       party: 'Conservative',
       twitter: {
         handle: '@alecshelbrooke',
@@ -4388,10 +4010,9 @@ const data = {
       website: 'http://www.alecshelbrooke.co.uk/',
     },
     {
-      addressAs: 'Tommy Sheppard MP',
+      name: 'Tommy Sheppard MP',
       constituency: 'Edinburgh East',
       email: 'tommy.sheppard.mp@parliament.uk',
-      name: 'Tommy Sheppard',
       party: 'Scottish National Party',
       twitter: {
         handle: '@tommysheppard',
@@ -4400,10 +4021,9 @@ const data = {
       website: 'http://tommysheppardmp.scot/',
     },
     {
-      addressAs: 'Mr Gavin Shuker MP',
+      name: 'Mr Gavin Shuker MP',
       constituency: 'Luton South',
       email: 'gavin.shuker.mp@parliament.uk',
-      name: 'Mr Shuker',
       party: 'Independent',
       twitter: {
         handle: '@gavinshuker',
@@ -4412,10 +4032,9 @@ const data = {
       website: 'http://www.gavinshuker.org/',
     },
     {
-      addressAs: 'Tulip Siddiq MP',
+      name: 'Tulip Siddiq MP',
       constituency: 'Hampstead and Kilburn',
       email: 'tulip.siddiq.mp@parliament.uk',
-      name: 'Tulip Siddiq',
       party: 'Labour',
       twitter: {
         handle: '@tulipsiddiq',
@@ -4424,10 +4043,9 @@ const data = {
       website: 'http://www.tulipsiddiq.com/',
     },
     {
-      addressAs: 'Chris Skidmore MP',
+      name: 'Chris Skidmore MP',
       constituency: 'Kingswood',
       email: 'chris.skidmore.mp@parliament.uk',
-      name: 'Chris Skidmore',
       party: 'Conservative',
       twitter: {
         handle: '@cskidmoremp',
@@ -4436,10 +4054,9 @@ const data = {
       website: 'http://www.chrisskidmore.com/',
     },
     {
-      addressAs: 'Andy Slaughter MP',
+      name: 'Andy Slaughter MP',
       constituency: 'Hammersmith',
       email: 'slaughtera@parliament.uk',
-      name: 'Andy Slaughter',
       party: 'Labour',
       twitter: {
         handle: '@hammersmithandy',
@@ -4448,10 +4065,9 @@ const data = {
       website: 'http://www.andyslaughter.com/',
     },
     {
-      addressAs: 'Ruth Smeeth MP',
+      name: 'Ruth Smeeth MP',
       constituency: 'Stoke-on-Trent North',
       email: 'ruth.smeeth.mp@parliament.uk',
-      name: 'Ruth Smeeth',
       party: 'Labour',
       twitter: {
         handle: '@ruthsmeeth',
@@ -4460,10 +4076,9 @@ const data = {
       website: 'http://www.ruthsmeeth.org.uk/',
     },
     {
-      addressAs: 'Angela Smith MP',
+      name: 'Angela Smith MP',
       constituency: 'Penistone and Stocksbridge',
       email: 'officeofangelasmithmp@parliament.uk',
-      name: 'Angela Smith',
       party: 'Independent',
       twitter: {
         handle: '@angelasmithmp',
@@ -4472,10 +4087,9 @@ const data = {
       website: 'http://www.angelasmith-mp.org.uk/',
     },
     {
-      addressAs: 'Cat Smith MP',
+      name: 'Cat Smith MP',
       constituency: 'Lancaster and Fleetwood',
       email: 'cat.smith.mp@parliament.uk',
-      name: 'Cat Smith',
       party: 'Labour',
       twitter: {
         handle: '@catsmithmp',
@@ -4484,10 +4098,9 @@ const data = {
       website: 'http://www.catsmith.co.uk/',
     },
     {
-      addressAs: 'Chloe Smith MP',
+      name: 'Chloe Smith MP',
       constituency: 'Norwich North',
       email: 'chloe@chloesmith.org.uk',
-      name: 'Chloe Smith',
       party: 'Conservative',
       twitter: {
         handle: '@norwichchloe',
@@ -4496,10 +4109,9 @@ const data = {
       website: 'http://www.chloesmith.org.uk/',
     },
     {
-      addressAs: 'Henry Smith MP',
+      name: 'Henry Smith MP',
       constituency: 'Crawley',
       email: 'henry.smith.mp@parliament.uk',
-      name: 'Henry Smith',
       party: 'Conservative',
       twitter: {
         handle: '@henrysmithuk',
@@ -4508,10 +4120,9 @@ const data = {
       website: 'http://henrysmith.info/',
     },
     {
-      addressAs: 'Jeff Smith MP',
+      name: 'Jeff Smith MP',
       constituency: 'Manchester, Withington',
       email: 'jeff.smith.mp@parliament.uk',
-      name: 'Jeff Smith',
       party: 'Labour',
       twitter: {
         handle: '@jeffsmithetc',
@@ -4520,10 +4131,9 @@ const data = {
       website: 'https://jeffsmithmp.com/',
     },
     {
-      addressAs: 'Rt Hon Julian Smith MP',
+      name: 'Rt Hon Julian Smith MP',
       constituency: 'Skipton and Ripon',
       email: 'julian.smith.mp@parliament.uk',
-      name: '',
       party: 'Conservative',
       twitter: {
         handle: '@juliansmithuk',
@@ -4532,10 +4142,9 @@ const data = {
       website: 'http://www.juliansmith.org.uk/',
     },
     {
-      addressAs: 'Nick Smith MP',
+      name: 'Nick Smith MP',
       constituency: 'Blaenau Gwent',
       email: 'nick.smith.mp@parliament.uk',
-      name: 'Nick Smith',
       party: 'Labour',
       twitter: {
         handle: '@blaenaugwentmp',
@@ -4544,10 +4153,9 @@ const data = {
       website: 'http://nicksmithmp.com/',
     },
     {
-      addressAs: 'Owen Smith MP',
+      name: 'Owen Smith MP',
       constituency: 'Pontypridd',
       email: 'Owen.Smith.MP@parliament.uk',
-      name: 'Owen Smith',
       party: 'Labour',
       twitter: {
         handle: '@owensmith_mp',
@@ -4556,10 +4164,9 @@ const data = {
       website: 'http://www.owensmithmp.co.uk/',
     },
     {
-      addressAs: 'Royston Smith MP',
+      name: 'Royston Smith MP',
       constituency: 'Southampton, Itchen',
       email: 'royston.smith.mp@parliament.uk',
-      name: 'Royston Smith',
       party: 'Conservative',
       twitter: {
         handle: '@royston_smith',
@@ -4568,10 +4175,9 @@ const data = {
       website: 'http://www.roystonsmith.co.uk/',
     },
     {
-      addressAs: 'Karin Smyth MP',
+      name: 'Karin Smyth MP',
       constituency: 'Bristol South',
       email: 'karin.smyth.mp@parliament.uk',
-      name: 'Karin Smyth',
       party: 'Labour',
       twitter: {
         handle: '@karinsmyth',
@@ -4580,19 +4186,17 @@ const data = {
       website: 'http://karinsmyth.com/',
     },
     {
-      addressAs: 'Rt Hon Sir Nicholas Soames MP',
+      name: 'Rt Hon Sir Nicholas Soames MP',
       constituency: 'Mid Sussex',
       email: 'nicholas.soames.mp@parliament.uk',
-      name: 'Sir Nicholas',
       party: 'Conservative',
       twitter: { handle: '@nsoamesmp', url: 'https://twitter.com/nsoamesmp' },
       website: 'http://www.nicholassoames.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Anna Soubry MP',
+      name: 'Rt Hon Anna Soubry MP',
       constituency: 'Broxtowe',
       email: 'anna.soubry.mp@parliament.uk',
-      name: 'Anna Soubry',
       party: 'Independent',
       twitter: {
         handle: '@anna_soubry',
@@ -4601,28 +4205,25 @@ const data = {
       website: 'https://annasoubry.org.uk/',
     },
     {
-      addressAs: 'Rt Hon John Spellar MP',
+      name: 'Rt Hon John Spellar MP',
       constituency: 'Warley',
       email: 'john.spellar.mp@parliament.uk',
-      name: '',
       party: 'Labour',
       twitter: { handle: '@spellar', url: 'https://twitter.com/spellar' },
       website: 'http://www.johnspellar.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Dame Caroline Spelman MP',
+      name: 'Rt Hon Dame Caroline Spelman MP',
       constituency: 'Meriden',
       email: 'caroline@carolinespelman.com',
-      name: 'Dame Caroline',
       party: 'Conservative',
       twitter: { handle: '@spelmanc', url: 'https://twitter.com/spelmanc' },
       website: 'http://www.carolinespelman.com/',
     },
     {
-      addressAs: 'Mark Spencer MP',
+      name: 'Mark Spencer MP',
       constituency: 'Sherwood',
       email: 'mark.spencer.mp@parliament.uk',
-      name: 'Mark Spencer',
       party: 'Conservative',
       twitter: {
         handle: '@mark_spencer',
@@ -4631,10 +4232,9 @@ const data = {
       website: 'https://www.markspencer.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Keir Starmer MP',
+      name: 'Rt Hon Keir Starmer MP',
       constituency: 'Holborn and St Pancras',
       email: 'keir.starmer.mp@parliament.uk',
-      name: 'Keir Starmer',
       party: 'Labour',
       twitter: {
         handle: '@keir_starmer',
@@ -4643,10 +4243,9 @@ const data = {
       website: 'http://www.keirstarmer.com/',
     },
     {
-      addressAs: 'Chris Stephens MP',
+      name: 'Chris Stephens MP',
       constituency: 'Glasgow South West',
       email: 'chris.stephens.mp@parliament.uk',
-      name: 'Chris Stephens',
       party: 'Scottish National Party',
       twitter: {
         handle: '@chrisstephens',
@@ -4656,10 +4255,9 @@ const data = {
         'https://www.parliament.uk/templates/MNIS/Units/Biography/www.christstephens.scot',
     },
     {
-      addressAs: 'Jo Stevens MP',
+      name: 'Jo Stevens MP',
       constituency: 'Cardiff Central',
       email: 'jo.stevens.mp@parliament.uk',
-      name: 'Jo Stevens',
       party: 'Labour',
       twitter: {
         handle: '@jostevenslabour',
@@ -4668,10 +4266,9 @@ const data = {
       website: 'http://www.jostevens.co.uk/',
     },
     {
-      addressAs: 'John Stevenson MP',
+      name: 'John Stevenson MP',
       constituency: 'Carlisle',
       email: 'john.stevenson.mp@parliament.uk',
-      name: 'John Stevenson',
       party: 'Conservative',
       twitter: {
         handle: '@johnstevensonmp',
@@ -4680,10 +4277,9 @@ const data = {
       website: 'http://www.johnstevensonmp.co.uk/',
     },
     {
-      addressAs: 'Iain Stewart MP',
+      name: 'Iain Stewart MP',
       constituency: 'Milton Keynes South',
       email: 'iain.stewart.mp@parliament.uk',
-      name: 'Iain Stewart',
       party: 'Conservative',
       twitter: {
         handle: '@iainastewart',
@@ -4692,10 +4288,9 @@ const data = {
       website: 'http://iainstewartmp.co.uk/',
     },
     {
-      addressAs: 'Rory Stewart MP',
+      name: 'Rory Stewart MP',
       constituency: 'Penrith and The Border',
       email: 'rory.stewart.mp@parliament.uk',
-      name: 'Rory Stewart',
       party: 'Conservative',
       twitter: {
         handle: '@rorystewartuk',
@@ -4704,10 +4299,9 @@ const data = {
       website: 'http://rorystewart.co.uk/',
     },
     {
-      addressAs: 'Wes Streeting MP',
+      name: 'Wes Streeting MP',
       constituency: 'Ilford North',
       email: 'wes.streeting.mp@parliament.uk',
-      name: 'Wes Streeting',
       party: 'Labour',
       twitter: {
         handle: '@wesstreeting',
@@ -4716,10 +4310,9 @@ const data = {
       website: 'http://www.wesstreeting.org/',
     },
     {
-      addressAs: 'Rt Hon Mel Stride MP',
+      name: 'Rt Hon Mel Stride MP',
       constituency: 'Central Devon',
       email: 'mel.stride.mp@parliament.uk',
-      name: 'Mel Stride',
       party: 'Conservative',
       twitter: {
         handle: '@meljstride',
@@ -4728,10 +4321,9 @@ const data = {
       website: 'http://melstridemp.com/',
     },
     {
-      addressAs: 'Graham Stuart MP',
+      name: 'Graham Stuart MP',
       constituency: 'Beverley and Holderness',
       email: 'grahamstuartmp@parliament.uk',
-      name: 'Graham Stuart',
       party: 'Conservative',
       twitter: {
         handle: '@grahamstuart',
@@ -4740,10 +4332,9 @@ const data = {
       website: 'http://www.grahamstuart.com/',
     },
     {
-      addressAs: 'Rt Hon Sir Desmond Swayne MP',
+      name: 'Rt Hon Sir Desmond Swayne MP',
       constituency: 'New Forest West',
       email: 'swayned@parliament.uk',
-      name: 'Sir Desmond',
       party: 'Conservative',
       twitter: {
         handle: '@desmondswayne',
@@ -4752,10 +4343,9 @@ const data = {
       website: 'http://www.desmondswaynemp.com/',
     },
     {
-      addressAs: 'Mr Paul Sweeney MP',
+      name: 'Mr Paul Sweeney MP',
       constituency: 'Glasgow North East',
       email: 'paul.sweeney.mp@parliament.uk',
-      name: 'Paul Sweeney',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@pauljsweeney',
@@ -4764,28 +4354,25 @@ const data = {
       website: 'https://www.paulsweeney.mp/%20%20',
     },
     {
-      addressAs: 'Jo Swinson MP',
+      name: 'Jo Swinson MP',
       constituency: 'East Dunbartonshire',
       email: 'jo.swinson.mp@parliament.uk',
-      name: 'Jo Swinson',
       party: 'Liberal Democrat',
       twitter: { handle: '@joswinson', url: 'https://twitter.com/joswinson' },
       website: 'http://www.joswinson.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Sir Hugo Swire MP',
+      name: 'Rt Hon Sir Hugo Swire MP',
       constituency: 'East Devon',
       email: 'hugo.swire.mp@parliament.uk',
-      name: '',
       party: 'Conservative',
       twitter: { handle: '@hugoswire', url: 'https://twitter.com/HugoSwire' },
       website: 'http://www.hugoswire.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Mark Tami MP',
+      name: 'Rt Hon Mark Tami MP',
       constituency: 'Alyn and Deeside',
       email: 'tamim@parliament.uk',
-      name: 'Mark Tami',
       party: 'Labour',
       twitter: {
         handle: '@marktamimp',
@@ -4794,10 +4381,9 @@ const data = {
       website: 'http://www.marktami.co.uk/',
     },
     {
-      addressAs: 'Alison Thewliss MP',
+      name: 'Alison Thewliss MP',
       constituency: 'Glasgow Central',
       email: 'alison.thewliss.mp@parliament.uk',
-      name: 'Alison Thewliss',
       party: 'Scottish National Party',
       twitter: {
         handle: '@alisonthewliss',
@@ -4806,10 +4392,9 @@ const data = {
       website: 'http://www.alisonthewliss.scot/',
     },
     {
-      addressAs: 'Derek Thomas MP',
+      name: 'Derek Thomas MP',
       constituency: 'St Ives',
       email: 'derek.thomas.mp@parliament.uk',
-      name: 'Derek Thomas',
       party: 'Conservative',
       twitter: {
         handle: '@derekthomasmp',
@@ -4818,10 +4403,9 @@ const data = {
       website: 'http://derekthomas.org/',
     },
     {
-      addressAs: 'Gareth Thomas MP',
+      name: 'Gareth Thomas MP',
       constituency: 'Harrow West',
       email: 'gareth.thomas.mp@parliament.uk',
-      name: 'Gareth Thomas',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@gareththomasmp',
@@ -4830,10 +4414,9 @@ const data = {
       website: 'http://www.gareththomas.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Emily Thornberry MP',
+      name: 'Rt Hon Emily Thornberry MP',
       constituency: 'Islington South and Finsbury',
       email: 'thornberrye@parliament.uk',
-      name: 'Emily Thornberry',
       party: 'Labour',
       twitter: {
         handle: '@emilythornberry',
@@ -4842,19 +4425,17 @@ const data = {
       website: 'http://www.emilythornberry.com/',
     },
     {
-      addressAs: 'Maggie Throup MP',
+      name: 'Maggie Throup MP',
       constituency: 'Erewash',
       email: 'maggie.throup.mp@parliament.uk',
-      name: 'Maggie Throup',
       party: 'Conservative',
       twitter: { handle: '@mthroup', url: 'https://twitter.com/mthroup' },
       website: 'http://www.maggiethroup.com/',
     },
     {
-      addressAs: 'Rt Hon Stephen Timms MP',
+      name: 'Rt Hon Stephen Timms MP',
       constituency: 'East Ham',
       email: 'timmss@parliament.uk',
-      name: 'Stephen Timms',
       party: 'Labour',
       twitter: {
         handle: '@stephenctimms',
@@ -4863,10 +4444,9 @@ const data = {
       website: 'http://www.stephentimms.org.uk/',
     },
     {
-      addressAs: 'Kelly Tolhurst MP',
+      name: 'Kelly Tolhurst MP',
       constituency: 'Rochester and Strood',
       email: 'kelly.tolhurst.mp@parliament.uk',
-      name: 'Kelly Tolhurst',
       party: 'Conservative',
       twitter: {
         handle: '@kellytolhurst',
@@ -4875,10 +4455,9 @@ const data = {
       website: 'http://www.kelly4rochesterandstrood.com/',
     },
     {
-      addressAs: 'Justin Tomlinson MP',
+      name: 'Justin Tomlinson MP',
       constituency: 'North Swindon',
       email: 'justin.tomlinson.mp@parliament.uk',
-      name: 'Justin Tomlinson',
       party: 'Conservative',
       twitter: {
         handle: '@jtomlinsonmp',
@@ -4887,10 +4466,9 @@ const data = {
       website: 'http://www.justintomlinson.com/',
     },
     {
-      addressAs: 'Michael Tomlinson MP',
+      name: 'Michael Tomlinson MP',
       constituency: 'Mid Dorset and North Poole',
       email: 'michael.tomlinson.mp@parliament.uk',
-      name: 'Michael Tomlinson',
       party: 'Conservative',
       twitter: {
         handle: '@michael4mdnp',
@@ -4899,10 +4477,9 @@ const data = {
       website: 'http://www.michaeltomlinson.org.uk/',
     },
     {
-      addressAs: 'Craig Tracey MP',
+      name: 'Craig Tracey MP',
       constituency: 'North Warwickshire',
       email: 'craig.tracey.mp@parliament.uk',
-      name: 'Craig Tracey',
       party: 'Conservative',
       twitter: {
         handle: '@craig4nwarks',
@@ -4911,19 +4488,17 @@ const data = {
       website: 'http://www.craigtracey.co.uk/',
     },
     {
-      addressAs: 'Anne-Marie Trevelyan MP',
+      name: 'Anne-Marie Trevelyan MP',
       constituency: 'Berwick-upon-Tweed',
       email: 'annemarie.trevelyan.mp@parliament.uk',
-      name: 'Anne-Marie Trevelyan',
       party: 'Conservative',
       twitter: { handle: '@annietrev', url: 'https://twitter.com/annietrev' },
       website: 'http://www.teamtrevelyan.co.uk/',
     },
     {
-      addressAs: 'Jon Trickett MP',
+      name: 'Jon Trickett MP',
       constituency: 'Hemsworth',
       email: 'trickettj@parliament.uk',
-      name: 'Jon Trickett',
       party: 'Labour',
       twitter: {
         handle: '@jon_trickett',
@@ -4932,19 +4507,17 @@ const data = {
       website: 'http://www.jontrickett.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Elizabeth Truss MP',
+      name: 'Rt Hon Elizabeth Truss MP',
       constituency: 'South West Norfolk',
       email: 'elizabeth.truss.mp@parliament.uk',
-      name: 'Elizabeth Truss',
       party: 'Conservative',
       twitter: { handle: '@trussliz', url: 'https://twitter.com/trussliz' },
       website: 'http://www.elizabethtruss.com/',
     },
     {
-      addressAs: 'Tom Tugendhat MP',
+      name: 'Tom Tugendhat MP',
       constituency: 'Tonbridge and Malling',
       email: 'tom.tugendhat.mp@parliament.uk',
-      name: 'Tom Tugendhat',
       party: 'Conservative',
       twitter: {
         handle: '@tomtugendhat',
@@ -4953,10 +4526,9 @@ const data = {
       website: 'http://www.tomtugendhat.org.uk/',
     },
     {
-      addressAs: 'Anna Turley MP',
+      name: 'Anna Turley MP',
       constituency: 'Redcar',
       email: 'anna.turley.mp@parliament.uk',
-      name: 'Anna Turley',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@annaturley',
@@ -4965,10 +4537,9 @@ const data = {
       website: 'http://www.anna4redcar.org.uk/',
     },
     {
-      addressAs: 'Karl Turner MP',
+      name: 'Karl Turner MP',
       constituency: 'Kingston upon Hull East',
       email: 'karl.turner.mp@parliament.uk',
-      name: 'Karl Turner',
       party: 'Labour',
       twitter: {
         handle: '@karlturnermp',
@@ -4977,10 +4548,9 @@ const data = {
       website: 'http://www.karlturnermp.org.uk/',
     },
     {
-      addressAs: 'Derek Twigg MP',
+      name: 'Derek Twigg MP',
       constituency: 'Halton',
       email: 'derek.twigg.mp@parliament.uk',
-      name: 'Derek Twigg',
       party: 'Labour',
       twitter: {
         handle: '@derektwiggmp',
@@ -4989,10 +4559,9 @@ const data = {
       website: 'http://www.derektwigg.org/',
     },
     {
-      addressAs: 'Stephen Twigg MP',
+      name: 'Stephen Twigg MP',
       constituency: 'Liverpool, West Derby',
       email: 'stephen.twigg.mp@parliament.uk',
-      name: 'Stephen Twigg',
       party: 'Labour (Co-op)',
       twitter: {
         handle: '@stephentwigg',
@@ -5001,10 +4570,9 @@ const data = {
       website: 'http://stephentwiggmp.co.uk/',
     },
     {
-      addressAs: 'Chuka Umunna MP',
+      name: 'Chuka Umunna MP',
       constituency: 'Streatham',
       email: 'chuka.umunna.mp@parliament.uk',
-      name: '',
       party: 'Independent',
       twitter: {
         handle: '@chukaumunna',
@@ -5013,19 +4581,17 @@ const data = {
       website: 'http://www.chuka.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Edward Vaizey MP',
+      name: 'Rt Hon Edward Vaizey MP',
       constituency: 'Wantage',
       email: 'vaizeye@parliament.uk',
-      name: '',
       party: 'Conservative',
       twitter: { handle: '@edvaizey', url: 'https://twitter.com/edvaizey' },
       website: 'http://www.vaizey.com/',
     },
     {
-      addressAs: 'Rt Hon Keith Vaz MP',
+      name: 'Rt Hon Keith Vaz MP',
       constituency: 'Leicester East',
       email: 'vazk@parliament.uk',
-      name: 'Keith Vaz',
       party: 'Labour',
       twitter: {
         handle: '@keith4leicester',
@@ -5034,10 +4600,9 @@ const data = {
       website: 'http://www.keithvazmp.com/',
     },
     {
-      addressAs: 'Valerie Vaz MP',
+      name: 'Valerie Vaz MP',
       constituency: 'Walsall South',
       email: 'valerie.vaz.mp@parliament.uk',
-      name: 'Valerie Vaz',
       party: 'Labour',
       twitter: {
         handle: '@valerie_vazmp',
@@ -5046,10 +4611,9 @@ const data = {
       website: 'http://www.valerievazmp.co.uk/',
     },
     {
-      addressAs: 'Martin Vickers MP',
+      name: 'Martin Vickers MP',
       constituency: 'Cleethorpes',
       email: 'martin.vickers.mp@parliament.uk',
-      name: 'Martin Vickers',
       party: 'Conservative',
       twitter: {
         handle: '@martinvickers',
@@ -5058,10 +4622,9 @@ const data = {
       website: 'http://www.martinvickers.org.uk/',
     },
     {
-      addressAs: 'Mr Robin Walker MP',
+      name: 'Mr Robin Walker MP',
       constituency: 'Worcester',
       email: 'robin.walker.mp@parliament.uk',
-      name: 'Mr Walker',
       party: 'Conservative',
       twitter: {
         handle: '@walkerworcester',
@@ -5070,10 +4633,9 @@ const data = {
       website: 'http://www.walker4worcester.com/',
     },
     {
-      addressAs: 'Rt Hon Ben Wallace MP',
+      name: 'Rt Hon Ben Wallace MP',
       constituency: 'Wyre and Preston North',
       email: 'wallaceb@parliament.uk',
-      name: 'Mr Wallace',
       party: 'Conservative',
       twitter: {
         handle: '@bwallacemp',
@@ -5082,10 +4644,9 @@ const data = {
       website: 'http://www.benwallace.org.uk/',
     },
     {
-      addressAs: 'David Warburton MP',
+      name: 'David Warburton MP',
       constituency: 'Somerton and Frome',
       email: 'david.warburton.mp@parliament.uk',
-      name: 'David Warburton',
       party: 'Conservative',
       twitter: {
         handle: '@djwarburton',
@@ -5094,10 +4655,9 @@ const data = {
       website: 'http://davidwarburton.org/',
     },
     {
-      addressAs: 'Matt Warman MP',
+      name: 'Matt Warman MP',
       constituency: 'Boston and Skegness',
       email: 'matt.warman.mp@parliament.uk',
-      name: 'Matt Warman',
       party: 'Conservative',
       twitter: {
         handle: '@mattwarman',
@@ -5106,10 +4666,9 @@ const data = {
       website: 'http://www.mattwarman.co.uk/',
     },
     {
-      addressAs: 'Tom Watson MP',
+      name: 'Tom Watson MP',
       constituency: 'West Bromwich East',
       email: 'tom.watson.mp@parliament.uk',
-      name: 'Tom Watson',
       party: 'Labour',
       twitter: {
         handle: '@tom_watson',
@@ -5118,10 +4677,9 @@ const data = {
       website: 'http://www.tom-watson.com/',
     },
     {
-      addressAs: 'Catherine West MP',
+      name: 'Catherine West MP',
       constituency: 'Hornsey and Wood Green',
       email: 'catherine.west.mp@parliament.uk',
-      name: 'Catherine West',
       party: 'Labour',
       twitter: {
         handle: '@catherinewest1',
@@ -5130,10 +4688,9 @@ const data = {
       website: 'https://catherinewest-labourclp97.nationbuilder.com/',
     },
     {
-      addressAs: 'Matt Western MP',
+      name: 'Matt Western MP',
       constituency: 'Warwick and Leamington',
       email: 'matt.western.mp@parliament.uk',
-      name: 'Matt Western',
       party: 'Labour',
       twitter: {
         handle: '@mattwestern_',
@@ -5142,10 +4699,9 @@ const data = {
       website: 'http://www.mattwestern.org/',
     },
     {
-      addressAs: 'Helen Whately MP',
+      name: 'Helen Whately MP',
       constituency: 'Faversham and Mid Kent',
       email: 'helen.whately.mp@parliament.uk',
-      name: 'Helen Whately',
       party: 'Conservative',
       twitter: {
         handle: '@helen_whately',
@@ -5154,10 +4710,9 @@ const data = {
       website: 'http://www.helenwhately.co.uk/',
     },
     {
-      addressAs: 'Mrs Heather Wheeler MP',
+      name: 'Mrs Heather Wheeler MP',
       constituency: 'South Derbyshire',
       email: 'heather.wheeler.mp@parliament.uk',
-      name: 'Mrs Wheeler',
       party: 'Conservative',
       twitter: {
         handle: '@heatherwheeler',
@@ -5166,10 +4721,9 @@ const data = {
       website: 'http://www.heatherwheeler.org.uk/',
     },
     {
-      addressAs: 'Dr Alan Whitehead MP',
+      name: 'Dr Alan Whitehead MP',
       constituency: 'Southampton, Test',
       email: 'whiteheada@parliament.uk',
-      name: 'Dr Whitehead',
       party: 'Labour',
       twitter: {
         handle: '@alanwhiteheadmp',
@@ -5178,10 +4732,9 @@ const data = {
       website: 'http://www.alan-whitehead.org.uk/',
     },
     {
-      addressAs: 'Dr Philippa Whitford MP',
+      name: 'Dr Philippa Whitford MP',
       constituency: 'Central Ayrshire',
       email: 'philippa.whitford.mp@parliament.uk',
-      name: 'Dr Whitford',
       party: 'Scottish National Party',
       twitter: {
         handle: '@dr_philippaw',
@@ -5190,10 +4743,9 @@ const data = {
       website: 'http://whitford.scot/',
     },
     {
-      addressAs: 'Craig Whittaker MP',
+      name: 'Craig Whittaker MP',
       constituency: 'Calder Valley',
       email: 'craig.whittaker.mp@parliament.uk',
-      name: 'Craig Whittaker',
       party: 'Conservative',
       twitter: {
         handle: '@cwhittakermp',
@@ -5202,10 +4754,9 @@ const data = {
       website: 'https://www.craigwhittaker.org.uk/',
     },
     {
-      addressAs: 'Rt Hon John Whittingdale MP',
+      name: 'Rt Hon John Whittingdale MP',
       constituency: 'Maldon',
       email: 'john.whittingdale.mp@parliament.uk',
-      name: 'Mr Whittingdale',
       party: 'Conservative',
       twitter: {
         handle: '@jwhittingdale',
@@ -5214,10 +4765,9 @@ const data = {
       website: 'http://www.johnwhittingdale.org.uk/',
     },
     {
-      addressAs: 'Rt Hon Gavin Williamson MP',
+      name: 'Rt Hon Gavin Williamson MP',
       constituency: 'South Staffordshire',
       email: 'gavin.williamson.mp@parliament.uk',
-      name: 'Gavin Williamson',
       party: 'Conservative',
       twitter: {
         handle: '@gwilliamsonmp',
@@ -5226,10 +4776,9 @@ const data = {
       website: 'http://www.gavinwilliamson.org/',
     },
     {
-      addressAs: 'Phil Wilson MP',
+      name: 'Phil Wilson MP',
       constituency: 'Sedgefield',
       email: 'phil.wilson.mp@parliament.uk',
-      name: 'Phil Wilson',
       party: 'Labour',
       twitter: {
         handle: '@philwilsonmp',
@@ -5238,10 +4787,9 @@ const data = {
       website: 'http://www.phil4sedgefield.uk/',
     },
     {
-      addressAs: 'Rt Hon Sammy Wilson MP',
+      name: 'Rt Hon Sammy Wilson MP',
       constituency: 'East Antrim',
       email: 'barronj@parliament.uk',
-      name: 'Sammy Wilson',
       party: 'Democratic Unionist Party',
       twitter: {
         handle: '@eastantrimmp',
@@ -5250,10 +4798,9 @@ const data = {
       website: 'http://www.sammywilson.org/',
     },
     {
-      addressAs: 'Pete Wishart MP',
+      name: 'Pete Wishart MP',
       constituency: 'Perth and North Perthshire',
       email: 'wishartp@parliament.uk',
-      name: 'Pete Wishart',
       party: 'Scottish National Party',
       twitter: {
         handle: '@petewishart',
@@ -5262,10 +4809,9 @@ const data = {
       website: 'http://www.petewishartmp.scot/',
     },
     {
-      addressAs: 'Dr Sarah Wollaston MP',
+      name: 'Dr Sarah Wollaston MP',
       constituency: 'Totnes',
       email: 'sarah.wollaston.mp@parliament.uk',
-      name: 'Dr Wollaston',
       party: 'Independent',
       twitter: {
         handle: '@sarahwollaston',
@@ -5274,19 +4820,17 @@ const data = {
       website: 'http://www.drsarah.org.uk/',
     },
     {
-      addressAs: 'Mike Wood MP',
+      name: 'Mike Wood MP',
       constituency: 'Dudley South',
       email: 'mikej.wood.mp@parliament.uk',
-      name: 'Mike Wood',
       party: 'Conservative',
       twitter: { handle: '@mikejwood', url: 'https://twitter.com/mikejwood' },
       website: 'http://www.mikewood.mp/',
     },
     {
-      addressAs: 'John Woodcock MP',
+      name: 'John Woodcock MP',
       constituency: 'Barrow and Furness',
       email: 'john.woodcock.mp@parliament.uk',
-      name: 'John Woodcock',
       party: 'Independent',
       twitter: {
         handle: '@jwoodcockmp',
@@ -5295,10 +4839,9 @@ const data = {
       website: 'http://www.johnwoodcock.org/',
     },
     {
-      addressAs: 'Mr William Wragg MP',
+      name: 'Mr William Wragg MP',
       constituency: 'Hazel Grove',
       email: 'william@williamwragg.org.uk',
-      name: 'Mr Wragg',
       party: 'Conservative',
       twitter: {
         handle: '@william_wragg',
@@ -5307,10 +4850,9 @@ const data = {
       website: 'http://www.williamwragg.org.uk/',
     },
     {
-      addressAs: 'Nadhim Zahawi MP',
+      name: 'Nadhim Zahawi MP',
       constituency: 'Stratford-on-Avon',
       email: 'nadhim.zahawi.mp@parliament.uk',
-      name: 'Nadhim Zahawi',
       party: 'Conservative',
       twitter: {
         handle: '@nadhimzahawi',
@@ -5319,10 +4861,9 @@ const data = {
       website: 'http://www.zahawi.com/',
     },
     {
-      addressAs: 'Daniel Zeichner MP',
+      name: 'Daniel Zeichner MP',
       constituency: 'Cambridge',
       email: 'daniel@danielzeichner.co.uk',
-      name: 'Daniel Zeichner',
       party: 'Labour',
       twitter: {
         handle: '@danielzeichner',

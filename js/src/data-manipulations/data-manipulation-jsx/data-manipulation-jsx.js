@@ -3,10 +3,9 @@ const { commons } = data;
 /*
 Schema
 {
-  addressAs: 'Rt Hon Diane Abbott MP',
+  name: 'Rt Hon Diane Abbott MP',
   constituency: 'Hackney North and Stoke Newington',
   email: 'diane.abbott.office@parliament.uk',
-  name: 'Ms Abbott',
   party: 'Labour',
   twitter: {
     handle: '@hackneyabbott',
@@ -60,8 +59,8 @@ const Commons = () => (
     <h1>Member of Parliament list</h1>
     <p>Find your local MP:</p>
     {commons.map(mp => (
-      <section key={mp.addressAs}>
-        <h2>{mp.addressAs}</h2>
+      <section key={mp.name}>
+        <h2>{mp.name}</h2>
         <ProfileImages twitterHandle={mp.twitter.handle} party={mp.party} />
         <p>{`Constituency: ${mp.constituency}`}</p>
         <p>{`Party: ${mp.party}`}</p>
